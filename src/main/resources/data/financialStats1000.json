@@ -1,0 +1,1000 @@
+{ "_id" : "1st-capital-bank", "symbol" : "FISB", "exchange" : "PINK" }
+{ "_id" : "roku", "symbol" : "ROKU", "exchange" : "NASDAQ" }
+{ "_id" : "agrium", "symbol" : "AGU", "exchange" : "NYSE" }
+{ "_id" : "mosaic-usa-llc", "symbol" : "MOS", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 9.282059264E9, "EBITDA" : 2.098499968E9, "PERatio" : 16.616, "PEGRatio" : 2.9, "wallStreetTargetPrice" : 32.47, "bookValue" : 27.479, "dividendShare" : 0.2, "dividendYield" : 0.0086, "earningsShare" : 1.448, "ePSEstimateCurrentYear" : 1.72, "ePSEstimateNextYear" : 2.36, "ePSEstimateNextQuarter" : 0.57, "profitMargin" : 0.0585, "operatingMarginTTM" : 0.1217, "returnOnAssetsTTM" : 0.0355, "returnOnEquityTTM" : 0.0521, "revenueTTM" : 9.55330048E9, "revenuePerShareTTM" : 24.78, "quarterlyRevenueGrowthYOY" : 0.018, "grossProfitTTM" : 1.4494E9, "dilutedEpsTTM" : 1.448, "quarterlyEarningsGrowthYOY" : 2.085 }, "valuation" : { "forwardPE" : 10.1949, "priceBookMRQ" : 0.8756, "enterpriseValueRevenue" : 1.475, "enterpriseValueEbitda" : 6.716 }, "technicals" : { "beta" : 1.6556, "WeekHigh52" : 37.37, "WeekLow52" : 20.81, "DayMA50" : 23.0617, "DayMA200" : 28.2799, "sharesShort" : 8884329.0, "sharesShortPriorMonth" : 5179845.0, "shortRatio" : 1.84, "shortPercent" : 0.0286 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.2, "forwardAnnualDividendYield" : 0.0086, "payoutRatio" : 0.069 } }
+{ "_id" : "zai-lab", "symbol" : "ZLAB", "exchange" : "NASDAQ" }
+{ "_id" : "1st-constitution-bank", "symbol" : "FCCY", "exchange" : "NASDAQ" }
+{ "_id" : "vtv-therapeutics", "symbol" : "VTVT", "exchange" : "NASDAQ" }
+{ "_id" : "workday", "symbol" : "WDAY", "exchange" : "NASDAQ" }
+{ "_id" : "1st-source-bank", "symbol" : "SRCE", "exchange" : "NASDAQ" }
+{ "_id" : "urban-outfitters", "symbol" : "URBN", "exchange" : "NASDAQ" }
+{ "_id" : "deutsche-effecten-und-wechsel-beteiligungsgesellschaft", "symbol" : "EFF", "exchange" : "XETRA" }
+{ "_id" : "eutelsat", "symbol" : "ETL", "exchange" : "PA" }
+{ "_id" : "turtle-beach", "symbol" : "HEAR", "exchange" : "NASDAQ" }
+{ "_id" : "20-microns-nano-minerals-limited", "symbol" : "20MICRONS", "exchange" : "NSE" }
+{ "_id" : "everbridge", "symbol" : "EVBG", "exchange" : "NASDAQ" }
+{ "_id" : "tmmi-tmm-inc", "symbol" : "TMMI", "exchange" : "PINK" }
+{ "_id" : "eventbrite", "symbol" : "EB", "exchange" : "NYSE" }
+{ "_id" : "ever-quote", "symbol" : "EVER", "exchange" : "NASDAQ" }
+{ "_id" : "activision-blizzard-2", "symbol" : "AIY", "exchange" : "BE" }
+{ "_id" : "activision-blizzard", "symbol" : "ATVI", "exchange" : "NASDAQ" }
+{ "_id" : "21st-century-technology-plc", "symbol" : "C21", "exchange" : "LSE" }
+{ "_id" : "rollins", "symbol" : "ROL", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.2397008896E10, "EBITDA" : 3.70481984E8, "PERatio" : 54.4604, "PEGRatio" : 6.22, "wallStreetTargetPrice" : 40.1, "bookValue" : 2.196, "dividendShare" : 0.42, "dividendYield" : 0.0112, "earningsShare" : 0.695, "ePSEstimateCurrentYear" : 0.74, "ePSEstimateNextYear" : 0.83, "ePSEstimateNextQuarter" : 0.22, "profitMargin" : 0.1234, "operatingMarginTTM" : 0.1662, "returnOnAssetsTTM" : 0.1647, "returnOnEquityTTM" : 0.3291, "revenueTTM" : 1.841891968E9, "revenuePerShareTTM" : 5.627, "quarterlyRevenueGrowthYOY" : 0.05, "grossProfitTTM" : 9.27128E8, "dilutedEpsTTM" : 0.695, "quarterlyEarningsGrowthYOY" : 0.089 }, "valuation" : { "forwardPE" : 45.6024, "priceBookMRQ" : 17.2359, "enterpriseValueRevenue" : 6.731, "enterpriseValueEbitda" : 33.462 }, "technicals" : { "beta" : 0.7399, "WeekHigh52" : 43.91, "WeekLow52" : 33.75, "DayMA50" : 37.3057, "DayMA200" : 38.7038, "sharesShort" : 1.4996106E7, "sharesShortPriorMonth" : 1.4905917E7, "shortRatio" : 11.56, "shortPercent" : 0.1062 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.42, "forwardAnnualDividendYield" : 0.0112, "payoutRatio" : 0.55 } }
+{ "_id" : "xunlei", "symbol" : "XNET", "exchange" : "NASDAQ" }
+{ "_id" : "evergy-3", "symbol" : "EVRG", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.4865568768E10, "EBITDA" : 1.842099968E9, "PERatio" : 25.6421, "wallStreetTargetPrice" : 59.75, "bookValue" : 38.486, "dividendShare" : 1.9, "dividendYield" : 0.0327, "earningsShare" : 2.375, "ePSEstimateCurrentYear" : 2.92, "ePSEstimateNextYear" : 3.15, "ePSEstimateNextQuarter" : 1.42, "profitMargin" : 0.1175, "operatingMarginTTM" : 0.2144, "returnOnAssetsTTM" : 0.0348, "returnOnEquityTTM" : 0.0885, "revenueTTM" : 4.892599808E9, "revenuePerShareTTM" : 20.263, "quarterlyRevenueGrowthYOY" : 1.027, "grossProfitTTM" : 1.891E9, "dilutedEpsTTM" : 2.375, "quarterlyEarningsGrowthYOY" : 0.071 }, "valuation" : { "forwardPE" : 19.3333, "priceBookMRQ" : 1.5824, "enterpriseValueRevenue" : 4.928, "enterpriseValueEbitda" : 13.089 }, "technicals" : { "beta" : 0.0704, "WeekHigh52" : 61.37, "WeekLow52" : 53.91, "DayMA50" : 58.8663, "DayMA200" : 57.7239, "sharesShort" : 4499578.0, "sharesShortPriorMonth" : 4578670.0, "shortRatio" : 3.09 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.9, "forwardAnnualDividendYield" : 0.0327, "payoutRatio" : 0.7328 } }
+{ "_id" : "21vianet", "symbol" : "VNET", "exchange" : "LSE" }
+{ "_id" : "medibio", "symbol" : "MEB", "exchange" : "AU" }
+{ "_id" : "22-capital-partners", "symbol" : "CPA", "exchange" : "WAR" }
+{ "_id" : "22nd-century-group", "symbol" : "XXII", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.567996E8, "EBITDA" : -2.3028154E7, "wallStreetTargetPrice" : 11.5, "bookValue" : 0.56, "earningsShare" : 0.092, "profitMargin" : 0.4295, "operatingMarginTTM" : 0.9182, "returnOnAssetsTTM" : 0.1907, "returnOnEquityTTM" : 0.155, "revenueTTM" : 2.6603956E7, "revenuePerShareTTM" : 0.214, "quarterlyRevenueGrowthYOY" : 0.029, "grossProfitTTM" : 898987.0, "dilutedEpsTTM" : 0.092 }, "valuation" : { "forwardPE" : 13.7333, "priceBookMRQ" : 3.6786, "enterpriseValueRevenue" : 7.65, "enterpriseValueEbitda" : 8.838 }, "technicals" : { "beta" : 1.5047, "WeekHigh52" : 3.29, "WeekLow52" : 1.58, "DayMA50" : 2.062, "DayMA200" : 2.192, "sharesShort" : 1.8185215E7, "sharesShortPriorMonth" : 2.1834817E7, "shortRatio" : 12.34, "shortPercent" : 0.153 } }
+{ "_id" : "24option-binary-options-trading", "symbol" : "OINA", "exchange" : "BE" }
+{ "_id" : "2nd-byte-limited", "symbol" : "AUTO", "exchange" : "LSE" }
+{ "_id" : "2u-inc", "symbol" : "TWOU", "exchange" : "NASDAQ" }
+{ "_id" : "2valorise", "symbol" : "VALOR", "exchange" : "BR" }
+{ "_id" : "3-d-eye-solutions", "symbol" : "TDEY", "exchange" : "PINK" }
+{ "_id" : "otp-bank", "symbol" : "OTP", "exchange" : "MU" }
+{ "_id" : "30-dc", "symbol" : "TDCH", "exchange" : "PINK" }
+{ "_id" : "3d-pioneer-systems", "symbol" : "DPSM", "exchange" : "PINK" }
+{ "_id" : "exl-service-inc-india", "symbol" : "EXLS", "exchange" : "NASDAQ" }
+{ "_id" : "metals-creek-resources", "symbol" : "MEK", "exchange" : "V" }
+{ "_id" : "3d-signatures-inc", "symbol" : "DXD", "exchange" : "V" }
+{ "_id" : "exelixis", "symbol" : "EXEL", "exchange" : "NASDAQ" }
+{ "_id" : "expedia-inc", "symbol" : "EXPE", "exchange" : "NASDAQ" }
+{ "_id" : "3d-systems-benelux", "symbol" : "DDD", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 9.73202944E8, "EBITDA" : 1.022E7, "PEGRatio" : 2.98, "wallStreetTargetPrice" : 9.5, "bookValue" : 4.793, "earningsShare" : 0.434, "ePSEstimateCurrentYear" : 0.07, "ePSEstimateNextYear" : 0.15, "ePSEstimateNextQuarter" : 0.01, "profitMargin" : 0.0726, "operatingMarginTTM" : 0.0698, "returnOnAssetsTTM" : 0.0325, "returnOnEquityTTM" : 0.0831, "revenueTTM" : 6.73771008E8, "revenuePerShareTTM" : 5.979, "quarterlyRevenueGrowthYOY" : 0.084, "grossProfitTTM" : 3.24394E8, "dilutedEpsTTM" : 0.434 }, "valuation" : { "forwardPE" : 55.6, "priceBookMRQ" : 1.74, "enterpriseValueRevenue" : 1.433, "enterpriseValueEbitda" : 94.46 }, "technicals" : { "beta" : 2.5333, "WeekHigh52" : 21.78, "WeekLow52" : 7.81, "DayMA50" : 8.792, "DayMA200" : 10.8071, "sharesShort" : 2.442792E7, "sharesShortPriorMonth" : 2.345882E7, "shortRatio" : 10.45, "shortPercent" : 0.2525 } }
+{ "_id" : "abzena-plc", "symbol" : "ABZA", "exchange" : "LSE" }
+{ "_id" : "expert-system", "symbol" : "EXSY", "exchange" : "MI" }
+{ "_id" : "experian", "symbol" : "EXPN", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 2.1478049792E10, "EBITDA" : 1.508999936E9, "PERatio" : 31.3289, "PEGRatio" : 2.54, "wallStreetTargetPrice" : 25.64, "bookValue" : 2.751, "dividendShare" : 0.36, "dividendYield" : 0.0151, "earningsShare" : 76.0, "profitMargin" : 0.143, "operatingMarginTTM" : 0.2463, "returnOnAssetsTTM" : 0.0913, "returnOnEquityTTM" : 0.2816, "revenueTTM" : 4.861000192E9, "revenuePerShareTTM" : 5.377, "quarterlyRevenueGrowthYOY" : 0.05, "grossProfitTTM" : 2.079E9, "dilutedEpsTTM" : 76.0, "quarterlyEarningsGrowthYOY" : 0.148 }, "valuation" : { "forwardPE" : 21.2589, "priceBookMRQ" : 865.5035, "enterpriseValueRevenue" : 5.173, "enterpriseValueEbitda" : 16.664 }, "technicals" : { "beta" : 0.8774, "WeekHigh52" : 2448.0, "WeekLow52" : 1710.0, "DayMA50" : 2317.5715, "DayMA200" : 2076.028 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.36, "forwardAnnualDividendYield" : 0.0151, "payoutRatio" : 0.5892 } }
+{ "_id" : "salvarx-group-plc", "symbol" : "SALV", "exchange" : "LSE" }
+{ "_id" : "express-scripts-foundation", "symbol" : "ESRX", "exchange" : "NASDAQ" }
+{ "_id" : "exprivia", "symbol" : "XPR", "exchange" : "MI" }
+{ "_id" : "grameen-koota-financial-services-pvt-ltd", "symbol" : "CREDITACC", "exchange" : "NSE" }
+{ "_id" : "3dx-ray", "symbol" : "IGE", "exchange" : "LSE" }
+{ "_id" : "scancell", "symbol" : "SCLP", "exchange" : "LSE" }
+{ "_id" : "alexandria-real-estate-equities", "symbol" : "ARE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.688957952E10, "EBITDA" : 8.67278976E8, "PERatio" : 44.7085, "PEGRatio" : 844.2, "wallStreetTargetPrice" : 149.0, "bookValue" : 67.54, "dividendShare" : 4.0, "dividendYield" : 0.0269, "earningsShare" : 3.345, "ePSEstimateCurrentYear" : 1.93, "ePSEstimateNextYear" : 2.38, "ePSEstimateNextQuarter" : 0.48, "profitMargin" : 0.2714, "operatingMarginTTM" : 0.2858, "returnOnAssetsTTM" : 0.0173, "returnOnEquityTTM" : 0.0528, "revenueTTM" : 1.373705984E9, "revenuePerShareTTM" : 12.983, "quarterlyRevenueGrowthYOY" : 0.12, "grossProfitTTM" : 9.53881E8, "dilutedEpsTTM" : 3.345, "quarterlyEarningsGrowthYOY" : 0.159 }, "valuation" : { "forwardPE" : 62.8361, "priceBookMRQ" : 2.2142, "enterpriseValueRevenue" : 17.18, "enterpriseValueEbitda" : 27.213 }, "technicals" : { "beta" : 0.7102, "WeekHigh52" : 153.51, "WeekLow52" : 109.04, "DayMA50" : 145.8749, "DayMA200" : 135.1538, "sharesShort" : 4675938.0, "sharesShortPriorMonth" : 1470219.0, "shortRatio" : 5.76, "shortPercent" : 0.0496 }, "splitDividends" : { "forwardAnnualDividendRate" : 4.0, "forwardAnnualDividendYield" : 0.0269, "payoutRatio" : 1.148 } }
+{ "_id" : "3i-india-pvt-ltd", "symbol" : "III", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 1.0611454976E10, "PERatio" : 7.0147, "wallStreetTargetPrice" : 1082.6, "dividendYield" : 3.0E-4, "grossProfitTTM" : 1.574E9 }, "valuation" : { "forwardPE" : 9.2834 }, "technicals" : { "WeekHigh52" : 1101.5, "WeekLow52" : 7.95, "DayMA50" : 994.4714, "DayMA200" : 938.378 }, "splitDividends" : { "forwardAnnualDividendYield" : 3.0E-4 } }
+{ "_id" : "exxonmobil-refining-supply-company", "symbol" : "XOM", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.1868567552E11, "EBITDA" : 3.7506998272E10, "PERatio" : 17.3548, "PEGRatio" : 1.8, "wallStreetTargetPrice" : 84.97, "bookValue" : 45.194, "dividendShare" : 3.48, "dividendYield" : 0.0459, "earningsShare" : 4.34, "ePSEstimateCurrentYear" : 4.01, "ePSEstimateNextYear" : 5.5, "ePSEstimateNextQuarter" : 1.22, "profitMargin" : 0.0673, "operatingMarginTTM" : 0.0703, "returnOnAssetsTTM" : 0.0343, "returnOnEquityTTM" : 0.0969, "revenueTTM" : 2.75542016E11, "revenuePerShareTTM" : 64.53, "quarterlyRevenueGrowthYOY" : 0.058, "grossProfitTTM" : 8.858E10, "dilutedEpsTTM" : 4.34, "quarterlyEarningsGrowthYOY" : 0.495 }, "valuation" : { "forwardPE" : 13.6945, "priceBookMRQ" : 1.6666, "enterpriseValueRevenue" : 1.332, "enterpriseValueEbitda" : 9.789 }, "technicals" : { "beta" : 1.1161, "WeekHigh52" : 87.36, "WeekLow52" : 64.65, "DayMA50" : 75.1994, "DayMA200" : 76.3868, "sharesShort" : 3.4449245E7, "sharesShortPriorMonth" : 3.7868786E7, "shortRatio" : 3.0, "shortPercent" : 0.0081 }, "splitDividends" : { "forwardAnnualDividendRate" : 3.48, "forwardAnnualDividendYield" : 0.0459, "payoutRatio" : 0.7558 } }
+{ "_id" : "3i-infotech", "symbol" : "3IINFOTECH", "exchange" : "NSE" }
+{ "_id" : "nektar-therapeutics", "symbol" : "NKTR", "exchange" : "NASDAQ" }
+{ "_id" : "lannett-company", "symbol" : "LCI", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.15320848E8, "EBITDA" : 1.9871E8, "PEGRatio" : 0.83, "wallStreetTargetPrice" : 8.88, "bookValue" : 8.95, "earningsShare" : 7.332, "ePSEstimateNextQuarter" : 0.11, "profitMargin" : 0.3984, "operatingMarginTTM" : 0.2054, "returnOnAssetsTTM" : 0.0628, "returnOnEquityTTM" : 0.5831, "revenueTTM" : 6.92476992E8, "revenuePerShareTTM" : 18.404, "quarterlyRevenueGrowthYOY" : 0.009, "grossProfitTTM" : 3.20834E8, "dilutedEpsTTM" : 7.332, "quarterlyEarningsGrowthYOY" : 0.182 }, "valuation" : { "forwardPE" : 6.3111, "priceBookMRQ" : 0.6346, "enterpriseValueRevenue" : 1.125, "enterpriseValueEbitda" : 3.921 }, "technicals" : { "beta" : 3.0283, "WeekHigh52" : 14.85, "WeekLow52" : 3.33, "DayMA50" : 6.1806, "DayMA200" : 7.0759, "sharesShort" : 2.1197543E7, "sharesShortPriorMonth" : 2.1625509E7, "shortRatio" : 12.53, "shortPercent" : 0.7994 } }
+{ "_id" : "vostok-new-ventures", "symbol" : "VNV-SDB", "exchange" : "ST" }
+{ "_id" : "echostar", "symbol" : "SATS", "exchange" : "NASDAQ" }
+{ "_id" : "parkervision", "symbol" : "PRKR", "exchange" : "OTCQB" }
+{ "_id" : "3i-infrastructure", "symbol" : "3IN", "exchange" : "LSE" }
+{ "_id" : "3p-learning", "symbol" : "3PL", "exchange" : "AU" }
+{ "_id" : "dream-incubator", "symbol" : "4310", "exchange" : "TSE" }
+{ "_id" : "dixons-carphone", "symbol" : "DC", "exchange" : "LSE" }
+{ "_id" : "3pea-international", "symbol" : "TPNL", "exchange" : "NASDAQ" }
+{ "_id" : "factset", "symbol" : "FDS", "exchange" : "NYSE" }
+{ "_id" : "fair-isaac-asia-pacific-corp", "symbol" : "FICO", "exchange" : "NYSE" }
+{ "_id" : "3power-energy-group", "symbol" : "PSPW", "exchange" : "PINK" }
+{ "_id" : "inno-instruments", "symbol" : "215790", "exchange" : "KQ" }
+{ "_id" : "3r-group-ltd", "symbol" : "S8A", "exchange" : "BE" }
+{ "_id" : "rieter", "symbol" : "RIEN", "exchange" : "SW" }
+{ "_id" : "four-corners-property-trust", "symbol" : "FCPT", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.975748736E9, "EBITDA" : 1.15079E8, "PERatio" : 22.6101, "wallStreetTargetPrice" : 30.0, "bookValue" : 9.995, "dividendShare" : 1.15, "dividendYield" : 0.0404, "earningsShare" : 1.272, "ePSEstimateCurrentYear" : 1.03, "ePSEstimateNextYear" : 1.12, "ePSEstimateNextQuarter" : 0.26, "profitMargin" : 0.5635, "operatingMarginTTM" : 0.6179, "returnOnAssetsTTM" : 0.0473, "returnOnEquityTTM" : 0.1383, "revenueTTM" : 1.48432992E8, "revenuePerShareTTM" : 2.257, "quarterlyRevenueGrowthYOY" : 0.138, "grossProfitTTM" : 1.24621E8, "dilutedEpsTTM" : 1.272, "quarterlyEarningsGrowthYOY" : 0.013 }, "valuation" : { "forwardPE" : 25.6786, "priceBookMRQ" : 2.8774, "enterpriseValueRevenue" : 16.918, "enterpriseValueEbitda" : 21.821 }, "technicals" : { "beta" : 0.3391, "WeekHigh52" : 29.85, "WeekLow52" : 22.83, "DayMA50" : 28.6963, "DayMA200" : 27.9979, "sharesShort" : 1548586.0, "sharesShortPriorMonth" : 1504213.0, "shortRatio" : 4.56, "shortPercent" : 0.0327 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.15, "forwardAnnualDividendYield" : 0.0404, "payoutRatio" : 0.8789 } }
+{ "_id" : "profound", "symbol" : "PRFMF", "exchange" : "OTCQX" }
+{ "_id" : "pegatron", "symbol" : "4938", "exchange" : "TW" }
+{ "_id" : "monster-beverage-corporation", "symbol" : "MNST", "exchange" : "MX" }
+{ "_id" : "fanuc", "symbol" : "FANUF", "exchange" : "PINK" }
+{ "_id" : "wex", "symbol" : "WEX", "exchange" : "NYSE" }
+{ "_id" : "3sbio", "symbol" : "1530", "exchange" : "HK" }
+{ "_id" : "farfetch-com-limited", "symbol" : "FTCH", "exchange" : "NYSE" }
+{ "_id" : "a-o-smith", "symbol" : "AOS", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 7.5789952E9, "EBITDA" : 6.15900032E8, "PERatio" : 17.8324, "PEGRatio" : 3.59, "wallStreetTargetPrice" : 57.8, "bookValue" : 10.462, "dividendShare" : 0.88, "dividendYield" : 0.0194, "earningsShare" : 2.542, "ePSEstimateCurrentYear" : 2.7, "ePSEstimateNextYear" : 2.95, "ePSEstimateNextQuarter" : 0.72, "profitMargin" : 0.1381, "operatingMarginTTM" : 0.1721, "returnOnAssetsTTM" : 0.1083, "returnOnEquityTTM" : 0.2515, "revenueTTM" : 3.148100096E9, "revenuePerShareTTM" : 18.556, "quarterlyRevenueGrowthYOY" : 0.051, "grossProfitTTM" : 1.3055E9, "dilutedEpsTTM" : 2.542, "quarterlyEarningsGrowthYOY" : 0.07 }, "valuation" : { "forwardPE" : 15.3661, "priceBookMRQ" : 4.3328, "enterpriseValueRevenue" : 2.309, "enterpriseValueEbitda" : 11.804 }, "technicals" : { "beta" : 1.5857, "WeekHigh52" : 61.85, "WeekLow52" : 40.34, "DayMA50" : 46.1371, "DayMA200" : 48.6832, "sharesShort" : 8176031.0, "sharesShortPriorMonth" : 5109009.0, "shortRatio" : 2.86, "shortPercent" : 0.0657 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.88, "forwardAnnualDividendYield" : 0.0194, "payoutRatio" : 0.315 } }
+{ "_id" : "3u-holding-ag", "symbol" : "UUU", "exchange" : "F" }
+{ "_id" : "enersys", "symbol" : "ENS", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.742406656E9, "EBITDA" : 3.36719008E8, "PERatio" : 17.1555, "PEGRatio" : 2.44, "wallStreetTargetPrice" : 94.0, "bookValue" : 30.086, "dividendShare" : 0.7, "dividendYield" : 0.0124, "earningsShare" : 3.73, "ePSEstimateNextQuarter" : 1.4, "profitMargin" : 0.0571, "operatingMarginTTM" : 0.0973, "returnOnAssetsTTM" : 0.061, "returnOnEquityTTM" : 0.1292, "revenueTTM" : 2.808016896E9, "revenuePerShareTTM" : 66.328, "quarterlyRevenueGrowthYOY" : 0.166, "grossProfitTTM" : 7.03405E8, "dilutedEpsTTM" : 3.73, "quarterlyEarningsGrowthYOY" : 0.663 }, "valuation" : { "forwardPE" : 10.141, "priceBookMRQ" : 2.1269, "enterpriseValueRevenue" : 1.217, "enterpriseValueEbitda" : 10.148 }, "technicals" : { "beta" : 1.3004, "WeekHigh52" : 89.83, "WeekLow52" : 55.51, "DayMA50" : 62.9831, "DayMA200" : 71.615, "sharesShort" : 801064.0, "sharesShortPriorMonth" : 1134423.0, "shortRatio" : 1.99, "shortPercent" : 0.0214 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.7, "forwardAnnualDividendYield" : 0.0124, "payoutRatio" : 0.1877 } }
+{ "_id" : "anaeco", "symbol" : "ANQ", "exchange" : "AU" }
+{ "_id" : "teck", "symbol" : "TECK", "exchange" : "NYSE" }
+{ "_id" : "4-cable-tv", "symbol" : "CATV", "exchange" : "PINK" }
+{ "_id" : "49-north-resources", "symbol" : "FNR", "exchange" : "V" }
+{ "_id" : "fastenal-co-mn", "symbol" : "FAST", "exchange" : "NASDAQ" }
+{ "_id" : "goldcorp", "symbol" : "GGN", "exchange" : "MX" }
+{ "_id" : "hanesbrands", "symbol" : "HBI", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 6.228145152E9, "EBITDA" : 1.092270976E9, "PERatio" : 11.343, "PEGRatio" : 1.11, "wallStreetTargetPrice" : 19.21, "bookValue" : 2.872, "dividendShare" : 0.6, "dividendYield" : 0.0346, "earningsShare" : 1.519, "ePSEstimateCurrentYear" : 1.76, "ePSEstimateNextYear" : 1.8, "ePSEstimateNextQuarter" : 0.56, "profitMargin" : 0.0799, "operatingMarginTTM" : 0.1387, "returnOnAssetsTTM" : 0.0791, "returnOnEquityTTM" : 0.6345, "revenueTTM" : 6.920475136E9, "revenuePerShareTTM" : 19.003, "quarterlyRevenueGrowthYOY" : 0.079, "grossProfitTTM" : 2.694874E9, "dilutedEpsTTM" : 1.519, "quarterlyEarningsGrowthYOY" : 0.006 }, "valuation" : { "forwardPE" : 9.5722, "priceBookMRQ" : 5.9993, "enterpriseValueRevenue" : 1.531, "enterpriseValueEbitda" : 9.701 }, "technicals" : { "beta" : 1.3317, "WeekHigh52" : 22.57, "WeekLow52" : 11.57, "DayMA50" : 16.5474, "DayMA200" : 16.4338, "sharesShort" : 3.1565054E7, "sharesShortPriorMonth" : 3.3983983E7, "shortRatio" : 5.43, "shortPercent" : 0.0989 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.6, "forwardAnnualDividendYield" : 0.0346, "payoutRatio" : 0.3947 } }
+{ "_id" : "kyckr-limited", "symbol" : "KYK", "exchange" : "AU" }
+{ "_id" : "495-communications", "symbol" : "SVNJ", "exchange" : "OTCGREY" }
+{ "_id" : "dhi-group", "symbol" : "DHX", "exchange" : "NYSE" }
+{ "_id" : "maiden-holdings", "symbol" : "MHLD", "exchange" : "NASDAQ" }
+{ "_id" : "esco-technologies-llc", "symbol" : "ET7", "exchange" : "BE" }
+{ "_id" : "4d-pharma-plc", "symbol" : "DDDD", "exchange" : "LSE" }
+{ "_id" : "4sc", "symbol" : "VSC", "exchange" : "F" }
+{ "_id" : "severn-trent-plc", "symbol" : "SVT", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 4.94943744E9, "EBITDA" : 9.05E8, "PERatio" : 15.6381, "PEGRatio" : 3.67, "wallStreetTargetPrice" : 1994.18, "bookValue" : 4.928, "dividendShare" : 0.89, "dividendYield" : 0.0438, "earningsShare" : 133.2, "profitMargin" : 0.1764, "operatingMarginTTM" : 0.3128, "returnOnAssetsTTM" : 0.0356, "returnOnEquityTTM" : 0.2922, "revenueTTM" : 1.787299968E9, "revenuePerShareTTM" : 7.564, "quarterlyRevenueGrowthYOY" : 0.052, "grossProfitTTM" : 5.992E8, "dilutedEpsTTM" : 133.2, "quarterlyEarningsGrowthYOY" : 0.683 }, "valuation" : { "priceBookMRQ" : 422.6867, "enterpriseValueRevenue" : 5.994, "enterpriseValueEbitda" : 11.838 }, "technicals" : { "beta" : 0.8863, "WeekHigh52" : 2129.0, "WeekLow52" : 1758.0, "DayMA50" : 1986.6285, "DayMA200" : 1959.1302 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.89, "forwardAnnualDividendYield" : 0.0438, "payoutRatio" : 0.7897 } }
+{ "_id" : "franklychat", "symbol" : "FLKKF", "exchange" : "OTCGREY" }
+{ "_id" : "faurecia", "symbol" : "FAU", "exchange" : "BE", "technicals" : { "WeekHigh52" : 76.06, "WeekLow52" : 30.15, "DayMA50" : 43.3703, "DayMA200" : 39.0311 } }
+{ "_id" : "maui-fresh-international-llc", "symbol" : "CVGW", "exchange" : "NASDAQ" }
+{ "_id" : "tui-group", "symbol" : "TUI", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 4.159550976E9, "wallStreetTargetPrice" : 15.65, "dividendShare" : 0.64, "dividendYield" : 0.0744, "profitMargin" : 0.0342, "returnOnAssetsTTM" : 0.0226, "returnOnEquityTTM" : 0.224, "quarterlyRevenueGrowthYOY" : 0.014, "grossProfitTTM" : 1.9815E9 }, "technicals" : { "beta" : 1.0974, "WeekHigh52" : 1755.0, "WeekLow52" : 686.6, "DayMA50" : 780.4057, "DayMA200" : 919.5241 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.64, "forwardAnnualDividendYield" : 0.0744, "payoutRatio" : 0.5752 } }
+{ "_id" : "500-com", "symbol" : "WBAI", "exchange" : "NYSE" }
+{ "_id" : "homeserve", "symbol" : "HSV", "exchange" : "LSE" }
+{ "_id" : "p-t-siemens-indonesia", "symbol" : "SIEMENS", "exchange" : "NSE" }
+{ "_id" : "51job", "symbol" : "JOBS", "exchange" : "NASDAQ" }
+{ "_id" : "ag-mortgage-investment-trust", "symbol" : "MITT", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 5.22696192E8, "PERatio" : 51.7152, "PEGRatio" : 6.53, "wallStreetTargetPrice" : 17.0, "bookValue" : 17.442, "dividendShare" : 2.0, "dividendYield" : 0.1297, "earningsShare" : 0.309, "ePSEstimateCurrentYear" : 2.03, "ePSEstimateNextYear" : 1.95, "ePSEstimateNextQuarter" : 0.51, "profitMargin" : 0.4945, "operatingMarginTTM" : 0.2555, "returnOnAssetsTTM" : 0.0058, "returnOnEquityTTM" : 0.0313, "revenueTTM" : 4.5454E7, "revenuePerShareTTM" : 1.568, "quarterlyRevenueGrowthYOY" : 2.43, "grossProfitTTM" : 1.4517E7, "dilutedEpsTTM" : 0.309, "quarterlyEarningsGrowthYOY" : 3.941 }, "valuation" : { "forwardPE" : 8.1949, "priceBookMRQ" : 0.9162, "enterpriseValueRevenue" : 84.805 }, "technicals" : { "beta" : 0.7786, "WeekHigh52" : 19.69, "WeekLow52" : 15.25, "DayMA50" : 16.216, "DayMA200" : 17.013, "sharesShort" : 129527.0, "sharesShortPriorMonth" : 189583.0, "shortRatio" : 0.61, "shortPercent" : 0.0041 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.0, "forwardAnnualDividendYield" : 0.1297, "payoutRatio" : 8.0 } }
+{ "_id" : "58-com", "symbol" : "WUBA", "exchange" : "NYSE" }
+{ "_id" : "government-properties-income-trust", "symbol" : "GOV", "exchange" : "NASDAQ", "highlights" : { "marketCapitalization" : 6.81539712E8, "PERatio" : 39.711, "PEGRatio" : 21.47, "wallStreetTargetPrice" : 11.39, "grossProfitTTM" : 2.57592E8 }, "valuation" : { "forwardPE" : 114.5 }, "technicals" : { "WeekHigh52" : 17.21, "WeekLow52" : 6.54, "DayMA50" : 6.87, "DayMA200" : 11.0907 } }
+{ "_id" : "ferrari", "symbol" : "RACE", "exchange" : "MI" }
+{ "_id" : "orvis", "symbol" : "7827", "exchange" : "TSE" }
+{ "_id" : "5barz-international", "symbol" : "BARZ", "exchange" : "PINK" }
+{ "_id" : "edmc", "symbol" : "EDMC", "exchange" : "PINK", "highlights" : { "marketCapitalization" : 378177.0, "wallStreetTargetPrice" : 2.5, "earningsShare" : 5.29 }, "technicals" : { "WeekHigh52" : 0.011, "DayMA50" : 0.003, "DayMA200" : 0.0038 } }
+{ "_id" : "mexichem", "symbol" : "MEXCHEM", "exchange" : "MX" }
+{ "_id" : "viad-corp", "symbol" : "VVI", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.357986944E9, "EBITDA" : 1.32232E8, "PERatio" : 33.6771, "PEGRatio" : 1.59, "wallStreetTargetPrice" : 74.0, "bookValue" : 20.732, "dividendShare" : 0.4, "dividendYield" : 0.0064, "earningsShare" : 1.988, "ePSEstimateCurrentYear" : 2.59, "ePSEstimateNextYear" : 3.38, "ePSEstimateNextQuarter" : 1.58, "profitMargin" : 0.0313, "operatingMarginTTM" : 0.0577, "returnOnAssetsTTM" : 0.0472, "returnOnEquityTTM" : 0.093, "revenueTTM" : 1.304349952E9, "revenuePerShareTTM" : 64.779, "quarterlyRevenueGrowthYOY" : 0.029, "grossProfitTTM" : 8.8006E7, "dilutedEpsTTM" : 1.988 }, "valuation" : { "forwardPE" : 19.8077, "priceBookMRQ" : 3.2293, "enterpriseValueRevenue" : 1.249, "enterpriseValueEbitda" : 12.319 }, "technicals" : { "beta" : 0.946, "WeekHigh52" : 67.09, "WeekLow52" : 46.17, "DayMA50" : 62.9169, "DayMA200" : 56.1402, "sharesShort" : 196504.0, "sharesShortPriorMonth" : 282760.0, "shortRatio" : 1.45, "shortPercent" : 0.0117 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.4, "forwardAnnualDividendYield" : 0.0064, "payoutRatio" : 0.2041 } }
+{ "_id" : "h20-innovation-inc", "symbol" : "HEO", "exchange" : "V", "highlights" : { "marketCapitalization" : 6.42735E7, "EBITDA" : 4111483.0, "PEGRatio" : 1.88, "wallStreetTargetPrice" : 2.0, "bookValue" : 0.948, "earningsShare" : 0.062, "profitMargin" : 0.0243, "operatingMarginTTM" : 0.0017, "returnOnAssetsTTM" : 0.0013, "returnOnEquityTTM" : 0.0551, "revenueTTM" : 1.04980128E8, "revenuePerShareTTM" : 2.531, "quarterlyRevenueGrowthYOY" : 0.138, "grossProfitTTM" : 2.2106596E7, "dilutedEpsTTM" : 0.062 }, "valuation" : { "forwardPE" : 14.375, "priceBookMRQ" : 1.2131, "enterpriseValueRevenue" : 0.61, "enterpriseValueEbitda" : 15.573 }, "technicals" : { "beta" : 0.908, "WeekHigh52" : 1.35, "WeekLow52" : 0.7, "DayMA50" : 0.9146, "DayMA200" : 0.8937, "sharesShort" : 400.0, "sharesShortPriorMonth" : 705.0, "shortRatio" : 0.03 } }
+{ "_id" : "nmc-health", "symbol" : "NMC", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 4.970813952E9, "EBITDA" : 4.79278016E8, "PERatio" : 20.0421, "wallStreetTargetPrice" : 54.44, "bookValue" : 6.261, "dividendShare" : 0.18, "dividendYield" : 0.0078, "earningsShare" : 118.8, "profitMargin" : 0.1209, "operatingMarginTTM" : 0.185, "returnOnAssetsTTM" : 0.0698, "returnOnEquityTTM" : 0.2014, "revenueTTM" : 2.057252992E9, "revenuePerShareTTM" : 9.896, "quarterlyRevenueGrowthYOY" : 0.359, "grossProfitTTM" : 8.41127E8, "dilutedEpsTTM" : 118.8, "quarterlyEarningsGrowthYOY" : 0.323 }, "valuation" : { "priceBookMRQ" : 380.2907, "enterpriseValueRevenue" : 3.19, "enterpriseValueEbitda" : 13.694 }, "technicals" : { "beta" : 0.9762, "WeekHigh52" : 4376.0, "WeekLow52" : 2110.0, "DayMA50" : 2493.257, "DayMA200" : 2649.2695 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.18, "forwardAnnualDividendYield" : 0.0078, "payoutRatio" : 0.1431 } }
+{ "_id" : "5g-networks-ltd-australia", "symbol" : "5GN", "exchange" : "AU" }
+{ "_id" : "fiat-chrysler-automobiles", "symbol" : "FCAU", "exchange" : "NYSE" }
+{ "_id" : "southside-bank", "symbol" : "SBSI", "exchange" : "NASDAQ" }
+{ "_id" : "5n-plus-wisconsin-corp", "symbol" : "VNP", "exchange" : "TO" }
+{ "_id" : "interparfums", "symbol" : "ITP", "exchange" : "PA" }
+{ "_id" : "walmart-ecommerce", "symbol" : "WMT", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.129344E11, "EBITDA" : 3.2622000128E10, "PERatio" : 38.3555, "PEGRatio" : 2.96, "wallStreetTargetPrice" : 110.54, "bookValue" : 23.831, "dividendShare" : 2.12, "dividendYield" : 0.0193, "earningsShare" : 2.858, "profitMargin" : 0.0163, "operatingMarginTTM" : 0.0425, "returnOnAssetsTTM" : 0.0623, "returnOnEquityTTM" : 0.115, "revenueTTM" : 5.15640000512E11, "revenuePerShareTTM" : 177.272, "quarterlyRevenueGrowthYOY" : 0.01, "grossProfitTTM" : 1.29104E11, "dilutedEpsTTM" : 2.858, "quarterlyEarningsGrowthYOY" : 0.847 }, "valuation" : { "forwardPE" : 21.7069, "priceBookMRQ" : 4.5999, "enterpriseValueRevenue" : 0.749, "enterpriseValueEbitda" : 11.844 }, "technicals" : { "beta" : 0.6224, "WeekHigh52" : 109.96, "WeekLow52" : 82.9, "DayMA50" : 103.2474, "DayMA200" : 98.6038, "sharesShort" : 1.485718E7, "sharesShortPriorMonth" : 1.606889E7, "shortRatio" : 2.11, "shortPercent" : 0.0108 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.12, "forwardAnnualDividendYield" : 0.0193, "payoutRatio" : 0.7282 } }
+{ "_id" : "tyson-foods-2", "symbol" : "TSN", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.8367939584E10, "EBITDA" : 4.104E9, "PERatio" : 13.8907, "PEGRatio" : 1.74, "wallStreetTargetPrice" : 85.08, "bookValue" : 36.794, "dividendShare" : 1.5, "dividendYield" : 0.0194, "earningsShare" : 5.598, "profitMargin" : 0.0505, "operatingMarginTTM" : 0.0764, "returnOnAssetsTTM" : 0.0641, "returnOnEquityTTM" : 0.1603, "revenueTTM" : 4.068599808E10, "revenuePerShareTTM" : 111.775, "quarterlyRevenueGrowthYOY" : 0.069, "grossProfitTTM" : 5.227E9, "dilutedEpsTTM" : 5.598, "quarterlyEarningsGrowthYOY" : 0.376 }, "valuation" : { "forwardPE" : 11.6932, "priceBookMRQ" : 2.1134, "enterpriseValueRevenue" : 0.991, "enterpriseValueEbitda" : 9.821 }, "technicals" : { "beta" : 0.5852, "WeekHigh52" : 84.3, "WeekLow52" : 49.77, "DayMA50" : 79.51, "DayMA200" : 66.8277, "sharesShort" : 5348452.0, "sharesShortPriorMonth" : 5594246.0, "shortRatio" : 1.76, "shortPercent" : 0.0214 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.5, "forwardAnnualDividendYield" : 0.0194, "payoutRatio" : 0.2406 } }
+{ "_id" : "information-services-corporation", "symbol" : "STC", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 9.82944512E8, "EBITDA" : 1.14123E8, "PERatio" : 21.9022, "PEGRatio" : 3.04, "wallStreetTargetPrice" : 46.5, "bookValue" : 28.431, "dividendShare" : 1.2, "dividendYield" : 0.0292, "earningsShare" : 1.882, "ePSEstimateCurrentYear" : 2.17, "ePSEstimateNextYear" : 3.05, "ePSEstimateNextQuarter" : 0.93, "profitMargin" : 0.0238, "operatingMarginTTM" : 0.0478, "returnOnAssetsTTM" : 0.04, "returnOnEquityTTM" : 0.0842, "revenueTTM" : 1.868961024E9, "revenuePerShareTTM" : 79.312, "quarterlyRevenueGrowthYOY" : 0.089, "grossProfitTTM" : 1.009112E9, "dilutedEpsTTM" : 1.882 }, "valuation" : { "forwardPE" : 13.5148, "priceBookMRQ" : 1.4498, "enterpriseValueRevenue" : 0.568, "enterpriseValueEbitda" : 9.305 }, "technicals" : { "beta" : 0.531, "WeekHigh52" : 45.75, "WeekLow52" : 39.47, "DayMA50" : 42.3246, "DayMA200" : 42.6018, "sharesShort" : 369408.0, "sharesShortPriorMonth" : 398596.0, "shortRatio" : 2.81, "shortPercent" : 0.0187 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.2, "forwardAnnualDividendYield" : 0.0292, "payoutRatio" : 0.6395 } }
+{ "_id" : "schroders-plc", "symbol" : "SDR", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 8.080139264E9, "EBITDA" : 7.534E8, "PERatio" : 16.9839, "PEGRatio" : 2.51, "wallStreetTargetPrice" : 3276.0, "bookValue" : 13.106, "dividendShare" : 1.14, "dividendYield" : 0.0391, "earningsShare" : 179.7, "profitMargin" : 0.1884, "operatingMarginTTM" : 0.2731, "returnOnAssetsTTM" : 0.0217, "returnOnEquityTTM" : 0.1423, "revenueTTM" : 2.678799872E9, "revenuePerShareTTM" : 9.709, "quarterlyRevenueGrowthYOY" : 0.035, "grossProfitTTM" : 2.1231E9, "dilutedEpsTTM" : 179.7, "quarterlyEarningsGrowthYOY" : 0.343 }, "valuation" : { "forwardPE" : 0.1375, "priceBookMRQ" : 232.8704, "enterpriseValueRevenue" : 1.189, "enterpriseValueEbitda" : 4.228 }, "technicals" : { "beta" : 0.9454, "WeekHigh52" : 3285.0, "WeekLow52" : 2289.0, "DayMA50" : 3009.1714, "DayMA200" : 2767.3804 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.14, "forwardAnnualDividendYield" : 0.0391, "payoutRatio" : 0.6344 } }
+{ "_id" : "neblio", "symbol" : "NEBL-USD", "exchange" : "CC" }
+{ "_id" : "6d-global-technologies", "symbol" : "SIXD", "exchange" : "OTCGREY" }
+{ "_id" : "momenta-pharmaceuticals", "symbol" : "MNTA", "exchange" : "NASDAQ" }
+{ "_id" : "fielmann-ag", "symbol" : "FIE", "exchange" : "MU" }
+{ "_id" : "800-commerce", "symbol" : "PGAS", "exchange" : "PINK" }
+{ "_id" : "pfsweb-sprl", "symbol" : "PFW1", "exchange" : "F" }
+{ "_id" : "88-energy", "symbol" : "88E", "exchange" : "AU" }
+{ "_id" : "trinseo", "symbol" : "TSE", "exchange" : "NYSE" }
+{ "_id" : "easyjet-plc", "symbol" : "EZJ", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 3.43188864E9, "EBITDA" : 5.19E8, "PERatio" : 17.7464, "PEGRatio" : 5.88, "wallStreetTargetPrice" : 1479.74, "bookValue" : 6.386, "dividendShare" : 0.59, "dividendYield" : 0.0673, "earningsShare" : 48.9, "profitMargin" : 0.032, "operatingMarginTTM" : 0.0497, "returnOnAssetsTTM" : 0.0269, "returnOnEquityTTM" : 0.075, "revenueTTM" : 6.057999872E9, "revenuePerShareTTM" : 15.376, "quarterlyRevenueGrowthYOY" : 0.073, "grossProfitTTM" : 1.446E9, "dilutedEpsTTM" : 48.9 }, "valuation" : { "forwardPE" : 0.0686, "priceBookMRQ" : 135.891, "enterpriseValueRevenue" : 0.611, "enterpriseValueEbitda" : 7.132 }, "technicals" : { "beta" : 0.4729, "WeekHigh52" : 1803.0, "WeekLow52" : 840.0, "DayMA50" : 967.5486, "DayMA200" : 1125.8464 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.59, "forwardAnnualDividendYield" : 0.0673, "payoutRatio" : 1.2058 } }
+{ "_id" : "hawkins", "symbol" : "HWKN", "exchange" : "NASDAQ" }
+{ "_id" : "8common", "symbol" : "8CO", "exchange" : "AU" }
+{ "_id" : "global-signal", "symbol" : "GNL", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.641530368E9, "EBITDA" : 2.14066E8, "PERatio" : 369.6227, "wallStreetTargetPrice" : 24.0, "bookValue" : 18.286, "dividendShare" : 2.13, "dividendYield" : 0.1117, "earningsShare" : 0.053, "ePSEstimateCurrentYear" : 0.22, "ePSEstimateNextQuarter" : 0.06, "profitMargin" : 0.0496, "operatingMarginTTM" : 0.3134, "returnOnAssetsTTM" : 0.0176, "returnOnEquityTTM" : 0.0098, "revenueTTM" : 2.89588992E8, "revenuePerShareTTM" : 3.969, "quarterlyRevenueGrowthYOY" : 0.108, "grossProfitTTM" : 2.21691E8, "dilutedEpsTTM" : 0.053, "quarterlyEarningsGrowthYOY" : 1.304 }, "valuation" : { "forwardPE" : 72.5556, "priceBookMRQ" : 1.0713, "enterpriseValueRevenue" : 11.163, "enterpriseValueEbitda" : 15.101 }, "technicals" : { "beta" : 0.8703, "WeekHigh52" : 22.53, "WeekLow52" : 16.95, "DayMA50" : 18.988, "DayMA200" : 19.0407, "sharesShort" : 3877973.0, "sharesShortPriorMonth" : 3393738.0, "shortRatio" : 5.94, "shortPercent" : 0.0642 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.13, "forwardAnnualDividendYield" : 0.1117, "payoutRatio" : 42.6 } }
+{ "_id" : "pdc-energy", "symbol" : "PDCE", "exchange" : "NASDAQ" }
+{ "_id" : "jcdecaux", "symbol" : "DEC", "exchange" : "PA" }
+{ "_id" : "eckoh", "symbol" : "ECK", "exchange" : "LSE" }
+{ "_id" : "8x8-inc", "symbol" : "EGHT", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.380224512E9, "EBITDA" : -7.6065E7, "PEGRatio" : 9.66, "wallStreetTargetPrice" : 23.46, "bookValue" : 2.595, "earningsShare" : 0.939, "ePSEstimateNextQuarter" : 0.14, "profitMargin" : 0.2517, "operatingMarginTTM" : 0.2581, "returnOnAssetsTTM" : 0.1381, "returnOnEquityTTM" : 0.3791, "revenueTTM" : 3.52585984E8, "revenuePerShareTTM" : 3.73, "quarterlyRevenueGrowthYOY" : 0.182, "grossProfitTTM" : 2.22614E8, "dilutedEpsTTM" : 0.939 }, "valuation" : { "forwardPE" : 130.1053, "priceBookMRQ" : 9.526, "enterpriseValueRevenue" : 6.424, "enterpriseValueEbitda" : 29.78 }, "technicals" : { "beta" : 0.9734, "WeekHigh52" : 25.35, "DayMA50" : 23.9403, "DayMA200" : 20.8701, "sharesShort" : 1.2713925E7, "sharesShortPriorMonth" : 1.1681972E7, "shortRatio" : 6.91, "shortPercent" : 0.1604 } }
+{ "_id" : "purespectrum", "symbol" : "PSRU", "exchange" : "PINK" }
+{ "_id" : "mobilicom", "symbol" : "MOB", "exchange" : "AU" }
+{ "_id" : "diebold", "symbol" : "DBD", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 6.7018432E8, "EBITDA" : 2.809E8, "PEGRatio" : 1.52, "wallStreetTargetPrice" : 12.0, "bookValue" : 3.936, "earningsShare" : 8.25, "ePSEstimateCurrentYear" : 0.01, "ePSEstimateNextYear" : 0.95, "ePSEstimateNextQuarter" : 0.18, "profitMargin" : 0.1383, "operatingMarginTTM" : 0.0136, "returnOnAssetsTTM" : 0.0081, "returnOnEquityTTM" : 1.5851, "revenueTTM" : 4.54249984E9, "revenuePerShareTTM" : 59.652, "quarterlyRevenueGrowthYOY" : 0.034, "grossProfitTTM" : 9.85E8, "dilutedEpsTTM" : 8.25 }, "valuation" : { "forwardPE" : 9.2105, "enterpriseValueRevenue" : 0.643, "enterpriseValueEbitda" : 10.392 }, "technicals" : { "beta" : 3.2864, "WeekHigh52" : 13.49, "WeekLow52" : 2.41, "DayMA50" : 9.9363, "DayMA200" : 7.6668, "sharesShort" : 9566973.0, "sharesShortPriorMonth" : 8950021.0, "shortRatio" : 5.28, "shortPercent" : 0.1678 } }
+{ "_id" : "92-resources", "symbol" : "NTY", "exchange" : "V" }
+{ "_id" : "finisar", "symbol" : "FNSR", "exchange" : "NASDAQ" }
+{ "_id" : "a-d-technology", "symbol" : "200710", "exchange" : "KQ" }
+{ "_id" : "lhc-group", "symbol" : "LH6", "exchange" : "F" }
+{ "_id" : "a-dv-tech", "symbol" : "ADH", "exchange" : "JSE" }
+{ "_id" : "itafos", "symbol" : "IFOS", "exchange" : "V" }
+{ "_id" : "technipfmc", "symbol" : "FTI", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.07163392E10, "EBITDA" : 1.397900032E9, "PEGRatio" : 6.77, "wallStreetTargetPrice" : 29.9, "bookValue" : 23.071, "dividendShare" : 0.52, "dividendYield" : 0.0225, "earningsShare" : 4.392, "ePSEstimateCurrentYear" : 1.27, "ePSEstimateNextYear" : 1.59, "ePSEstimateNextQuarter" : 0.42, "profitMargin" : 0.1617, "operatingMarginTTM" : 0.0697, "returnOnAssetsTTM" : 0.0199, "returnOnEquityTTM" : 0.1673, "revenueTTM" : 1.234070016E10, "revenuePerShareTTM" : 27.155, "quarterlyRevenueGrowthYOY" : 0.068, "grossProfitTTM" : 2.2799E9, "dilutedEpsTTM" : 4.392, "quarterlyEarningsGrowthYOY" : 0.768 }, "valuation" : { "forwardPE" : 15.0755, "priceBookMRQ" : 1.039, "enterpriseValueRevenue" : 0.875, "enterpriseValueEbitda" : 7.725 }, "technicals" : { "beta" : 1.3302, "WeekHigh52" : 33.6, "WeekLow52" : 18.2, "DayMA50" : 22.6149, "DayMA200" : 22.6607, "sharesShort" : 1.2629139E7, "sharesShortPriorMonth" : 1.0477953E7, "shortRatio" : 3.4, "shortPercent" : 0.0282 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.52, "forwardAnnualDividendYield" : 0.0225 } }
+{ "_id" : "national-bank-holdings", "symbol" : "NBHC", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.13586048E9, "PERatio" : 16.0957, "PEGRatio" : 2.9, "wallStreetTargetPrice" : 40.17, "bookValue" : 23.095, "dividendShare" : 0.76, "dividendYield" : 0.0217, "earningsShare" : 2.277, "ePSEstimateCurrentYear" : 2.39, "ePSEstimateNextYear" : 2.54, "ePSEstimateNextQuarter" : 0.61, "profitMargin" : 0.2718, "operatingMarginTTM" : 0.3364, "returnOnAssetsTTM" : 0.0126, "returnOnEquityTTM" : 0.1057, "revenueTTM" : 2.64532E8, "revenuePerShareTTM" : 8.571, "quarterlyRevenueGrowthYOY" : 0.02, "grossProfitTTM" : 2.63236E8, "dilutedEpsTTM" : 2.277, "quarterlyEarningsGrowthYOY" : 1.222 }, "valuation" : { "forwardPE" : 14.4291, "priceBookMRQ" : 1.5869, "enterpriseValueRevenue" : 5.073 }, "technicals" : { "beta" : 1.2514, "WeekHigh52" : 41.44, "WeekLow52" : 29.26, "DayMA50" : 36.8534, "DayMA200" : 34.4803, "sharesShort" : 742413.0, "sharesShortPriorMonth" : 758953.0, "shortRatio" : 6.68, "shortPercent" : 0.0283 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.76, "forwardAnnualDividendYield" : 0.0217, "payoutRatio" : 0.2719 } }
+{ "_id" : "spire-corporation", "symbol" : "SR", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.300715008E9, "EBITDA" : 5.269E8, "PERatio" : 19.3626, "PEGRatio" : 4.65, "wallStreetTargetPrice" : 82.0, "bookValue" : 47.416, "dividendShare" : 2.37, "dividendYield" : 0.0281, "earningsShare" : 4.377, "profitMargin" : 0.1112, "operatingMarginTTM" : 0.1761, "returnOnAssetsTTM" : 0.0317, "returnOnEquityTTM" : 0.0972, "revenueTTM" : 1.995299968E9, "revenuePerShareTTM" : 39.668, "quarterlyRevenueGrowthYOY" : 0.012, "grossProfitTTM" : 5.992E8, "dilutedEpsTTM" : 4.377, "quarterlyEarningsGrowthYOY" : 0.498 }, "valuation" : { "forwardPE" : 21.6752, "priceBookMRQ" : 1.7874, "enterpriseValueRevenue" : 3.518, "enterpriseValueEbitda" : 13.322 }, "technicals" : { "beta" : 0.2151, "WeekHigh52" : 87.13, "WeekLow52" : 69.5, "DayMA50" : 84.7037, "DayMA200" : 80.1173, "sharesShort" : 1054657.0, "sharesShortPriorMonth" : 712668.0, "shortRatio" : 4.84, "shortPercent" : 0.0245 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.37, "forwardAnnualDividendYield" : 0.0281, "payoutRatio" : 0.541 } }
+{ "_id" : "a-g-barr", "symbol" : "BAG", "exchange" : "LSE" }
+{ "_id" : "finlogic-spa", "symbol" : "FNL", "exchange" : "MI" }
+{ "_id" : "a-h-belo-corporation", "symbol" : "AHC", "exchange" : "NYSE" }
+{ "_id" : "a-i-s-resources", "symbol" : "AIS", "exchange" : "V" }
+{ "_id" : "stealthgas", "symbol" : "GASS", "exchange" : "NASDAQ" }
+{ "_id" : "fireeye", "symbol" : "FEYE", "exchange" : "NASDAQ" }
+{ "_id" : "f-j-benjamin-singapore-pte-ltd", "symbol" : "F10", "exchange" : "SG" }
+{ "_id" : "a-li-corporation", "symbol" : "3041", "exchange" : "TW" }
+{ "_id" : "vimpelcom", "symbol" : "VEON", "exchange" : "NASDAQ" }
+{ "_id" : "elementis", "symbol" : "EMNSF", "exchange" : "PINK" }
+{ "_id" : "worthington-steelpac-systems-llc", "symbol" : "WTH", "exchange" : "F" }
+{ "_id" : "esco-technologies", "symbol" : "ESE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.009634944E9, "EBITDA" : 1.49662E8, "PERatio" : 24.175, "PEGRatio" : 1.96, "wallStreetTargetPrice" : 80.0, "bookValue" : 30.532, "dividendShare" : 0.32, "dividendYield" : 0.0046, "earningsShare" : 3.2, "profitMargin" : 0.1045, "operatingMarginTTM" : 0.1399, "returnOnAssetsTTM" : 0.0547, "returnOnEquityTTM" : 0.1104, "revenueTTM" : 7.99854976E8, "revenuePerShareTTM" : 30.869, "quarterlyRevenueGrowthYOY" : 0.11, "grossProfitTTM" : 2.81185E8, "dilutedEpsTTM" : 3.2, "quarterlyEarningsGrowthYOY" : 0.895 }, "valuation" : { "forwardPE" : 22.4884, "priceBookMRQ" : 2.5337, "enterpriseValueRevenue" : 2.68, "enterpriseValueEbitda" : 14.322 }, "technicals" : { "beta" : 1.0713, "WeekHigh52" : 78.32, "WeekLow52" : 56.65, "DayMA50" : 73.4083, "DayMA200" : 69.1607, "sharesShort" : 283705.0, "sharesShortPriorMonth" : 229240.0, "shortRatio" : 3.64, "shortPercent" : 0.0153 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.32, "forwardAnnualDividendYield" : 0.0046, "payoutRatio" : 0.1 } }
+{ "_id" : "orthofix-inc", "symbol" : "OFIX", "exchange" : "NASDAQ" }
+{ "_id" : "del-taco", "symbol" : "TACO", "exchange" : "NASDAQ" }
+{ "_id" : "a-m-castle-co", "symbol" : "CAS", "exchange" : "PA" }
+{ "_id" : "fossil", "symbol" : "FOSL", "exchange" : "NASDAQ" }
+{ "_id" : "a-rnav-eu", "symbol" : "531467", "exchange" : "BSE" }
+{ "_id" : "first-data-corporation", "symbol" : "FDC", "exchange" : "NYSE" }
+{ "_id" : "a-s-v", "symbol" : "ASV", "exchange" : "NASDAQ" }
+{ "_id" : "movado", "symbol" : "MOV", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 6.32481024E8, "EBITDA" : 8.4457E7, "PERatio" : 11.2875, "PEGRatio" : 1.16, "wallStreetTargetPrice" : 48.5, "bookValue" : 21.228, "dividendShare" : 0.8, "dividendYield" : 0.03, "earningsShare" : 2.431, "profitMargin" : 0.0822, "operatingMarginTTM" : 0.1045, "returnOnAssetsTTM" : 0.0634, "returnOnEquityTTM" : 0.1203, "revenueTTM" : 6.98966976E8, "revenuePerShareTTM" : 30.125, "quarterlyRevenueGrowthYOY" : 0.153, "grossProfitTTM" : 3.69958E8, "dilutedEpsTTM" : 2.431, "quarterlyEarningsGrowthYOY" : 0.515 }, "valuation" : { "forwardPE" : 9.1163, "priceBookMRQ" : 1.2926, "enterpriseValueRevenue" : 0.889, "enterpriseValueEbitda" : 7.358 }, "technicals" : { "beta" : 0.8878, "WeekHigh52" : 52.1, "WeekLow52" : 24.48, "DayMA50" : 31.138, "DayMA200" : 32.8262, "sharesShort" : 1655733.0, "sharesShortPriorMonth" : 1552158.0, "shortRatio" : 7.56, "shortPercent" : 0.1429 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.8, "forwardAnnualDividendYield" : 0.03, "payoutRatio" : 0.3292 } }
+{ "_id" : "zynga", "symbol" : "ZNGA", "exchange" : "NASDAQ" }
+{ "_id" : "first-solar", "symbol" : "FSLR", "exchange" : "NASDAQ" }
+{ "_id" : "sientra", "symbol" : "SIEN", "exchange" : "NASDAQ" }
+{ "_id" : "a-toute-vitesse", "symbol" : "MLATV", "exchange" : "PA" }
+{ "_id" : "zara-usa-inc", "symbol" : "ZAC", "exchange" : "FOREX" }
+{ "_id" : "unilever", "symbol" : "ULVR", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 1.28708026368E11, "PERatio" : 19.4974, "wallStreetTargetPrice" : 45.13, "bookValue" : 5.025, "dividendShare" : 1.42, "dividendYield" : 0.0305, "earningsShare" : 252.7, "profitMargin" : 0.1842, "returnOnAssetsTTM" : 0.1306, "returnOnEquityTTM" : 0.7353, "quarterlyRevenueGrowthYOY" : 0.052, "grossProfitTTM" : 2.2213E10, "dilutedEpsTTM" : 252.7, "quarterlyEarningsGrowthYOY" : 1.256 }, "valuation" : { "forwardPE" : 22.7051, "priceBookMRQ" : 980.4975 }, "technicals" : { "beta" : 0.9243, "WeekHigh52" : 5038.0, "WeekLow52" : 3905.0, "DayMA50" : 4795.043, "DayMA200" : 4365.4087 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.42, "forwardAnnualDividendYield" : 0.0305, "payoutRatio" : 0.4321 } }
+{ "_id" : "equinix-2", "symbol" : "EQIX", "exchange" : "NASDAQ" }
+{ "_id" : "fisher-paykel-healthcare", "symbol" : "FPH", "exchange" : "NZ" }
+{ "_id" : "fiserv", "symbol" : "FISV", "exchange" : "NASDAQ" }
+{ "_id" : "fis", "symbol" : "FIS", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.990034432E10, "EBITDA" : 2.408E9, "PERatio" : 50.0568, "PEGRatio" : 1.81, "wallStreetTargetPrice" : 134.3, "bookValue" : 30.638, "dividendShare" : 1.4, "dividendYield" : 0.0114, "earningsShare" : 2.463, "ePSEstimateCurrentYear" : 7.46, "ePSEstimateNextYear" : 8.16, "ePSEstimateNextQuarter" : 1.92, "profitMargin" : 0.0965, "operatingMarginTTM" : 0.1858, "returnOnAssetsTTM" : 0.0403, "returnOnEquityTTM" : 0.0819, "revenueTTM" : 8.414000128E9, "revenuePerShareTTM" : 25.79, "quarterlyRevenueGrowthYOY" : 0.004, "grossProfitTTM" : 2.854E9, "dilutedEpsTTM" : 2.463, "quarterlyEarningsGrowthYOY" : 0.167 }, "valuation" : { "forwardPE" : 15.1091, "priceBookMRQ" : 4.0241, "enterpriseValueRevenue" : 5.797, "enterpriseValueEbitda" : 20.255 }, "technicals" : { "beta" : 0.6549, "WeekHigh52" : 123.865, "WeekLow52" : 94.53, "DayMA50" : 119.0651, "DayMA200" : 110.2104, "sharesShort" : 3.1478512E7, "sharesShortPriorMonth" : 2.0969697E7, "shortRatio" : 9.09, "shortPercent" : 0.0977 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.4, "forwardAnnualDividendYield" : 0.0114, "payoutRatio" : 0.5325 } }
+{ "_id" : "fis-eu-ltd", "symbol" : "SPNS", "exchange" : "NASDAQ" }
+{ "_id" : "a10-networks", "symbol" : "ATEN", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.96163648E8, "EBITDA" : -1.0457E7, "PEGRatio" : 10.86, "wallStreetTargetPrice" : 9.0, "bookValue" : 1.287, "earningsShare" : 0.275, "ePSEstimateCurrentYear" : 0.02, "ePSEstimateNextYear" : 0.1, "ePSEstimateNextQuarter" : 0.02, "profitMargin" : 0.0867, "operatingMarginTTM" : 0.0799, "returnOnAssetsTTM" : 0.0502, "returnOnEquityTTM" : 0.2051, "revenueTTM" : 2.3333E8, "revenuePerShareTTM" : 3.173, "quarterlyRevenueGrowthYOY" : 0.023, "grossProfitTTM" : 1.80327E8, "dilutedEpsTTM" : 0.275 }, "valuation" : { "forwardPE" : 65.6, "priceBookMRQ" : 5.0971, "enterpriseValueRevenue" : 1.132, "enterpriseValueEbitda" : 25.257 }, "technicals" : { "beta" : 0.7297, "WeekHigh52" : 7.46, "WeekLow52" : 5.51, "DayMA50" : 6.29, "DayMA200" : 6.5954, "sharesShort" : 1655102.0, "sharesShortPriorMonth" : 859191.0, "shortRatio" : 4.09, "shortPercent" : 0.0301 } }
+{ "_id" : "smart-card-marketing-systems", "symbol" : "SMKG", "exchange" : "PINK" }
+{ "_id" : "pq-corporation", "symbol" : "PQG", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.156797184E9, "EBITDA" : 3.5836E8, "PERatio" : 35.4688, "wallStreetTargetPrice" : 19.1, "bookValue" : 12.305, "earningsShare" : 0.448, "ePSEstimateCurrentYear" : 0.86, "ePSEstimateNextYear" : 1.02, "ePSEstimateNextQuarter" : 0.3, "profitMargin" : 0.0382, "operatingMarginTTM" : 0.1097, "returnOnAssetsTTM" : 0.0248, "returnOnEquityTTM" : 0.0376, "revenueTTM" : 1.601177984E9, "revenuePerShareTTM" : 11.987, "quarterlyRevenueGrowthYOY" : 0.019, "grossProfitTTM" : 3.83237E8, "dilutedEpsTTM" : 0.448, "quarterlyEarningsGrowthYOY" : 11.515 }, "valuation" : { "forwardPE" : 15.5784, "priceBookMRQ" : 1.2913, "enterpriseValueRevenue" : 2.649, "enterpriseValueEbitda" : 11.835 }, "technicals" : { "WeekHigh52" : 18.69, "WeekLow52" : 13.28, "DayMA50" : 15.6594, "DayMA200" : 15.3499, "sharesShort" : 270198.0, "sharesShortPriorMonth" : 307026.0, "shortRatio" : 3.27, "shortPercent" : 0.0072 } }
+{ "_id" : "amcor", "symbol" : "AMC", "exchange" : "AU" }
+{ "_id" : "a1m-pharma", "symbol" : "A1M", "exchange" : "NFN" }
+{ "_id" : "redfin", "symbol" : "RDFN", "exchange" : "NASDAQ" }
+{ "_id" : "algomizer-2", "symbol" : "ALMO", "exchange" : "TA" }
+{ "_id" : "hyundai-mobis", "symbol" : "1232", "exchange" : "TW" }
+{ "_id" : "fitbit", "symbol" : "FIT", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.175568512E9, "EBITDA" : -1.2804E8, "PEGRatio" : 5.1, "wallStreetTargetPrice" : 6.75, "bookValue" : 2.637, "earningsShare" : 0.744, "ePSEstimateCurrentYear" : 0.15, "ePSEstimateNextYear" : 0.06, "ePSEstimateNextQuarter" : 0.02, "profitMargin" : 0.1201, "operatingMarginTTM" : 0.1225, "returnOnAssetsTTM" : 0.0851, "returnOnEquityTTM" : 0.2572, "revenueTTM" : 1.536007936E9, "revenuePerShareTTM" : 6.193, "quarterlyRevenueGrowthYOY" : 0.097, "grossProfitTTM" : 6.03579E8, "dilutedEpsTTM" : 0.744 }, "valuation" : { "forwardPE" : 76.8333, "priceBookMRQ" : 1.7482, "enterpriseValueRevenue" : 0.406, "enterpriseValueEbitda" : 4.871 }, "technicals" : { "beta" : 0.7696, "WeekHigh52" : 7.45, "WeekLow52" : 4.23, "DayMA50" : 4.8417, "DayMA200" : 5.5413, "sharesShort" : 2.6736227E7, "sharesShortPriorMonth" : 2.7528359E7, "shortRatio" : 4.42, "shortPercent" : 0.1369 } }
+{ "_id" : "global-atomic-corporation", "symbol" : "GLO", "exchange" : "F" }
+{ "_id" : "aa-plc", "symbol" : "AA", "exchange" : "LSE" }
+{ "_id" : "vista-outdoor", "symbol" : "VSTO", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.69907552E8, "EBITDA" : 9.3717E7, "PEGRatio" : 0.73, "wallStreetTargetPrice" : 11.5, "bookValue" : 10.553, "earningsShare" : 11.27, "ePSEstimateNextQuarter" : 0.1, "profitMargin" : 0.315, "operatingMarginTTM" : 0.0079, "returnOnAssetsTTM" : 0.0047, "returnOnEquityTTM" : 0.71, "revenueTTM" : 2.058528E9, "revenuePerShareTTM" : 35.773, "quarterlyRevenueGrowthYOY" : 0.098, "grossProfitTTM" : 4.15688E8, "dilutedEpsTTM" : 11.27 }, "valuation" : { "forwardPE" : 15.6538, "priceBookMRQ" : 0.7713, "enterpriseValueRevenue" : 0.559, "enterpriseValueEbitda" : 12.28 }, "technicals" : { "beta" : 0.3066, "WeekHigh52" : 19.405, "WeekLow52" : 7.465, "DayMA50" : 8.7154, "DayMA200" : 9.4172, "sharesShort" : 3167138.0, "sharesShortPriorMonth" : 2418418.0, "shortRatio" : 5.31, "shortPercent" : 0.0636 } }
+{ "_id" : "a2a", "symbol" : "A2A", "exchange" : "MI" }
+{ "_id" : "aac-microtec", "symbol" : "AAC", "exchange" : "NFN" }
+{ "_id" : "grupo-rotoplas", "symbol" : "AGUA", "exchange" : "MX" }
+{ "_id" : "aac-technologies-holdings", "symbol" : "2018", "exchange" : "HK" }
+{ "_id" : "aag-energy-holdings", "symbol" : "2686", "exchange" : "HK" }
+{ "_id" : "aak", "symbol" : "AAK", "exchange" : "ST" }
+{ "_id" : "kcom-group-plc", "symbol" : "KCOM", "exchange" : "LSE" }
+{ "_id" : "resonance-health-ltd", "symbol" : "RHT", "exchange" : "AU" }
+{ "_id" : "orbital-atk", "symbol" : "OA", "exchange" : "NYSE" }
+{ "_id" : "acerus-pharmaceuticals", "symbol" : "ASP", "exchange" : "TO" }
+{ "_id" : "aapc", "symbol" : "AAPJ", "exchange" : "PINK" }
+{ "_id" : "aalberts-industries", "symbol" : "AALB", "exchange" : "AS" }
+{ "_id" : "aapc-hotels-pty-ltd", "symbol" : "AC", "exchange" : "PA" }
+{ "_id" : "philo", "symbol" : "PHIIK", "exchange" : "NASDAQ" }
+{ "_id" : "aannemingsmaatschappij-cfe-nv", "symbol" : "CFEB", "exchange" : "BR" }
+{ "_id" : "aapl", "symbol" : "AATDF", "exchange" : "PINK" }
+{ "_id" : "aareal-bank", "symbol" : "ARL", "exchange" : "BE" }
+{ "_id" : "labcorp", "symbol" : "LH", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.6695749632E10, "EBITDA" : 1.9136E9, "PERatio" : 19.2286, "PEGRatio" : 1.8, "wallStreetTargetPrice" : 175.89, "bookValue" : 72.05, "earningsShare" : 8.815, "ePSEstimateCurrentYear" : 11.27, "ePSEstimateNextYear" : 12.09, "ePSEstimateNextQuarter" : 2.85, "profitMargin" : 0.0795, "operatingMarginTTM" : 0.1297, "returnOnAssetsTTM" : 0.0541, "returnOnEquityTTM" : 0.127, "revenueTTM" : 1.1276300288E10, "revenuePerShareTTM" : 112.118, "quarterlyRevenueGrowthYOY" : 0.02, "grossProfitTTM" : 3.1764E9, "dilutedEpsTTM" : 8.815, "quarterlyEarningsGrowthYOY" : 0.114 }, "valuation" : { "forwardPE" : 14.0199, "priceBookMRQ" : 2.3525, "enterpriseValueRevenue" : 2.026, "enterpriseValueEbitda" : 11.941 }, "technicals" : { "beta" : 1.0879, "WeekHigh52" : 190.0, "WeekLow52" : 119.38, "DayMA50" : 165.168, "DayMA200" : 149.3129, "sharesShort" : 2104448.0, "sharesShortPriorMonth" : 1501147.0, "shortRatio" : 2.29, "shortPercent" : 0.0241 } }
+{ "_id" : "mindtree", "symbol" : "MINDTREE", "exchange" : "NSE" }
+{ "_id" : "first-business-bank", "symbol" : "FBIZ", "exchange" : "NASDAQ" }
+{ "_id" : "aaron-s", "symbol" : "AAN", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.146594304E9, "EBITDA" : 5.93187968E8, "PERatio" : 21.3708, "PEGRatio" : 1.35, "wallStreetTargetPrice" : 65.67, "bookValue" : 26.796, "dividendShare" : 0.14, "dividendYield" : 0.0026, "earningsShare" : 2.867, "ePSEstimateCurrentYear" : 3.82, "ePSEstimateNextYear" : 4.39, "ePSEstimateNextQuarter" : 0.81, "profitMargin" : 0.0515, "operatingMarginTTM" : 0.1309, "returnOnAssetsTTM" : 0.1067, "returnOnEquityTTM" : 0.1121, "revenueTTM" : 3.88621696E9, "revenuePerShareTTM" : 56.795, "quarterlyRevenueGrowthYOY" : 0.06, "grossProfitTTM" : 1.90702E9, "dilutedEpsTTM" : 2.867, "quarterlyEarningsGrowthYOY" : 0.123 }, "valuation" : { "forwardPE" : 13.9567, "priceBookMRQ" : 2.2865, "enterpriseValueRevenue" : 1.238, "enterpriseValueEbitda" : 8.113 }, "technicals" : { "beta" : 1.1122, "WeekHigh52" : 61.58, "WeekLow52" : 39.28, "DayMA50" : 56.3617, "DayMA200" : 51.3975, "sharesShort" : 2826527.0, "sharesShortPriorMonth" : 2964137.0, "shortRatio" : 5.53, "shortPercent" : 0.0546 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.14, "forwardAnnualDividendYield" : 0.0026, "payoutRatio" : 0.0453 } }
+{ "_id" : "newmont-mining", "symbol" : "NEM", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.9801857024E10, "EBITDA" : 2.743000064E9, "PERatio" : 82.0768, "PEGRatio" : 8.83, "wallStreetTargetPrice" : 40.99, "bookValue" : 19.661, "dividendShare" : 0.56, "dividendYield" : 0.0156, "earningsShare" : 0.443, "ePSEstimateCurrentYear" : 1.28, "ePSEstimateNextYear" : 1.43, "ePSEstimateNextQuarter" : 0.34, "profitMargin" : 0.0326, "operatingMarginTTM" : 0.1561, "returnOnAssetsTTM" : 0.0342, "returnOnEquityTTM" : 0.0256, "revenueTTM" : 7.239000064E9, "revenuePerShareTTM" : 13.582, "quarterlyRevenueGrowthYOY" : 0.008, "grossProfitTTM" : 3.254E9, "dilutedEpsTTM" : 0.443, "quarterlyEarningsGrowthYOY" : 0.551 }, "valuation" : { "forwardPE" : 25.4266, "priceBookMRQ" : 1.8493, "enterpriseValueRevenue" : 4.331, "enterpriseValueEbitda" : 11.431 }, "technicals" : { "beta" : 0.3431, "WeekHigh52" : 38.63, "WeekLow52" : 29.06, "DayMA50" : 32.4351, "DayMA200" : 33.5908, "sharesShort" : 1.2279897E7, "sharesShortPriorMonth" : 1.4774414E7, "shortRatio" : 1.49, "shortPercent" : 0.0311 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.56, "forwardAnnualDividendYield" : 0.0156, "payoutRatio" : 1.3333 } }
+{ "_id" : "aarp", "symbol" : "AIR", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.147347328E9, "EBITDA" : 1.439E8, "PEGRatio" : 0.9, "wallStreetTargetPrice" : 45.4, "bookValue" : 26.159, "dividendShare" : 0.3, "dividendYield" : 0.01, "earningsShare" : 0.117, "profitMargin" : 0.0017, "operatingMarginTTM" : 0.0527, "returnOnAssetsTTM" : 0.0423, "returnOnEquityTTM" : 0.0833, "revenueTTM" : 1.962599936E9, "revenuePerShareTTM" : 56.764, "quarterlyRevenueGrowthYOY" : 0.16, "grossProfitTTM" : 2.946E8, "dilutedEpsTTM" : 0.117 }, "valuation" : { "forwardPE" : 11.8754, "priceBookMRQ" : 1.2757, "enterpriseValueRevenue" : 0.661, "enterpriseValueEbitda" : 9.013 }, "technicals" : { "beta" : 0.669, "WeekHigh52" : 51.52, "WeekLow52" : 29.84, "DayMA50" : 32.4723, "DayMA200" : 35.5939, "sharesShort" : 1631817.0, "sharesShortPriorMonth" : 1449867.0, "shortRatio" : 8.09, "shortPercent" : 0.0589 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.3, "forwardAnnualDividendYield" : 0.01, "payoutRatio" : 0.1402 } }
+{ "_id" : "mvc-capital", "symbol" : "MVC", "exchange" : "NYSE" }
+{ "_id" : "aarti-group", "symbol" : "AARTIIND", "exchange" : "NSE" }
+{ "_id" : "ab-dynamics-plc", "symbol" : "ABDP", "exchange" : "LSE" }
+{ "_id" : "ab-electrolux", "symbol" : "ELUX-B", "exchange" : "ST" }
+{ "_id" : "wincanton", "symbol" : "WIN", "exchange" : "LSE" }
+{ "_id" : "live-nation-music-group-texas-inc", "symbol" : "LYV", "exchange" : "NYSE" }
+{ "_id" : "guaranty-bancorp", "symbol" : "GBNK", "exchange" : "NASDAQ" }
+{ "_id" : "united-mobility-technology", "symbol" : "UMD", "exchange" : "F" }
+{ "_id" : "emerging-threats-pro-inc", "symbol" : "PFPT", "exchange" : "NASDAQ" }
+{ "_id" : "ab-private-credit-investors", "symbol" : "AB", "exchange" : "NYSE" }
+{ "_id" : "ab-science", "symbol" : "AB", "exchange" : "PA" }
+{ "_id" : "ab-traction", "symbol" : "TRAC-B", "exchange" : "ST" }
+{ "_id" : "infortrend", "symbol" : "2495", "exchange" : "TW" }
+{ "_id" : "the-trade-desk", "symbol" : "TTD", "exchange" : "NASDAQ" }
+{ "_id" : "abacus-international-pte-ltd", "symbol" : "SABR", "exchange" : "NASDAQ" }
+{ "_id" : "spirit-airlines", "symbol" : "SAVE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.396617728E9, "EBITDA" : 6.28678016E8, "PERatio" : 13.217, "PEGRatio" : 20.44, "wallStreetTargetPrice" : 67.31, "bookValue" : 28.897, "earningsShare" : 3.755, "ePSEstimateCurrentYear" : 5.58, "ePSEstimateNextYear" : 6.29, "ePSEstimateNextQuarter" : 1.77, "profitMargin" : 0.0739, "operatingMarginTTM" : 0.1404, "returnOnAssetsTTM" : 0.0551, "returnOnEquityTTM" : 0.1389, "revenueTTM" : 3.474692096E9, "revenuePerShareTTM" : 50.883, "quarterlyRevenueGrowthYOY" : 0.215, "grossProfitTTM" : 1.101393E9, "dilutedEpsTTM" : 3.755 }, "valuation" : { "forwardPE" : 7.8903, "priceBookMRQ" : 1.7175, "enterpriseValueRevenue" : 1.574, "enterpriseValueEbitda" : 8.702 }, "technicals" : { "beta" : 0.6175, "WeekHigh52" : 65.35, "DayMA50" : 49.3329, "DayMA200" : 55.2743, "sharesShort" : 2084871.0, "sharesShortPriorMonth" : 2447551.0, "shortRatio" : 2.67, "shortPercent" : 0.0361 } }
+{ "_id" : "gannett-co-inc", "symbol" : "GCI", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 9.47080448E8, "EBITDA" : 3.03096992E8, "PERatio" : 266.7742, "wallStreetTargetPrice" : 11.67, "bookValue" : 9.074, "dividendShare" : 0.64, "dividendYield" : 0.0771, "earningsShare" : 0.031, "ePSEstimateCurrentYear" : 0.63, "ePSEstimateNextYear" : 0.66, "ePSEstimateNextQuarter" : 0.07, "profitMargin" : 0.0012, "operatingMarginTTM" : 0.0566, "returnOnAssetsTTM" : 0.039, "returnOnEquityTTM" : 0.0034, "revenueTTM" : 2.857312E9, "revenuePerShareTTM" : 25.198, "quarterlyRevenueGrowthYOY" : 0.082, "grossProfitTTM" : 1.113342E9, "dilutedEpsTTM" : 0.031 }, "valuation" : { "forwardPE" : 12.5303, "priceBookMRQ" : 0.9114, "enterpriseValueRevenue" : 0.513, "enterpriseValueEbitda" : 4.836 }, "technicals" : { "beta" : 1.9348, "WeekHigh52" : 11.99, "WeekLow52" : 7.41, "DayMA50" : 8.414, "DayMA200" : 9.8957, "sharesShort" : 1.6432933E7, "sharesShortPriorMonth" : 1.9394478E7, "shortRatio" : 12.18, "shortPercent" : 0.2225 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.64, "forwardAnnualDividendYield" : 0.0771, "payoutRatio" : 19.1939 } }
+{ "_id" : "abacus-mining-and-exploration-corp", "symbol" : "AME", "exchange" : "V" }
+{ "_id" : "anheuser-busch-inbev", "symbol" : "BUD", "exchange" : "NYSE" }
+{ "_id" : "diageo-udv", "symbol" : "DGE", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 8.02207744E10, "EBITDA" : 4.389000192E9, "PERatio" : 28.378, "wallStreetTargetPrice" : 2916.05, "bookValue" : 3.835, "dividendShare" : 0.67, "dividendYield" : 0.02, "earningsShare" : 119.3, "profitMargin" : 0.2344, "operatingMarginTTM" : 0.3252, "returnOnAssetsTTM" : 0.082, "returnOnEquityTTM" : 0.2703, "revenueTTM" : 1.254099968E10, "revenuePerShareTTM" : 5.114, "quarterlyRevenueGrowthYOY" : 0.058, "grossProfitTTM" : 7.529E9, "dilutedEpsTTM" : 119.3, "quarterlyEarningsGrowthYOY" : 0.015 }, "valuation" : { "forwardPE" : 0.2493, "priceBookMRQ" : 882.7901, "enterpriseValueRevenue" : 7.606, "enterpriseValueEbitda" : 21.733 }, "technicals" : { "beta" : 1.0261, "WeekHigh52" : 3460.0, "WeekLow52" : 2513.0, "DayMA50" : 3323.6, "DayMA200" : 3039.4226 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.67, "forwardAnnualDividendYield" : 0.02, "payoutRatio" : 0.5446 } }
+{ "_id" : "zenovia-digital-exchange", "symbol" : "ZDEC", "exchange" : "PINK" }
+{ "_id" : "iq-energy-services-pty-ltd", "symbol" : "AGL", "exchange" : "AU" }
+{ "_id" : "pernod-ricard", "symbol" : "RI", "exchange" : "PA" }
+{ "_id" : "abb", "symbol" : "ABB", "exchange" : "NYSE" }
+{ "_id" : "abbey-plc", "symbol" : "ABBY", "exchange" : "LSE" }
+{ "_id" : "abbey-window-coverings-ulc", "symbol" : "SGPS3", "exchange" : "SA" }
+{ "_id" : "abbvie", "symbol" : "ABBV", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.14733187072E11, "EBITDA" : 1.3946000384E10, "PERatio" : 22.1048, "PEGRatio" : 1.23, "wallStreetTargetPrice" : 90.07, "bookValue" : 5.294, "dividendShare" : 4.28, "dividendYield" : 0.0547, "earningsShare" : 3.511, "ePSEstimateCurrentYear" : 8.78, "ePSEstimateNextYear" : 9.46, "ePSEstimateNextQuarter" : 2.24, "profitMargin" : 0.1642, "operatingMarginTTM" : 0.3713, "returnOnAssetsTTM" : 0.1202, "revenueTTM" : 3.2647000064E10, "revenuePerShareTTM" : 21.574, "quarterlyRevenueGrowthYOY" : 0.013, "grossProfitTTM" : 2.5035E10, "dilutedEpsTTM" : 3.511, "quarterlyEarningsGrowthYOY" : 0.052 }, "valuation" : { "forwardPE" : 8.204, "enterpriseValueRevenue" : 4.545, "enterpriseValueEbitda" : 10.639 }, "technicals" : { "beta" : 0.9394, "WeekHigh52" : 100.23, "WeekLow52" : 73.81, "DayMA50" : 78.4349, "DayMA200" : 81.7215, "sharesShort" : 1.9599383E7, "sharesShortPriorMonth" : 2.1822012E7, "shortRatio" : 4.08, "shortPercent" : 0.015 }, "splitDividends" : { "forwardAnnualDividendRate" : 4.28, "forwardAnnualDividendYield" : 0.0547, "payoutRatio" : 1.1064 } }
+{ "_id" : "abbot-laboratories", "symbol" : "ABT", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.48773306368E11, "EBITDA" : 7.286000128E9, "PERatio" : 57.2117, "PEGRatio" : 2.16, "wallStreetTargetPrice" : 83.06, "bookValue" : 17.529, "dividendShare" : 1.28, "dividendYield" : 0.0168, "earningsShare" : 1.474, "ePSEstimateCurrentYear" : 3.22, "ePSEstimateNextYear" : 3.6, "ePSEstimateNextQuarter" : 0.85, "profitMargin" : 0.0853, "operatingMarginTTM" : 0.1337, "returnOnAssetsTTM" : 0.0371, "returnOnEquityTTM" : 0.0828, "revenueTTM" : 3.072300032E10, "revenuePerShareTTM" : 17.452, "quarterlyRevenueGrowthYOY" : 0.02, "grossProfitTTM" : 1.7919E10, "dilutedEpsTTM" : 1.474, "quarterlyEarningsGrowthYOY" : 0.616 }, "valuation" : { "forwardPE" : 23.425, "priceBookMRQ" : 4.8109, "enterpriseValueRevenue" : 5.262, "enterpriseValueEbitda" : 22.187 }, "technicals" : { "beta" : 0.8475, "WeekHigh52" : 84.495, "WeekLow52" : 60.32, "DayMA50" : 78.0903, "DayMA200" : 75.2741, "sharesShort" : 1.3532815E7, "sharesShortPriorMonth" : 1.3109615E7, "shortRatio" : 2.79, "shortPercent" : 0.0079 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.28, "forwardAnnualDividendYield" : 0.0168, "payoutRatio" : 0.7945 } }
+{ "_id" : "abc-startsiden-as", "symbol" : "8850", "exchange" : "TSE" }
+{ "_id" : "abeona-therapeutics", "symbol" : "ABEO", "exchange" : "NASDAQ" }
+{ "_id" : "abcourt-mines", "symbol" : "ABI", "exchange" : "V" }
+{ "_id" : "abcam", "symbol" : "ABC", "exchange" : "LSE" }
+{ "_id" : "abercrombie-fitch", "symbol" : "ANF", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.052321792E9, "EBITDA" : 3.20044E8, "PERatio" : 11.2579, "PEGRatio" : 24.52, "wallStreetTargetPrice" : 20.42, "bookValue" : 16.43, "dividendShare" : 0.8, "dividendYield" : 0.0508, "earningsShare" : 1.423, "profitMargin" : 0.0272, "operatingMarginTTM" : 0.0414, "returnOnAssetsTTM" : 0.033, "returnOnEquityTTM" : 0.089, "revenueTTM" : 3.593181952E9, "revenuePerShareTTM" : 53.742, "quarterlyRevenueGrowthYOY" : 0.004, "grossProfitTTM" : 2.159916E9, "dilutedEpsTTM" : 1.423 }, "valuation" : { "forwardPE" : 11.0483, "priceBookMRQ" : 0.975, "enterpriseValueRevenue" : 0.611, "enterpriseValueEbitda" : 6.858 }, "technicals" : { "beta" : 1.4589, "WeekHigh52" : 30.63, "WeekLow52" : 14.66, "DayMA50" : 22.536, "DayMA200" : 22.6214, "sharesShort" : 1.5127228E7, "sharesShortPriorMonth" : 1.4658202E7, "shortRatio" : 4.47, "shortPercent" : 0.3404 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.8, "forwardAnnualDividendYield" : 0.0508, "payoutRatio" : 0.5674 } }
+{ "_id" : "aben-resources", "symbol" : "ABN", "exchange" : "V" }
+{ "_id" : "aberdeen-international", "symbol" : "AAB", "exchange" : "TO" }
+{ "_id" : "abi-holdings-ltd", "symbol" : "500825", "exchange" : "BSE" }
+{ "_id" : "acacia-research", "symbol" : "ACTG", "exchange" : "NASDAQ" }
+{ "_id" : "abn-amro", "symbol" : "ABN", "exchange" : "AS" }
+{ "_id" : "abc-arbitrage", "symbol" : "ABCA", "exchange" : "PA" }
+{ "_id" : "abtech-holdings", "symbol" : "ABHD", "exchange" : "OTCQB" }
+{ "_id" : "acadia-healthcare", "symbol" : "ACHC", "exchange" : "NASDAQ" }
+{ "_id" : "acadian-timber", "symbol" : "ADN", "exchange" : "TO" }
+{ "_id" : "abitibibowater", "symbol" : "7AB1", "exchange" : "F" }
+{ "_id" : "abm-industries", "symbol" : "ABM", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.654304E9, "EBITDA" : 3.109E8, "PERatio" : 30.8166, "PEGRatio" : 4.45, "wallStreetTargetPrice" : 41.0, "bookValue" : 22.334, "dividendShare" : 0.72, "dividendYield" : 0.0199, "earningsShare" : 1.298, "profitMargin" : 0.0133, "operatingMarginTTM" : 0.0312, "returnOnAssetsTTM" : 0.0338, "returnOnEquityTTM" : 0.0587, "revenueTTM" : 6.475599872E9, "revenuePerShareTTM" : 97.671, "quarterlyRevenueGrowthYOY" : 0.009, "grossProfitTTM" : 6.948E8, "dilutedEpsTTM" : 1.298, "quarterlyEarningsGrowthYOY" : 0.122 }, "valuation" : { "forwardPE" : 17.6211, "priceBookMRQ" : 1.791, "enterpriseValueRevenue" : 0.55, "enterpriseValueEbitda" : 11.455 }, "technicals" : { "beta" : 0.5928, "WeekHigh52" : 41.34, "WeekLow52" : 25.64, "DayMA50" : 38.0749, "DayMA200" : 35.1833, "sharesShort" : 4055416.0, "sharesShortPriorMonth" : 4239076.0, "shortRatio" : 15.15, "shortPercent" : 0.1143 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.72, "forwardAnnualDividendYield" : 0.0199, "payoutRatio" : 0.5732 } }
+{ "_id" : "aberdeen-japan-equity-fund", "symbol" : "JEQ", "exchange" : "NYSE" }
+{ "_id" : "ac-immune-sa", "symbol" : "ACIU", "exchange" : "NASDAQ" }
+{ "_id" : "able-c-c", "symbol" : "7851", "exchange" : "TSE" }
+{ "_id" : "accelerate-resources-holdings-llc", "symbol" : "AX8", "exchange" : "AU" }
+{ "_id" : "accelerate-diagnostics", "symbol" : "AXDX", "exchange" : "NASDAQ" }
+{ "_id" : "absolute-software-inc-1", "symbol" : "ABT", "exchange" : "TO" }
+{ "_id" : "acadia-pharmaceuticals", "symbol" : "ACAD", "exchange" : "NASDAQ" }
+{ "_id" : "abiomed", "symbol" : "ABMD", "exchange" : "NASDAQ" }
+{ "_id" : "acasti-pharma", "symbol" : "ACST", "exchange" : "NASDAQ" }
+{ "_id" : "accell-group", "symbol" : "AO1B", "exchange" : "F" }
+{ "_id" : "acadia-realty-trust", "symbol" : "AKR", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.465860864E9, "EBITDA" : 1.67412992E8, "PERatio" : 65.0909, "PEGRatio" : 22.04, "wallStreetTargetPrice" : 31.0, "bookValue" : 17.724, "dividendShare" : 1.12, "dividendYield" : 0.041, "earningsShare" : 0.44, "ePSEstimateCurrentYear" : 0.38, "ePSEstimateNextYear" : 0.4, "ePSEstimateNextQuarter" : 0.06, "profitMargin" : 0.1262, "operatingMarginTTM" : 0.1676, "returnOnAssetsTTM" : 0.0075, "returnOnEquityTTM" : 0.004, "revenueTTM" : 2.86961984E8, "revenuePerShareTTM" : 3.511, "quarterlyRevenueGrowthYOY" : 0.19, "grossProfitTTM" : 1.92635E8, "dilutedEpsTTM" : 0.44, "quarterlyEarningsGrowthYOY" : 0.673 }, "valuation" : { "forwardPE" : 71.6, "priceBookMRQ" : 1.6159, "enterpriseValueRevenue" : 16.305, "enterpriseValueEbitda" : 27.949 }, "technicals" : { "beta" : 0.9199, "WeekHigh52" : 29.82, "WeekLow52" : 23.11, "DayMA50" : 28.2097, "DayMA200" : 27.6171, "sharesShort" : 3769542.0, "sharesShortPriorMonth" : 3742330.0, "shortRatio" : 8.52, "shortPercent" : 0.0909 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.12, "forwardAnnualDividendYield" : 0.041, "payoutRatio" : 2.5 } }
+{ "_id" : "academedia-support-ab", "symbol" : "ACAD", "exchange" : "ST" }
+{ "_id" : "able-energy", "symbol" : "ABLE", "exchange" : "OTCMKTS" }
+{ "_id" : "abitibi-royalties", "symbol" : "RZZ", "exchange" : "V" }
+{ "_id" : "abraplata-resource", "symbol" : "ABRA", "exchange" : "V" }
+{ "_id" : "accelera-innovations", "symbol" : "ACNV", "exchange" : "PINK" }
+{ "_id" : "acarix", "symbol" : "ACARIX", "exchange" : "ST" }
+{ "_id" : "acco-brands-iberia-sl", "symbol" : "A3B", "exchange" : "BE" }
+{ "_id" : "acceleware", "symbol" : "AXE", "exchange" : "V" }
+{ "_id" : "accor-services", "symbol" : "QSV", "exchange" : "MU" }
+{ "_id" : "acceleron-pharma", "symbol" : "XLRN", "exchange" : "NASDAQ" }
+{ "_id" : "acco-brands", "symbol" : "ACCO", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 8.10586688E8, "EBITDA" : 2.771E8, "PERatio" : 8.6871, "PEGRatio" : 1.17, "wallStreetTargetPrice" : 12.8, "bookValue" : 7.464, "dividendShare" : 0.24, "dividendYield" : 0.0263, "earningsShare" : 0.914, "ePSEstimateCurrentYear" : 1.17, "ePSEstimateNextYear" : 1.3, "ePSEstimateNextQuarter" : 0.32, "profitMargin" : 0.0496, "operatingMarginTTM" : 0.1113, "returnOnAssetsTTM" : 0.0481, "returnOnEquityTTM" : 0.1251, "revenueTTM" : 1.929299968E9, "revenuePerShareTTM" : 18.609, "quarterlyRevenueGrowthYOY" : 0.029, "grossProfitTTM" : 6.279E8, "dilutedEpsTTM" : 0.914 }, "valuation" : { "forwardPE" : 6.1077, "priceBookMRQ" : 1.0638, "enterpriseValueRevenue" : 0.923, "enterpriseValueEbitda" : 6.424 }, "technicals" : { "beta" : 1.967, "WeekHigh52" : 14.63, "WeekLow52" : 6.07, "DayMA50" : 8.0237, "DayMA200" : 8.2939, "sharesShort" : 2211246.0, "sharesShortPriorMonth" : 2149173.0, "shortRatio" : 3.62, "shortPercent" : 0.0222 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.24, "forwardAnnualDividendYield" : 0.0263, "payoutRatio" : 0.2667 } }
+{ "_id" : "accel-frontline-services-ltd", "symbol" : "532774", "exchange" : "BSE" }
+{ "_id" : "access-intelligence-plc", "symbol" : "ACC", "exchange" : "LSE" }
+{ "_id" : "accenture-inc", "symbol" : "ACN", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.17329379328E11, "EBITDA" : 6.676156928E9, "PERatio" : 26.768, "PEGRatio" : 2.17, "wallStreetTargetPrice" : 183.86, "bookValue" : 20.907, "dividendShare" : 2.92, "dividendYield" : 0.0158, "earningsShare" : 6.872, "profitMargin" : 0.1095, "operatingMarginTTM" : 0.1491, "returnOnAssetsTTM" : 0.1506, "returnOnEquityTTM" : 0.3756, "revenueTTM" : 4.0839573504E10, "revenuePerShareTTM" : 63.871, "quarterlyRevenueGrowthYOY" : 0.055, "grossProfitTTM" : 1.2442913E10, "dilutedEpsTTM" : 6.872, "quarterlyEarningsGrowthYOY" : 0.263 }, "valuation" : { "forwardPE" : 23.1384, "priceBookMRQ" : 8.7985, "enterpriseValueRevenue" : 2.782, "enterpriseValueEbitda" : 17.02 }, "technicals" : { "beta" : 1.087, "WeekHigh52" : 186.68, "WeekLow52" : 132.63, "DayMA50" : 178.996, "DayMA200" : 165.1167, "sharesShort" : 6078707.0, "sharesShortPriorMonth" : 5384910.0, "shortRatio" : 3.44, "shortPercent" : 0.0096 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.92, "forwardAnnualDividendYield" : 0.0158, "payoutRatio" : 0.4061 } }
+{ "_id" : "acacia-mining", "symbol" : "ACA", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.742021632E9, "EBITDA" : 1.945E8, "PERatio" : 21.8496, "wallStreetTargetPrice" : 43.2, "bookValue" : 35.231, "dividendShare" : 0.2, "dividendYield" : 0.0055, "earningsShare" : 1.649, "ePSEstimateCurrentYear" : 2.05, "ePSEstimateNextYear" : 2.54, "ePSEstimateNextQuarter" : 0.53, "profitMargin" : 0.0535, "operatingMarginTTM" : 0.0819, "returnOnAssetsTTM" : 0.0419, "returnOnEquityTTM" : 0.0528, "revenueTTM" : 1.516899968E9, "revenuePerShareTTM" : 31.228, "quarterlyRevenueGrowthYOY" : 0.159, "grossProfitTTM" : 2.72E8, "dilutedEpsTTM" : 1.649, "quarterlyEarningsGrowthYOY" : 0.244 }, "valuation" : { "forwardPE" : 14.185, "priceBookMRQ" : 1.0227, "enterpriseValueRevenue" : 1.156, "enterpriseValueEbitda" : 9.019 }, "technicals" : { "WeekHigh52" : 39.74, "WeekLow52" : 22.94, "DayMA50" : 35.7289, "DayMA200" : 31.21, "sharesShort" : 1231855.0, "sharesShortPriorMonth" : 1150428.0, "shortRatio" : 3.63, "shortPercent" : 0.0346 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.2, "forwardAnnualDividendYield" : 0.0055, "payoutRatio" : 0.0302 } }
+{ "_id" : "acacia-communications", "symbol" : "ACIA", "exchange" : "NASDAQ" }
+{ "_id" : "accelerize", "symbol" : "ACLZ", "exchange" : "OTCQB" }
+{ "_id" : "accentiv-kadeos", "symbol" : "EDEN", "exchange" : "PA" }
+{ "_id" : "access-worldwide-communications", "symbol" : "AWWC", "exchange" : "PINK" }
+{ "_id" : "acciona", "symbol" : "ANA", "exchange" : "MC" }
+{ "_id" : "access-national-bank", "symbol" : "ANCX", "exchange" : "NASDAQ" }
+{ "_id" : "aceto", "symbol" : "ACET", "exchange" : "NASDAQ" }
+{ "_id" : "ace-hardware-corp", "symbol" : "4AH1", "exchange" : "BE" }
+{ "_id" : "accsys-technologies", "symbol" : "AXS", "exchange" : "LSE" }
+{ "_id" : "accretive-health", "symbol" : "RCM", "exchange" : "NASDAQ" }
+{ "_id" : "accord-financial", "symbol" : "ACD", "exchange" : "TO" }
+{ "_id" : "accent-marketing-services", "symbol" : "SRT", "exchange" : "NYSE" }
+{ "_id" : "accesso-llc", "symbol" : "ACSO", "exchange" : "LSE" }
+{ "_id" : "achaogen", "symbol" : "AKAO", "exchange" : "NASDAQ" }
+{ "_id" : "achillion-pharmaceuticals", "symbol" : "ACHN", "exchange" : "NASDAQ" }
+{ "_id" : "accordia-golf-trust", "symbol" : "ADQU", "exchange" : "SG" }
+{ "_id" : "acheter-louer-fr", "symbol" : "ALALO", "exchange" : "PA" }
+{ "_id" : "ace-aviation-holdings-inc", "symbol" : "ACAVF", "exchange" : "PINK" }
+{ "_id" : "accton-technology", "symbol" : "2345", "exchange" : "TW" }
+{ "_id" : "acep-france", "symbol" : "MLACP", "exchange" : "PA" }
+{ "_id" : "acer", "symbol" : "ACEYY", "exchange" : "PINK" }
+{ "_id" : "accuray", "symbol" : "ARAY", "exchange" : "NASDAQ" }
+{ "_id" : "aces-electronics", "symbol" : "3605", "exchange" : "TW" }
+{ "_id" : "acelrx-pharmaceuticals", "symbol" : "ACRX", "exchange" : "NASDAQ" }
+{ "_id" : "acer-therapeutics", "symbol" : "ACER", "exchange" : "NASDAQ" }
+{ "_id" : "achieve-life-science", "symbol" : "ACHV", "exchange" : "NASDAQ" }
+{ "_id" : "adesso", "symbol" : "ADN1", "exchange" : "XETRA" }
+{ "_id" : "aci-worldwide", "symbol" : "ACIW", "exchange" : "NASDAQ" }
+{ "_id" : "ackermans-van-haaren", "symbol" : "ACKB", "exchange" : "BR" }
+{ "_id" : "ackroo-canada", "symbol" : "AKR", "exchange" : "V" }
+{ "_id" : "aclaris-therapeutics", "symbol" : "ACRS", "exchange" : "NASDAQ" }
+{ "_id" : "acorda-therapeutics", "symbol" : "CDG", "exchange" : "BE" }
+{ "_id" : "acorda-therapeutics-inc", "symbol" : "CDG", "exchange" : "BE" }
+{ "_id" : "acquired-sales-corp", "symbol" : "AQSP", "exchange" : "PINK" }
+{ "_id" : "acorn-energy", "symbol" : "ACFN", "exchange" : "OTCQB" }
+{ "_id" : "actinogen-medical", "symbol" : "3AC", "exchange" : "BE" }
+{ "_id" : "acorn-international", "symbol" : "ATV", "exchange" : "NYSE" }
+{ "_id" : "acnb-corporation", "symbol" : "ACNB", "exchange" : "NASDAQ" }
+{ "_id" : "acme-united-corporation", "symbol" : "ACU", "exchange" : "NYSE" }
+{ "_id" : "actelion-pharmaceuticals", "symbol" : "ALIOF", "exchange" : "PINK" }
+{ "_id" : "acm-research", "symbol" : "ACMR", "exchange" : "NASDAQ" }
+{ "_id" : "american-vanguard-corporation", "symbol" : "AVD", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.20508288E8, "EBITDA" : 6.1892E7, "PERatio" : 18.1178, "PEGRatio" : 2.27, "wallStreetTargetPrice" : 23.67, "bookValue" : 10.922, "dividendShare" : 0.08, "dividendYield" : 0.006, "earningsShare" : 0.781, "ePSEstimateCurrentYear" : 0.89, "ePSEstimateNextYear" : 1.02, "ePSEstimateNextQuarter" : 0.3, "profitMargin" : 0.0521, "operatingMarginTTM" : 0.0858, "returnOnAssetsTTM" : 0.0392, "returnOnEquityTTM" : 0.0726, "revenueTTM" : 4.4984E8, "revenuePerShareTTM" : 15.379, "quarterlyRevenueGrowthYOY" : 0.043, "grossProfitTTM" : 1.82631E8, "dilutedEpsTTM" : 0.781, "quarterlyEarningsGrowthYOY" : 0.182 }, "valuation" : { "forwardPE" : 13.8725, "priceBookMRQ" : 1.2956, "enterpriseValueRevenue" : 1.272, "enterpriseValueEbitda" : 9.247 }, "technicals" : { "beta" : 1.0422, "WeekHigh52" : 23.5, "WeekLow52" : 12.69, "DayMA50" : 14.2717, "DayMA200" : 16.3704, "sharesShort" : 703363.0, "sharesShortPriorMonth" : 697847.0, "shortRatio" : 7.72, "shortPercent" : 0.0292 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.08, "forwardAnnualDividendYield" : 0.006, "payoutRatio" : 0.0988 } }
+{ "_id" : "acrux", "symbol" : "ACR", "exchange" : "AU" }
+{ "_id" : "acteos", "symbol" : "EOS", "exchange" : "PA" }
+{ "_id" : "action-construction-equipment-ltd", "symbol" : "ACE", "exchange" : "NSE" }
+{ "_id" : "acomo-2", "symbol" : "ACOMO", "exchange" : "AS" }
+{ "_id" : "acoustic-marketing-research-inc", "symbol" : "MSON", "exchange" : "NASDAQ" }
+{ "_id" : "acumedia-manufacturers-inc", "symbol" : "NG2", "exchange" : "BE" }
+{ "_id" : "acuity-ads", "symbol" : "AT", "exchange" : "V" }
+{ "_id" : "active-biotech", "symbol" : "ACTI", "exchange" : "ST" }
+{ "_id" : "actia-group", "symbol" : "ATI", "exchange" : "PA" }
+{ "_id" : "act", "symbol" : "138360", "exchange" : "KQ" }
+{ "_id" : "acorn-capital", "symbol" : "ACQ", "exchange" : "AU" }
+{ "_id" : "adamera-minerals-corp", "symbol" : "AQM", "exchange" : "BE" }
+{ "_id" : "acquest-holding-fc-llc", "symbol" : "STAR", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 7.79561536E8, "EBITDA" : 1.63762E8, "wallStreetTargetPrice" : 11.0, "bookValue" : 12.267, "dividendShare" : 0.4, "dividendYield" : 0.0363, "earningsShare" : 1.638, "ePSEstimateCurrentYear" : 3.85, "ePSEstimateNextYear" : 0.89, "ePSEstimateNextQuarter" : 0.19, "profitMargin" : 0.1425, "operatingMarginTTM" : 0.1897, "returnOnAssetsTTM" : 0.014, "returnOnEquityTTM" : 0.0596, "revenueTTM" : 5.37649024E8, "revenuePerShareTTM" : 7.916, "quarterlyRevenueGrowthYOY" : 0.695, "grossProfitTTM" : 2.86708E8, "dilutedEpsTTM" : 1.638 }, "valuation" : { "forwardPE" : 13.5393, "priceBookMRQ" : 0.9823, "enterpriseValueRevenue" : 7.187, "enterpriseValueEbitda" : 23.596 }, "technicals" : { "beta" : 0.2479, "WeekHigh52" : 12.17, "WeekLow52" : 7.84, "DayMA50" : 9.9924, "DayMA200" : 9.3338, "sharesShort" : 7185764.0, "sharesShortPriorMonth" : 5929196.0, "shortRatio" : 8.28, "shortPercent" : 0.1737 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.4, "forwardAnnualDividendYield" : 0.0363 } }
+{ "_id" : "adairs", "symbol" : "ADH", "exchange" : "AU" }
+{ "_id" : "ad-systems-communications-inc", "symbol" : "AATV", "exchange" : "PINK" }
+{ "_id" : "acuity-brands", "symbol" : "AYI", "exchange" : "NYSE" }
+{ "_id" : "adama-colombia-sas", "symbol" : "ADAM", "exchange" : "LSE" }
+{ "_id" : "actinium-pharmaceuticals", "symbol" : "ATNM", "exchange" : "NYSE" }
+{ "_id" : "active-energy-group-plc", "symbol" : "AEG", "exchange" : "LSE" }
+{ "_id" : "adamis-pharmaceuticals", "symbol" : "ADMP", "exchange" : "NASDAQ" }
+{ "_id" : "adcorp", "symbol" : "ADR", "exchange" : "JSE" }
+{ "_id" : "acusphere", "symbol" : "ACUS", "exchange" : "PINK" }
+{ "_id" : "adamas-pharmaceuticals", "symbol" : "ADMS", "exchange" : "NASDAQ" }
+{ "_id" : "acura-pharmaceuticals", "symbol" : "ACUR", "exchange" : "OTCQB" }
+{ "_id" : "actual-experience", "symbol" : "ACT", "exchange" : "LSE" }
+{ "_id" : "added-capital", "symbol" : "AAD", "exchange" : "V" }
+{ "_id" : "adapt-it", "symbol" : "ADI", "exchange" : "JSE" }
+{ "_id" : "action-hotels", "symbol" : "AHCG", "exchange" : "LSE" }
+{ "_id" : "adecco", "symbol" : "AHEXF", "exchange" : "OTCGREY" }
+{ "_id" : "adaptive-medias-inc", "symbol" : "ADTM", "exchange" : "PINK" }
+{ "_id" : "adams-resources-energy", "symbol" : "AE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.4353752E8, "EBITDA" : 1.6115E7, "PERatio" : 21.3891, "wallStreetTargetPrice" : 27.28, "bookValue" : 35.728, "dividendShare" : 0.96, "dividendYield" : 0.0282, "earningsShare" : 1.591, "profitMargin" : 0.0037, "operatingMarginTTM" : 0.0024, "returnOnAssetsTTM" : 0.0089, "returnOnEquityTTM" : 0.0451, "revenueTTM" : 1.808125056E9, "revenuePerShareTTM" : 428.669, "quarterlyRevenueGrowthYOY" : 0.15, "grossProfitTTM" : 2.0999E7, "dilutedEpsTTM" : 1.591, "quarterlyEarningsGrowthYOY" : 3.3 }, "valuation" : { "priceBookMRQ" : 0.9525, "enterpriseValueRevenue" : 0.016, "enterpriseValueEbitda" : 1.777 }, "technicals" : { "beta" : 0.4088, "WeekHigh52" : 46.84, "WeekLow52" : 33.22, "DayMA50" : 34.5951, "DayMA200" : 38.1213, "sharesShort" : 25679.0, "sharesShortPriorMonth" : 12531.0, "shortRatio" : 3.84, "shortPercent" : 0.0105 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.96, "forwardAnnualDividendYield" : 0.0282, "payoutRatio" : 0.5541 } }
+{ "_id" : "adani-ports", "symbol" : "532921", "exchange" : "BSE" }
+{ "_id" : "adcorp-2", "symbol" : "AAU", "exchange" : "AU" }
+{ "_id" : "adecco-nederland-holding-b-v", "symbol" : "ADI1", "exchange" : "BE" }
+{ "_id" : "addex-pharmaceuticals-ltd", "symbol" : "ADDXF", "exchange" : "PINK" }
+{ "_id" : "addlife-ab", "symbol" : "ALIF-B", "exchange" : "ST" }
+{ "_id" : "addex-therapeutics", "symbol" : "ADXN", "exchange" : "SW" }
+{ "_id" : "actuant", "symbol" : "ATU", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.46420992E9, "EBITDA" : 1.53924E8, "PEGRatio" : 3.32, "wallStreetTargetPrice" : 25.8, "bookValue" : 9.539, "dividendShare" : 0.04, "dividendYield" : 0.0018, "earningsShare" : 0.383, "profitMargin" : 0.0197, "operatingMarginTTM" : 0.0991, "returnOnAssetsTTM" : 0.0508, "returnOnEquityTTM" : 0.0398, "revenueTTM" : 1.182929024E9, "revenuePerShareTTM" : 19.404, "quarterlyRevenueGrowthYOY" : 0.012, "grossProfitTTM" : 4.16109E8, "dilutedEpsTTM" : 0.383 }, "valuation" : { "forwardPE" : 17.4015, "priceBookMRQ" : 2.4992, "enterpriseValueRevenue" : 1.505, "enterpriseValueEbitda" : 11.564 }, "technicals" : { "beta" : 1.5418, "WeekHigh52" : 31.0, "WeekLow52" : 19.07, "DayMA50" : 24.1834, "DayMA200" : 23.8126, "sharesShort" : 2425432.0, "sharesShortPriorMonth" : 2517855.0, "shortRatio" : 11.61, "shortPercent" : 0.052 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.04, "forwardAnnualDividendYield" : 0.0018 } }
+{ "_id" : "adaptimmune", "symbol" : "ADAP", "exchange" : "NASDAQ" }
+{ "_id" : "addtech", "symbol" : "ADDT-B", "exchange" : "ST" }
+{ "_id" : "addvalue-technologies-ltd", "symbol" : "A31", "exchange" : "SG" }
+{ "_id" : "addnode-group", "symbol" : "ANOD-B", "exchange" : "ST" }
+{ "_id" : "adex-mining", "symbol" : "ADE", "exchange" : "V" }
+{ "_id" : "adacel-technologies", "symbol" : "ADA", "exchange" : "AU" }
+{ "_id" : "adesto-technologies", "symbol" : "IOTS", "exchange" : "NASDAQ" }
+{ "_id" : "adecoagro-brasil-participacoes-sa", "symbol" : "ACD", "exchange" : "BE" }
+{ "_id" : "adherium", "symbol" : "ADR", "exchange" : "AU" }
+{ "_id" : "addus-healthcare", "symbol" : "ADUS", "exchange" : "NASDAQ" }
+{ "_id" : "ades-international-holding", "symbol" : "ADES", "exchange" : "LSE" }
+{ "_id" : "adept4-plc", "symbol" : "AD4", "exchange" : "LSE" }
+{ "_id" : "adidas", "symbol" : "ADS", "exchange" : "XETRA", "highlights" : { "marketCapitalization" : 5.2915183616E10, "EBITDA" : 2.881750016E9, "PERatio" : 29.8603, "PEGRatio" : 1.32, "wallStreetTargetPrice" : 198.06, "bookValue" : 34.874, "dividendShare" : 3.35, "dividendYield" : 0.0123, "earningsShare" : 8.945, "profitMargin" : 0.0806, "operatingMarginTTM" : 0.1115, "returnOnAssetsTTM" : 0.091, "returnOnEquityTTM" : 0.2623, "revenueTTM" : 2.2250000384E10, "revenuePerShareTTM" : 110.972, "quarterlyRevenueGrowthYOY" : 0.06, "grossProfitTTM" : 1.1363E10, "dilutedEpsTTM" : 8.945, "quarterlyEarningsGrowthYOY" : 0.205 }, "valuation" : { "forwardPE" : 33.853, "priceBookMRQ" : 7.659, "enterpriseValueRevenue" : 2.374, "enterpriseValueEbitda" : 18.33 }, "technicals" : { "beta" : 0.6084, "WeekHigh52" : 274.85, "WeekLow52" : 178.15, "DayMA50" : 255.8743, "DayMA200" : 218.4979 }, "splitDividends" : { "forwardAnnualDividendRate" : 3.35, "forwardAnnualDividendYield" : 0.0123, "payoutRatio" : 0.2899 } }
+{ "_id" : "adept-telecom", "symbol" : "ADT", "exchange" : "LSE" }
+{ "_id" : "adial-pharmaceuticals", "symbol" : "ADIL", "exchange" : "NASDAQ" }
+{ "_id" : "addvantage-technologies", "symbol" : "AEY", "exchange" : "NASDAQ" }
+{ "_id" : "adeunis", "symbol" : "ALARF", "exchange" : "PA" }
+{ "_id" : "adlink-technology", "symbol" : "6166", "exchange" : "TW" }
+{ "_id" : "adma-biologics", "symbol" : "ADMA", "exchange" : "NASDAQ" }
+{ "_id" : "adinotec-ag", "symbol" : "N1N", "exchange" : "F" }
+{ "_id" : "adl-partner-hispania-slu", "symbol" : "ALP", "exchange" : "PA" }
+{ "_id" : "adecoagro", "symbol" : "AGRO", "exchange" : "NYSE" }
+{ "_id" : "adient-plc", "symbol" : "ADNT", "exchange" : "NYSE" }
+{ "_id" : "amryt-pharma", "symbol" : "AMYT", "exchange" : "LSE" }
+{ "_id" : "allegiant-travel", "symbol" : "ALGT", "exchange" : "NASDAQ" }
+{ "_id" : "admiral-group", "symbol" : "ADM", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 5.61575936E9, "EBITDA" : 5.031E8, "PERatio" : 15.2412, "wallStreetTargetPrice" : 1965.5, "bookValue" : 2.815, "dividendShare" : 0.9, "dividendYield" : 0.0438, "earningsShare" : 136.8, "profitMargin" : 0.3123, "operatingMarginTTM" : 0.3882, "returnOnAssetsTTM" : 0.0485, "returnOnEquityTTM" : 0.5473, "revenueTTM" : 1.2652E9, "revenuePerShareTTM" : 4.39, "quarterlyRevenueGrowthYOY" : 0.151, "grossProfitTTM" : 9.151E8, "dilutedEpsTTM" : 136.8, "quarterlyEarningsGrowthYOY" : 0.259 }, "valuation" : { "priceBookMRQ" : 740.6749, "enterpriseValueRevenue" : 2.255, "enterpriseValueEbitda" : 5.671 }, "technicals" : { "beta" : 0.5412, "WeekHigh52" : 2290.0, "WeekLow52" : 1857.0, "DayMA50" : 2087.9714, "DayMA200" : 2112.2888 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.9, "forwardAnnualDividendYield" : 0.0438, "payoutRatio" : 0.587 } }
+{ "_id" : "adobe-systems-2", "symbol" : "ADBE", "exchange" : "NASDAQ" }
+{ "_id" : "adocia", "symbol" : "ADOC", "exchange" : "PA" }
+{ "_id" : "adolfo-dominguez", "symbol" : "ADZ", "exchange" : "MU" }
+{ "_id" : "adp-automatic-data-processing", "symbol" : "ADP", "exchange" : "STU" }
+{ "_id" : "adomani-inc", "symbol" : "ADOM", "exchange" : "NASDAQ" }
+{ "_id" : "adt-corp-the", "symbol" : "ADT", "exchange" : "NYSE" }
+{ "_id" : "apollo-commercial-real-estate-finance", "symbol" : "ARI", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.847127296E9, "PERatio" : 12.3248, "PEGRatio" : 33.37, "wallStreetTargetPrice" : 18.17, "bookValue" : 18.639, "dividendShare" : 1.84, "dividendYield" : 0.1001, "earningsShare" : 1.527, "ePSEstimateCurrentYear" : 1.88, "ePSEstimateNextYear" : 1.92, "ePSEstimateNextQuarter" : 0.46, "profitMargin" : 0.8249, "operatingMarginTTM" : 0.7938, "returnOnAssetsTTM" : 0.0497, "returnOnEquityTTM" : 0.0975, "revenueTTM" : 2.88895008E8, "revenuePerShareTTM" : 2.218, "quarterlyRevenueGrowthYOY" : 0.31, "grossProfitTTM" : 2.69292E8, "dilutedEpsTTM" : 1.527, "quarterlyEarningsGrowthYOY" : 0.122 }, "valuation" : { "forwardPE" : 9.8021, "priceBookMRQ" : 1.0097, "enterpriseValueRevenue" : 17.752 }, "technicals" : { "beta" : 0.5535, "WeekHigh52" : 19.57, "WeekLow52" : 16.41, "DayMA50" : 18.6851, "DayMA200" : 18.2447, "sharesShort" : 6775529.0, "sharesShortPriorMonth" : 1.0277108E7, "shortRatio" : 3.28, "shortPercent" : 0.0669 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.84, "forwardAnnualDividendYield" : 0.1001, "payoutRatio" : 1.2026 } }
+{ "_id" : "adomos", "symbol" : "ALADO", "exchange" : "PA" }
+{ "_id" : "adtran", "symbol" : "ATN", "exchange" : "F", "highlights" : { "marketCapitalization" : 6.97044032E8, "EBITDA" : -1.164E7, "bookValue" : 9.284, "dividendShare" : 0.32, "dividendYield" : 0.0257, "earningsShare" : 0.162, "profitMargin" : 0.014, "operatingMarginTTM" : 0.0515, "returnOnAssetsTTM" : 0.0279, "returnOnEquityTTM" : 0.0169, "revenueTTM" : 5.52262016E8, "revenuePerShareTTM" : 11.561, "quarterlyRevenueGrowthYOY" : 0.19, "grossProfitTTM" : 2.03565E8, "dilutedEpsTTM" : 0.162 }, "valuation" : { "priceBookMRQ" : 1.5597, "enterpriseValueRevenue" : 1.067, "enterpriseValueEbitda" : 50.617 }, "technicals" : { "beta" : 1.2231, "WeekHigh52" : 16.13, "WeekLow52" : 9.14, "DayMA50" : 13.8441, "DayMA200" : 12.1177 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.32, "forwardAnnualDividendYield" : 0.0257 } }
+{ "_id" : "adva-optical-networking-ltd", "symbol" : "ADV", "exchange" : "XETRA" }
+{ "_id" : "advance-gold", "symbol" : "AAX", "exchange" : "V" }
+{ "_id" : "aduro-biotech", "symbol" : "ADRO", "exchange" : "NASDAQ" }
+{ "_id" : "advance-disposal-services", "symbol" : "ADSW", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.851924992E9, "EBITDA" : 3.886E8, "PERatio" : 2139.3335, "PEGRatio" : 1.66, "wallStreetTargetPrice" : 31.63, "bookValue" : 10.243, "earningsShare" : 0.015, "ePSEstimateCurrentYear" : 0.54, "ePSEstimateNextYear" : 0.72, "ePSEstimateNextQuarter" : 0.18, "profitMargin" : 8.0E-4, "operatingMarginTTM" : 0.063, "returnOnAssetsTTM" : 0.0176, "returnOnEquityTTM" : 0.0014, "revenueTTM" : 1.577500032E9, "revenuePerShareTTM" : 17.796, "quarterlyRevenueGrowthYOY" : 0.053, "grossProfitTTM" : 5.503E8, "dilutedEpsTTM" : 0.015 }, "valuation" : { "forwardPE" : 44.5694, "priceBookMRQ" : 3.1329, "enterpriseValueRevenue" : 3.018, "enterpriseValueEbitda" : 12.252 }, "technicals" : { "beta" : 0.763, "WeekHigh52" : 33.01, "WeekLow52" : 22.05, "DayMA50" : 32.1774, "DayMA200" : 28.0175, "sharesShort" : 4378039.0, "sharesShortPriorMonth" : 2122923.0, "shortRatio" : 3.24, "shortPercent" : 0.0607 } }
+{ "_id" : "advanc-ed", "symbol" : "7463", "exchange" : "TSE" }
+{ "_id" : "advanced-card-systems", "symbol" : "CQZ", "exchange" : "BE" }
+{ "_id" : "advanced-energy-industries-gmbh", "symbol" : "AVX", "exchange" : "BE" }
+{ "_id" : "advanced-health", "symbol" : "AVL", "exchange" : "JSE" }
+{ "_id" : "adslot-technologies-pty-ltd", "symbol" : "ADJ", "exchange" : "AU" }
+{ "_id" : "advanced-credit-technologies", "symbol" : "ACRT", "exchange" : "PINK" }
+{ "_id" : "advanced-oncotherapy", "symbol" : "AVO", "exchange" : "LSE" }
+{ "_id" : "advance-auto-parts", "symbol" : "AAP", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.0967937024E10, "EBITDA" : 9.58318016E8, "PERatio" : 26.2585, "PEGRatio" : 1.56, "wallStreetTargetPrice" : 192.94, "bookValue" : 49.732, "dividendShare" : 0.24, "dividendYield" : 0.0016, "earningsShare" : 5.856, "ePSEstimateCurrentYear" : 8.2, "ePSEstimateNextYear" : 9.48, "ePSEstimateNextQuarter" : 2.11, "profitMargin" : 0.0445, "operatingMarginTTM" : 0.0747, "returnOnAssetsTTM" : 0.0458, "returnOnEquityTTM" : 0.1211, "revenueTTM" : 9.65874176E9, "revenuePerShareTTM" : 131.986, "quarterlyRevenueGrowthYOY" : 0.027, "grossProfitTTM" : 4.226153E9, "dilutedEpsTTM" : 5.856, "quarterlyEarningsGrowthYOY" : 0.076 }, "valuation" : { "forwardPE" : 16.2205, "priceBookMRQ" : 3.092, "enterpriseValueRevenue" : 1.424, "enterpriseValueEbitda" : 14.355 }, "technicals" : { "beta" : 1.2344, "WeekHigh52" : 186.15, "WeekLow52" : 133.32, "DayMA50" : 157.3823, "DayMA200" : 162.5868, "sharesShort" : 3392796.0, "sharesShortPriorMonth" : 2762208.0, "shortRatio" : 2.49, "shortPercent" : 0.0558 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.24, "forwardAnnualDividendYield" : 0.0016, "payoutRatio" : 0.0419 } }
+{ "_id" : "advanced-accelerator-applications-italy-srl", "symbol" : "AAAP", "exchange" : "NASDAQ" }
+{ "_id" : "advanced-photonix-inc", "symbol" : "API", "exchange" : "AMEX" }
+{ "_id" : "advantage-lithium", "symbol" : "AAL", "exchange" : "V" }
+{ "_id" : "advanced-emissions-solutions", "symbol" : "ADES", "exchange" : "NASDAQ" }
+{ "_id" : "advanced-proteome-therapeutics", "symbol" : "APC", "exchange" : "V" }
+{ "_id" : "advanced-biomedical-technologies", "symbol" : "ABMT", "exchange" : "OTCMKTS" }
+{ "_id" : "advantech", "symbol" : "2395", "exchange" : "TW" }
+{ "_id" : "advantest-korea-co-ltd", "symbol" : "VAN", "exchange" : "F" }
+{ "_id" : "advanced-medical-solutions", "symbol" : "AMS", "exchange" : "LSE" }
+{ "_id" : "advanced-life-sciences-holdings", "symbol" : "ADLS", "exchange" : "OTCMKTS" }
+{ "_id" : "advantest", "symbol" : "6857", "exchange" : "TSE", "highlights" : { "marketCapitalization" : 5.54924376064E11, "PERatio" : 30.2641, "wallStreetTargetPrice" : 2809.9, "grossProfitTTM" : 1.06588E11 }, "valuation" : { "forwardPE" : 14.378 }, "technicals" : { "WeekHigh52" : 3470.0, "WeekLow52" : 1788.0, "DayMA50" : 3033.25, "DayMA200" : 2531.4966 } }
+{ "_id" : "advanced-share-registry", "symbol" : "ASW", "exchange" : "AU" }
+{ "_id" : "advanced-voice-recognition-systems", "symbol" : "AVOI", "exchange" : "PINK" }
+{ "_id" : "advent-energy-ltd", "symbol" : "MMR", "exchange" : "AU" }
+{ "_id" : "advanced-drainage-systems", "symbol" : "WMS", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.809160704E9, "EBITDA" : 2.00199008E8, "PERatio" : 25.6639, "PEGRatio" : 1.66, "wallStreetTargetPrice" : 31.25, "bookValue" : 6.685, "dividendShare" : 0.36, "dividendYield" : 0.0115, "earningsShare" : 1.22, "ePSEstimateNextQuarter" : 0.55, "profitMargin" : 0.0562, "operatingMarginTTM" : 0.0946, "returnOnAssetsTTM" : 0.0785, "returnOnEquityTTM" : 0.1249, "revenueTTM" : 1.384733056E9, "revenuePerShareTTM" : 24.283, "quarterlyRevenueGrowthYOY" : 0.088, "grossProfitTTM" : 3.26967E8, "dilutedEpsTTM" : 1.22 }, "valuation" : { "forwardPE" : 19.5687, "priceBookMRQ" : 4.6836, "enterpriseValueRevenue" : 1.739, "enterpriseValueEbitda" : 12.028 }, "technicals" : { "beta" : 0.9349, "WeekHigh52" : 33.5, "WeekLow52" : 23.04, "DayMA50" : 29.0383, "DayMA200" : 26.4857, "sharesShort" : 1188353.0, "sharesShortPriorMonth" : 1082583.0, "shortRatio" : 4.94, "shortPercent" : 0.0329 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.36, "forwardAnnualDividendYield" : 0.0115, "payoutRatio" : 0.2623 } }
+{ "_id" : "adventus-zinc", "symbol" : "ADZN", "exchange" : "V" }
+{ "_id" : "advantage-healthcare-holdings-ltd", "symbol" : "IRV", "exchange" : "LSE" }
+{ "_id" : "advfn", "symbol" : "AFN", "exchange" : "LSE" }
+{ "_id" : "advant-e-corporation", "symbol" : "ADVC", "exchange" : "PINK" }
+{ "_id" : "advanced-info-service", "symbol" : "AVIFY", "exchange" : "PINK" }
+{ "_id" : "adyen", "symbol" : "ADYEN", "exchange" : "AS" }
+{ "_id" : "adworks-2", "symbol" : "3250", "exchange" : "TSE" }
+{ "_id" : "advenica", "symbol" : "ADVE", "exchange" : "NFN" }
+{ "_id" : "advini", "symbol" : "ADVI", "exchange" : "PA" }
+{ "_id" : "advicenne", "symbol" : "ADVIC", "exchange" : "PA" }
+{ "_id" : "aecon-mining", "symbol" : "ARE", "exchange" : "TO", "highlights" : { "marketCapitalization" : 1.12542848E9, "EBITDA" : 1.76332992E8, "PERatio" : 17.3527, "PEGRatio" : 8.2, "wallStreetTargetPrice" : 23.39, "bookValue" : 13.263, "dividendShare" : 0.58, "dividendYield" : 0.0303, "earningsShare" : 1.069, "ePSEstimateCurrentYear" : 1.11, "ePSEstimateNextYear" : 1.25, "ePSEstimateNextQuarter" : 0.61, "profitMargin" : 0.0203, "operatingMarginTTM" : 0.0248, "returnOnAssetsTTM" : 0.0197, "returnOnEquityTTM" : 0.0886, "revenueTTM" : 3.373299968E9, "revenuePerShareTTM" : 56.152, "quarterlyRevenueGrowthYOY" : 0.197, "grossProfitTTM" : 3.5712E8, "dilutedEpsTTM" : 1.069 }, "valuation" : { "forwardPE" : 14.84, "priceBookMRQ" : 1.3986, "enterpriseValueRevenue" : 0.369, "enterpriseValueEbitda" : 7.053 }, "technicals" : { "beta" : 0.096, "WeekHigh52" : 19.79, "WeekLow52" : 14.27, "DayMA50" : 17.9249, "DayMA200" : 18.2491, "sharesShort" : 1521705.0, "sharesShortPriorMonth" : 1656023.0, "shortRatio" : 4.79 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.58, "forwardAnnualDividendYield" : 0.0303, "payoutRatio" : 0.4727 } }
+{ "_id" : "adways-inc", "symbol" : "2489", "exchange" : "TSE" }
+{ "_id" : "aecon", "symbol" : "ARE", "exchange" : "TO" }
+{ "_id" : "advaxis", "symbol" : "ADXS", "exchange" : "NASDAQ" }
+{ "_id" : "advisory", "symbol" : "ABCO", "exchange" : "NASDAQ" }
+{ "_id" : "aehr-test-systems", "symbol" : "AEHR", "exchange" : "NASDAQ" }
+{ "_id" : "aeci", "symbol" : "A7Z", "exchange" : "BE" }
+{ "_id" : "aeglea-biotherapeutics", "symbol" : "AGLE", "exchange" : "NASDAQ" }
+{ "_id" : "aedes-servizi-spa", "symbol" : "AE", "exchange" : "MI" }
+{ "_id" : "ae-biofuels-inc", "symbol" : "AMTX", "exchange" : "NASDAQ" }
+{ "_id" : "aecom-australia-pty-ltd", "symbol" : "ACM", "exchange" : "NYSE" }
+{ "_id" : "aeorema-communications", "symbol" : "AEO", "exchange" : "LSE" }
+{ "_id" : "aeon-magazine", "symbol" : "JUS1", "exchange" : "BE" }
+{ "_id" : "aei-corporation", "symbol" : "AWG", "exchange" : "SG" }
+{ "_id" : "aeon-global-health", "symbol" : "AGHC", "exchange" : "OTCQB" }
+{ "_id" : "aep-pro-serv", "symbol" : "AEP", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.4833595392E10, "EBITDA" : 5.1008E9, "PERatio" : 21.9469, "PEGRatio" : 7.49, "wallStreetTargetPrice" : 86.19, "bookValue" : 38.904, "dividendShare" : 2.68, "dividendYield" : 0.0299, "earningsShare" : 4.14, "ePSEstimateCurrentYear" : 4.13, "ePSEstimateNextYear" : 4.4, "ePSEstimateNextQuarter" : 1.22, "profitMargin" : 0.126, "operatingMarginTTM" : 0.1826, "returnOnAssetsTTM" : 0.0271, "returnOnEquityTTM" : 0.1082, "revenueTTM" : 1.6204199936E10, "revenuePerShareTTM" : 32.866, "quarterlyRevenueGrowthYOY" : 0.002, "grossProfitTTM" : 6.1826E9, "dilutedEpsTTM" : 4.14, "quarterlyEarningsGrowthYOY" : 0.261 }, "valuation" : { "forwardPE" : 20.65, "priceBookMRQ" : 2.3355, "enterpriseValueRevenue" : 4.427, "enterpriseValueEbitda" : 14.064 }, "technicals" : { "beta" : 0.1453, "WeekHigh52" : 91.19, "WeekLow52" : 66.45, "DayMA50" : 86.8683, "DayMA200" : 81.71, "sharesShort" : 7073205.0, "sharesShortPriorMonth" : 6469884.0, "shortRatio" : 3.2, "shortPercent" : 0.0143 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.68, "forwardAnnualDividendYield" : 0.0299, "payoutRatio" : 0.6232 } }
+{ "_id" : "aegean-marine-petroleum-network", "symbol" : "ANW", "exchange" : "NYSE" }
+{ "_id" : "aequus-pharmaceuticals", "symbol" : "AQS", "exchange" : "V" }
+{ "_id" : "aeolus-pharmaceuticals", "symbol" : "AOLS", "exchange" : "PINK" }
+{ "_id" : "aeris-environmental", "symbol" : "AEI", "exchange" : "AU" }
+{ "_id" : "aercap", "symbol" : "AER", "exchange" : "NYSE" }
+{ "_id" : "aegion-corporation", "symbol" : "AEGN", "exchange" : "NASDAQ" }
+{ "_id" : "aeria-games-entertainment-inc", "symbol" : "3758", "exchange" : "TSE" }
+{ "_id" : "aero-grow-international", "symbol" : "AERO", "exchange" : "OTCQB" }
+{ "_id" : "aerohive-networks", "symbol" : "HIVE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.84196816E8, "EBITDA" : -1.5865E7, "PEGRatio" : 1.42, "wallStreetTargetPrice" : 4.5, "bookValue" : 0.229, "earningsShare" : 0.355, "ePSEstimateCurrentYear" : 0.05, "ePSEstimateNextYear" : 0.06, "ePSEstimateNextQuarter" : 0.02, "profitMargin" : 0.1293, "operatingMarginTTM" : 0.1246, "returnOnAssetsTTM" : 0.0891, "returnOnEquityTTM" : 1.2097, "revenueTTM" : 1.52159008E8, "revenuePerShareTTM" : 2.743, "quarterlyRevenueGrowthYOY" : 0.077, "grossProfitTTM" : 1.02004E8, "dilutedEpsTTM" : 0.355 }, "valuation" : { "forwardPE" : 54.5, "priceBookMRQ" : 14.2795, "enterpriseValueRevenue" : 0.582, "enterpriseValueEbitda" : 5.578 }, "technicals" : { "beta" : 0.7727, "WeekHigh52" : 5.18, "WeekLow52" : 3.12, "DayMA50" : 3.4183, "DayMA200" : 3.8128, "sharesShort" : 1127617.0, "sharesShortPriorMonth" : 538201.0, "shortRatio" : 3.27, "shortPercent" : 0.0247 } }
+{ "_id" : "aeronautics", "symbol" : "ARCS", "exchange" : "TA" }
+{ "_id" : "aeroports-de-paris", "symbol" : "ADP", "exchange" : "PA" }
+{ "_id" : "verizon-fios", "symbol" : "VZ", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.38340964352E11, "EBITDA" : 4.8577998848E10, "PERatio" : 14.8876, "PEGRatio" : 11.45, "wallStreetTargetPrice" : 59.71, "bookValue" : 13.506, "dividendShare" : 2.41, "dividendYield" : 0.042, "earningsShare" : 3.871, "ePSEstimateCurrentYear" : 4.74, "ePSEstimateNextYear" : 4.85, "ePSEstimateNextQuarter" : 1.23, "profitMargin" : 0.1221, "operatingMarginTTM" : 0.2383, "returnOnAssetsTTM" : 0.0713, "returnOnEquityTTM" : 0.3011, "revenueTTM" : 1.31218997248E11, "revenuePerShareTTM" : 31.722, "quarterlyRevenueGrowthYOY" : 0.011, "grossProfitTTM" : 7.5658E10, "dilutedEpsTTM" : 3.871, "quarterlyEarningsGrowthYOY" : 0.098 }, "valuation" : { "forwardPE" : 11.8825, "priceBookMRQ" : 4.267, "enterpriseValueRevenue" : 2.84, "enterpriseValueEbitda" : 7.67 }, "technicals" : { "beta" : 0.4742, "WeekHigh52" : 61.58, "WeekLow52" : 47.81, "DayMA50" : 57.328, "DayMA200" : 57.0184, "sharesShort" : 2.8338425E7, "sharesShortPriorMonth" : 2.8328334E7, "shortRatio" : 2.01, "shortPercent" : 0.0069 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.41, "forwardAnnualDividendYield" : 0.042, "payoutRatio" : 0.6195 } }
+{ "_id" : "aes", "symbol" : "AES", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.1177162752E10, "EBITDA" : 3.304999936E9, "PERatio" : 16.6403, "PEGRatio" : 1.1, "wallStreetTargetPrice" : 18.0, "bookValue" : 4.873, "dividendShare" : 0.55, "dividendYield" : 0.0346, "earningsShare" : 1.012, "ePSEstimateCurrentYear" : 1.33, "ePSEstimateNextYear" : 1.45, "ePSEstimateNextQuarter" : 0.35, "profitMargin" : 0.0632, "operatingMarginTTM" : 0.217, "returnOnAssetsTTM" : 0.0437, "returnOnEquityTTM" : 0.1424, "revenueTTM" : 1.0645999616E10, "revenuePerShareTTM" : 16.069, "quarterlyRevenueGrowthYOY" : 0.033, "grossProfitTTM" : 2.574E9, "dilutedEpsTTM" : 1.012, "quarterlyEarningsGrowthYOY" : 0.776 }, "valuation" : { "forwardPE" : 11.6138, "priceBookMRQ" : 3.4558, "enterpriseValueRevenue" : 3.006, "enterpriseValueEbitda" : 9.681 }, "technicals" : { "beta" : 0.6227, "WeekHigh52" : 18.52, "WeekLow52" : 12.55, "DayMA50" : 16.4874, "DayMA200" : 16.6251, "sharesShort" : 1.4221193E7, "sharesShortPriorMonth" : 1.3443941E7, "shortRatio" : 1.9, "shortPercent" : 0.0247 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.55, "forwardAnnualDividendYield" : 0.0346, "payoutRatio" : 0.7769 } }
+{ "_id" : "afc-ajax", "symbol" : "AJXA", "exchange" : "F" }
+{ "_id" : "aerpio-therapeutics", "symbol" : "ARPO", "exchange" : "NASDAQ" }
+{ "_id" : "aerovironment", "symbol" : "AVAV", "exchange" : "NASDAQ" }
+{ "_id" : "afa-protective-systems", "symbol" : "AFAP", "exchange" : "PINK" }
+{ "_id" : "safecharge-limited", "symbol" : "SCH", "exchange" : "LSE" }
+{ "_id" : "affimed-therapeutics-ag", "symbol" : "AFMD", "exchange" : "NASDAQ" }
+{ "_id" : "aeterna-zentaris", "symbol" : "AEZS", "exchange" : "NASDAQ" }
+{ "_id" : "af-mercados", "symbol" : "AF-B", "exchange" : "ST" }
+{ "_id" : "aethlon-medical", "symbol" : "AEMD", "exchange" : "NASDAQ" }
+{ "_id" : "affinegy", "symbol" : "IML", "exchange" : "PA" }
+{ "_id" : "aflac", "symbol" : "AFL", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.1105158144E10, "EBITDA" : 4.514999808E9, "PERatio" : 13.4949, "PEGRatio" : 0.93, "wallStreetTargetPrice" : 50.36, "bookValue" : 34.895, "dividendShare" : 1.08, "dividendYield" : 0.0197, "earningsShare" : 4.086, "ePSEstimateCurrentYear" : 4.3, "ePSEstimateNextYear" : 4.45, "ePSEstimateNextQuarter" : 1.07, "profitMargin" : 0.1426, "operatingMarginTTM" : 0.2035, "returnOnAssetsTTM" : 0.0191, "returnOnEquityTTM" : 0.1244, "revenueTTM" : 2.1951000576E10, "revenuePerShareTTM" : 28.777, "quarterlyRevenueGrowthYOY" : 0.035, "grossProfitTTM" : 7.193E9, "dilutedEpsTTM" : 4.086, "quarterlyEarningsGrowthYOY" : 0.352 }, "valuation" : { "forwardPE" : 12.391, "priceBookMRQ" : 1.5802, "enterpriseValueRevenue" : 2.021, "enterpriseValueEbitda" : 9.827 }, "technicals" : { "beta" : 0.4438, "WeekHigh52" : 55.45, "WeekLow52" : 41.45, "DayMA50" : 52.1643, "DayMA200" : 48.7654, "sharesShort" : 9036177.0, "sharesShortPriorMonth" : 9574127.0, "shortRatio" : 3.07, "shortPercent" : 0.0122 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.08, "forwardAnnualDividendYield" : 0.0197, "payoutRatio" : 0.2567 } }
+{ "_id" : "aetna", "symbol" : "AET", "exchange" : "NYSE", "highlights" : { "PEGRatio" : 1.74, "wallStreetTargetPrice" : 208.31 }, "technicals" : { "WeekHigh52" : 213.36, "WeekLow52" : 211.79 } }
+{ "_id" : "afc-energy", "symbol" : "AFC", "exchange" : "LSE" }
+{ "_id" : "affymax-research-institute", "symbol" : "AFFY", "exchange" : "PINK" }
+{ "_id" : "afglobal-corp", "symbol" : "L38", "exchange" : "SG" }
+{ "_id" : "affinor-growers", "symbol" : "RSSFF", "exchange" : "OTCQB" }
+{ "_id" : "agc-networks-inc", "symbol" : "AGCNET", "exchange" : "NSE" }
+{ "_id" : "africa-oil-corp", "symbol" : "AOIFF", "exchange" : "PINK" }
+{ "_id" : "agco-corporation", "symbol" : "AGCO", "exchange" : "NYSE" }
+{ "_id" : "african-gold-group", "symbol" : "AGG", "exchange" : "V" }
+{ "_id" : "afc-holding-co-inc", "symbol" : "AFG", "exchange" : "NYSE" }
+{ "_id" : "ag-growth-international", "symbol" : "AFN", "exchange" : "TO" }
+{ "_id" : "ageagle", "symbol" : "UAVS", "exchange" : "NYSE" }
+{ "_id" : "aft-pharmaceuticals", "symbol" : "AFP", "exchange" : "AU" }
+{ "_id" : "afterpay", "symbol" : "APT", "exchange" : "AU" }
+{ "_id" : "african-rainbow-minerals", "symbol" : "EB9", "exchange" : "F" }
+{ "_id" : "afone", "symbol" : "AFO", "exchange" : "PA" }
+{ "_id" : "afrimat", "symbol" : "AFT", "exchange" : "JSE" }
+{ "_id" : "afritin-mining", "symbol" : "ATM", "exchange" : "LSE" }
+{ "_id" : "agco-finance-ltd", "symbol" : "PAE", "exchange" : "HM" }
+{ "_id" : "agennix-inc", "symbol" : "AGX", "exchange" : "MU" }
+{ "_id" : "ageas", "symbol" : "AGS", "exchange" : "MI" }
+{ "_id" : "aggreko", "symbol" : "AGK", "exchange" : "LSE" }
+{ "_id" : "after-master", "symbol" : "AFTM", "exchange" : "OTCQB" }
+{ "_id" : "affluent-partners", "symbol" : "1466", "exchange" : "HK" }
+{ "_id" : "agri-tech-producers", "symbol" : "537292", "exchange" : "BSE" }
+{ "_id" : "affiliated-managers-group", "symbol" : "AMG", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.450755072E9, "EBITDA" : 8.854E8, "PEGRatio" : 0.95, "wallStreetTargetPrice" : 112.63, "bookValue" : 61.097, "dividendShare" : 1.28, "dividendYield" : 0.0147, "earningsShare" : 2.18, "ePSEstimateCurrentYear" : 13.7, "ePSEstimateNextYear" : 14.95, "ePSEstimateNextQuarter" : 3.23, "profitMargin" : 0.0477, "operatingMarginTTM" : 0.3215, "returnOnAssetsTTM" : 0.0571, "returnOnEquityTTM" : 0.0355, "revenueTTM" : 2.309100032E9, "revenuePerShareTTM" : 43.63, "quarterlyRevenueGrowthYOY" : 0.113, "grossProfitTTM" : 1.3912E9, "dilutedEpsTTM" : 2.18 }, "valuation" : { "forwardPE" : 5.8147, "priceBookMRQ" : 1.4228, "enterpriseValueRevenue" : 3.258, "enterpriseValueEbitda" : 8.497 }, "technicals" : { "beta" : 1.6859, "WeekHigh52" : 163.55, "WeekLow52" : 83.1, "DayMA50" : 91.896, "DayMA200" : 102.3334, "sharesShort" : 2035575.0, "sharesShortPriorMonth" : 1253172.0, "shortRatio" : 2.86, "shortPercent" : 0.0446 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.28, "forwardAnnualDividendYield" : 0.0147 } }
+{ "_id" : "agfa-gevaert", "symbol" : "AGFB", "exchange" : "BR" }
+{ "_id" : "agora-sa", "symbol" : "AGO", "exchange" : "WAR" }
+{ "_id" : "ags", "symbol" : "3648", "exchange" : "TSE" }
+{ "_id" : "agrogeneration", "symbol" : "ALAGR", "exchange" : "PA" }
+{ "_id" : "agree-realty", "symbol" : "ADC", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.64389376E9, "EBITDA" : 1.27172E8, "PERatio" : 38.9698, "PEGRatio" : 28.74, "wallStreetTargetPrice" : 73.0, "bookValue" : 33.645, "dividendShare" : 2.28, "dividendYield" : 0.0341, "earningsShare" : 1.757, "ePSEstimateCurrentYear" : 1.69, "ePSEstimateNextYear" : 1.75, "ePSEstimateNextQuarter" : 0.42, "profitMargin" : 0.3797, "operatingMarginTTM" : 0.5092, "returnOnAssetsTTM" : 0.0274, "returnOnEquityTTM" : 0.0551, "revenueTTM" : 1.58216992E8, "revenuePerShareTTM" : 4.689, "quarterlyRevenueGrowthYOY" : 0.31, "grossProfitTTM" : 1.31184E8, "dilutedEpsTTM" : 1.757, "quarterlyEarningsGrowthYOY" : 0.094 }, "valuation" : { "forwardPE" : 39.1257, "priceBookMRQ" : 2.0351, "enterpriseValueRevenue" : 21.268, "enterpriseValueEbitda" : 26.459 }, "technicals" : { "beta" : 0.0509, "WeekHigh52" : 70.26, "WeekLow52" : 50.72, "DayMA50" : 66.81, "DayMA200" : 64.9079, "sharesShort" : 4596760.0, "sharesShortPriorMonth" : 4857489.0, "shortRatio" : 13.25, "shortPercent" : 0.2063 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.28, "forwardAnnualDividendYield" : 0.0341, "payoutRatio" : 1.2659 } }
+{ "_id" : "agios-pharmaceuticals", "symbol" : "AGIO", "exchange" : "NASDAQ" }
+{ "_id" : "agillic", "symbol" : "AGILC", "exchange" : "NFN" }
+{ "_id" : "agility-health", "symbol" : "AHI", "exchange" : "V" }
+{ "_id" : "agnico-eagle-mines-limited", "symbol" : "AEM", "exchange" : "NYSE" }
+{ "_id" : "aggregated-micro-power", "symbol" : "AMPH", "exchange" : "LSE" }
+{ "_id" : "ahlsell-sverige-ab", "symbol" : "AHSL", "exchange" : "ST" }
+{ "_id" : "ahresty-wilmington-corporation", "symbol" : "5852", "exchange" : "TSE" }
+{ "_id" : "agile-therapeutics", "symbol" : "AGRX", "exchange" : "NASDAQ" }
+{ "_id" : "agri-dynamics", "symbol" : "AGDY", "exchange" : "PINK" }
+{ "_id" : "ahg-2", "symbol" : "AHG", "exchange" : "AU" }
+{ "_id" : "agricultural-bank-of-china", "symbol" : "1288", "exchange" : "HK" }
+{ "_id" : "agt-food-and-ingredients", "symbol" : "AGT", "exchange" : "TO" }
+{ "_id" : "agilysys-inc", "symbol" : "AGYS", "exchange" : "NASDAQ" }
+{ "_id" : "agrivest-americas", "symbol" : "NXCN", "exchange" : "PINK" }
+{ "_id" : "ahlers-belgium-n-v", "symbol" : "AAH", "exchange" : "BE" }
+{ "_id" : "agtech-holdings", "symbol" : "8279", "exchange" : "HK" }
+{ "_id" : "agta-record", "symbol" : "AGTA", "exchange" : "PA" }
+{ "_id" : "agritek-holdings", "symbol" : "AGTK", "exchange" : "PINK" }
+{ "_id" : "agile-contents", "symbol" : "AGIL", "exchange" : "MC" }
+{ "_id" : "agenus", "symbol" : "AGEN", "exchange" : "NASDAQ" }
+{ "_id" : "aia-group", "symbol" : "1299", "exchange" : "HK" }
+{ "_id" : "agro-tech-foods", "symbol" : "ATFL", "exchange" : "NSE" }
+{ "_id" : "aguia-resources", "symbol" : "AGR", "exchange" : "AU" }
+{ "_id" : "aigang", "symbol" : "9854", "exchange" : "TSE" }
+{ "_id" : "aileron-therapeutics", "symbol" : "ALRN", "exchange" : "NASDAQ" }
+{ "_id" : "aim-exploration", "symbol" : "AEXE", "exchange" : "PINK" }
+{ "_id" : "aimco", "symbol" : "AIV", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 8.127520256E9, "EBITDA" : 5.80296E8, "PERatio" : 9.0537, "PEGRatio" : 15.2, "wallStreetTargetPrice" : 51.58, "bookValue" : 11.822, "dividendShare" : 1.56, "dividendYield" : 0.0312, "earningsShare" : 5.664, "ePSEstimateCurrentYear" : 2.17, "ePSEstimateNextYear" : 0.31, "ePSEstimateNextQuarter" : 0.09, "profitMargin" : 0.9036, "operatingMarginTTM" : 0.215, "returnOnAssetsTTM" : 0.0203, "returnOnEquityTTM" : 0.4769, "revenueTTM" : 9.47937984E8, "revenuePerShareTTM" : 6.352, "quarterlyRevenueGrowthYOY" : 0.071, "grossProfitTTM" : 6.36601E8, "dilutedEpsTTM" : 5.664, "quarterlyEarningsGrowthYOY" : 2.502 }, "valuation" : { "forwardPE" : 165.4193, "priceBookMRQ" : 4.3377, "enterpriseValueRevenue" : 13.204, "enterpriseValueEbitda" : 21.569 }, "technicals" : { "beta" : 0.5723, "WeekHigh52" : 52.0, "WeekLow52" : 40.74, "DayMA50" : 50.2757, "DayMA200" : 48.6929, "sharesShort" : 2248327.0, "sharesShortPriorMonth" : 1416243.0, "shortRatio" : 2.18, "shortPercent" : 0.0221 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.56, "forwardAnnualDividendYield" : 0.0312, "payoutRatio" : 0.2777 } }
+{ "_id" : "applied-materials-etec-systems", "symbol" : "AMAT", "exchange" : "NASDAQ" }
+{ "_id" : "air-berlin", "symbol" : "AB1", "exchange" : "F" }
+{ "_id" : "aimia-holdings-uk-ltd", "symbol" : "AIM", "exchange" : "TO" }
+{ "_id" : "aiming", "symbol" : "3911", "exchange" : "TSE" }
+{ "_id" : "air-canada-italy", "symbol" : "AC", "exchange" : "TO" }
+{ "_id" : "aiphone-corporation", "symbol" : "6718", "exchange" : "TSE" }
+{ "_id" : "air-china", "symbol" : "7539", "exchange" : "TSE" }
+{ "_id" : "aiptek", "symbol" : "6225", "exchange" : "TW" }
+{ "_id" : "aino-health-ab", "symbol" : "AINO", "exchange" : "NFN" }
+{ "_id" : "air-liquide", "symbol" : "AI", "exchange" : "MI" }
+{ "_id" : "air-industries-group", "symbol" : "AIRI", "exchange" : "NYSE" }
+{ "_id" : "airbus-group", "symbol" : "AIR", "exchange" : "XETRA" }
+{ "_id" : "air-new-zealand-aircraft-holdings-ltd", "symbol" : "AIR", "exchange" : "NZ" }
+{ "_id" : "air-lease-corporation", "symbol" : "AL", "exchange" : "NYSE" }
+{ "_id" : "airbus-secure-land-communications", "symbol" : "EADSY", "exchange" : "PINK" }
+{ "_id" : "airex-inc", "symbol" : "6944", "exchange" : "TSE" }
+{ "_id" : "air-partner", "symbol" : "AIR", "exchange" : "LSE" }
+{ "_id" : "aircastle", "symbol" : "AYR", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.56534656E9, "PERatio" : 7.1664, "PEGRatio" : 2.29, "wallStreetTargetPrice" : 21.67, "bookValue" : 26.811, "dividendShare" : 1.2, "dividendYield" : 0.0618, "earningsShare" : 2.908, "ePSEstimateCurrentYear" : 2.3, "ePSEstimateNextYear" : 2.63, "ePSEstimateNextQuarter" : 0.61, "profitMargin" : 0.2629, "operatingMarginTTM" : 0.5213, "returnOnAssetsTTM" : 0.0367, "returnOnEquityTTM" : 0.114, "revenueTTM" : 8.56497984E8, "revenuePerShareTTM" : 11.191, "quarterlyRevenueGrowthYOY" : 0.025, "grossProfitTTM" : 5.31674E8, "dilutedEpsTTM" : 2.908, "quarterlyEarningsGrowthYOY" : 0.37 }, "valuation" : { "forwardPE" : 7.924, "priceBookMRQ" : 0.7773, "enterpriseValueRevenue" : 7.417 }, "technicals" : { "beta" : 1.3527, "WeekHigh52" : 22.27, "WeekLow52" : 15.75, "DayMA50" : 20.0317, "DayMA200" : 19.6214, "sharesShort" : 1022324.0, "sharesShortPriorMonth" : 875790.0, "shortRatio" : 3.4, "shortPercent" : 0.0197 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.2, "forwardAnnualDividendYield" : 0.0618, "payoutRatio" : 0.4 } }
+{ "_id" : "air-transport-services-group", "symbol" : "ATSG", "exchange" : "NASDAQ" }
+{ "_id" : "air-water-inc", "symbol" : "0AW", "exchange" : "F" }
+{ "_id" : "airborne-wireless-network", "symbol" : "ABWN", "exchange" : "PINK" }
+{ "_id" : "air-products-polymers-lp", "symbol" : "APD", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.8515108864E10, "EBITDA" : 3.070299904E9, "PERatio" : 28.7191, "PEGRatio" : 5.61, "wallStreetTargetPrice" : 218.32, "bookValue" : 50.723, "dividendShare" : 4.64, "dividendYield" : 0.0212, "earningsShare" : 7.674, "profitMargin" : 0.189, "operatingMarginTTM" : 0.2283, "returnOnAssetsTTM" : 0.0678, "returnOnEquityTTM" : 0.1527, "revenueTTM" : 8.9696E9, "revenuePerShareTTM" : 40.827, "quarterlyRevenueGrowthYOY" : 0.015, "grossProfitTTM" : 2.7407E9, "dilutedEpsTTM" : 7.674, "quarterlyEarningsGrowthYOY" : 0.005 }, "valuation" : { "forwardPE" : 23.5208, "priceBookMRQ" : 4.345, "enterpriseValueRevenue" : 5.528, "enterpriseValueEbitda" : 16.149 }, "technicals" : { "beta" : 0.6659, "WeekHigh52" : 224.61, "WeekLow52" : 148.44, "DayMA50" : 209.87, "DayMA200" : 183.3045, "sharesShort" : 3331189.0, "sharesShortPriorMonth" : 2935084.0, "shortRatio" : 2.63, "shortPercent" : 0.0152 }, "splitDividends" : { "forwardAnnualDividendRate" : 4.64, "forwardAnnualDividendYield" : 0.0212, "payoutRatio" : 0.5963 } }
+{ "_id" : "air-t", "symbol" : "AIRT", "exchange" : "NASDAQ" }
+{ "_id" : "aixtron-inc", "symbol" : "AIXA", "exchange" : "XETRA" }
+{ "_id" : "air-xpanders", "symbol" : "AXP", "exchange" : "AU" }
+{ "_id" : "airgain", "symbol" : "AIRG", "exchange" : "NASDAQ" }
+{ "_id" : "ajinomoto", "symbol" : "2802", "exchange" : "TSE" }
+{ "_id" : "airspan-networks", "symbol" : "AIRO", "exchange" : "PINK" }
+{ "_id" : "airiq", "symbol" : "IQ", "exchange" : "V" }
+{ "_id" : "ait-therapeutics", "symbol" : "AITB", "exchange" : "OTCQB" }
+{ "_id" : "airboss-of-america", "symbol" : "BOS", "exchange" : "TO" }
+{ "_id" : "airmedia", "symbol" : "AMCN", "exchange" : "NASDAQ" }
+{ "_id" : "ajmera-group", "symbol" : "AJMERA", "exchange" : "NSE" }
+{ "_id" : "ajanta-pharma-usa-inc", "symbol" : "AJANTPHARM", "exchange" : "NSE" }
+{ "_id" : "ak-steel", "symbol" : "AKS", "exchange" : "NYSE", "highlights" : { "marketCapitalization" : 7.27591168E8, "EBITDA" : 6.566E8, "PERatio" : 4.7521, "PEGRatio" : 0.28, "wallStreetTargetPrice" : 2.77, "bookValue" : 0.297, "earningsShare" : 0.484, "ePSEstimateCurrentYear" : 0.44, "ePSEstimateNextYear" : 0.4, "ePSEstimateNextQuarter" : 0.15, "profitMargin" : 0.0223, "operatingMarginTTM" : 0.0596, "returnOnAssetsTTM" : 0.0554, "returnOnEquityTTM" : 0.5446, "revenueTTM" : 6.856999936E9, "revenuePerShareTTM" : 21.767, "quarterlyRevenueGrowthYOY" : 0.023, "grossProfitTTM" : 9.072E8, "dilutedEpsTTM" : 0.484 }, "valuation" : { "forwardPE" : 5.75, "priceBookMRQ" : 7.7441, "enterpriseValueRevenue" : 0.489, "enterpriseValueEbitda" : 5.11 }, "technicals" : { "beta" : 2.6067, "WeekHigh52" : 5.4, "WeekLow52" : 2.05, "DayMA50" : 2.5226, "DayMA200" : 2.8326, "sharesShort" : 5.0720281E7, "sharesShortPriorMonth" : 5.0572134E7, "shortRatio" : 6.87, "shortPercent" : 0.2156 } }
+{ "_id" : "akari-therapeutics", "symbol" : "AKTX", "exchange" : "NASDAQ" }
+{ "_id" : "airsonea", "symbol" : "RSH", "exchange" : "AU" }
+{ "_id" : "akenerji-elektrik-uretim", "symbol" : "AKENR", "exchange" : "IS" }
+{ "_id" : "akcea-therapeutics-inc", "symbol" : "AKCA", "exchange" : "NASDAQ" }
+{ "_id" : "akatsuki", "symbol" : "8737", "exchange" : "TSE" }
+{ "_id" : "aker-solutions-as-1", "symbol" : "AKSOo", "exchange" : "NFN" }
+{ "_id" : "airea", "symbol" : "AIEA", "exchange" : "LSE" }
+{ "_id" : "akerman-llp", "symbol" : "AKERo", "exchange" : "NFN" }
+{ "_id" : "aker-capital-as", "symbol" : "AKER", "exchange" : "OL" }
+{ "_id" : "aker-kvaerner-holding-as", "symbol" : "KV7", "exchange" : "BE" }
+{ "_id" : "akorn-2", "symbol" : "FDA", "exchange" : "F" }
+{ "_id" : "akers-biosciences", "symbol" : "AKER", "exchange" : "NASDAQ" }
+{ "_id" : "akcelerant-software-llc", "symbol" : "TEMN", "exchange" : "SW" }
+{ "_id" : "akorn", "symbol" : "AKRX", "exchange" : "NASDAQ" }
+{ "_id" : "akebia-therapeutics", "symbol" : "KERX", "exchange" : "NASDAQ" }
+{ "_id" : "aksh-optifibre", "symbol" : "AKSHOPTFBR", "exchange" : "BSE" }
+{ "_id" : "akamai-technologies-2", "symbol" : "AKAM", "exchange" : "NASDAQ" }
+{ "_id" : "akva-group", "symbol" : "AKVAo", "exchange" : "NFN" }
+{ "_id" : "konami", "symbol" : "KOA", "exchange" : "BE" }
+{ "_id" : "alacer-gold", "symbol" : "AQG", "exchange" : "AU" }
+{ "_id" : "akumin", "symbol" : "AKMNF", "exchange" : "PINK" }
+{ "_id" : "alankit-assignments-ltd", "symbol" : "531082", "exchange" : "BSE" }
+{ "_id" : "aksigorta-inc", "symbol" : "AKGRT", "exchange" : "IS" }
+{ "_id" : "alamo-group", "symbol" : "ALG", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.177902976E9, "EBITDA" : 1.26307E8, "PERatio" : 15.8868, "PEGRatio" : 3.89, "wallStreetTargetPrice" : 119.83, "bookValue" : 44.893, "dividendShare" : 0.48, "dividendYield" : 0.0051, "earningsShare" : 6.309, "ePSEstimateCurrentYear" : 6.44, "ePSEstimateNextYear" : 7.36, "ePSEstimateNextQuarter" : 1.88, "profitMargin" : 0.0718, "operatingMarginTTM" : 0.0991, "returnOnAssetsTTM" : 0.08, "returnOnEquityTTM" : 0.1501, "revenueTTM" : 1.032668992E9, "revenuePerShareTTM" : 88.391, "quarterlyRevenueGrowthYOY" : 0.1, "grossProfitTTM" : 2.56115E8, "dilutedEpsTTM" : 6.309, "quarterlyEarningsGrowthYOY" : 0.048 }, "valuation" : { "forwardPE" : 13.6182, "priceBookMRQ" : 2.2326, "enterpriseValueRevenue" : 1.252, "enterpriseValueEbitda" : 10.235 }, "technicals" : { "beta" : 1.0274, "WeekHigh52" : 106.19, "WeekLow52" : 72.5, "DayMA50" : 99.3283, "DayMA200" : 92.2005, "sharesShort" : 223808.0, "sharesShortPriorMonth" : 185201.0, "shortRatio" : 2.75, "shortPercent" : 0.0279 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.48, "forwardAnnualDividendYield" : 0.0051, "payoutRatio" : 0.0713 } }
+{ "_id" : "aksys-games", "symbol" : "AKSY", "exchange" : "OTCMKTS" }
+{ "_id" : "alaska-hydro", "symbol" : "AKH", "exchange" : "V" }
+{ "_id" : "akzo-nobel-kemipol-a-s", "symbol" : "AKZOINDIA", "exchange" : "NSE" }
+{ "_id" : "alaska-airlines", "symbol" : "ALK", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 7.75868416E9, "EBITDA" : 1.212999936E9, "PERatio" : 17.8681, "PEGRatio" : 1.3, "wallStreetTargetPrice" : 72.67, "bookValue" : 30.331, "dividendShare" : 1.4, "dividendYield" : 0.0222, "earningsShare" : 3.518, "ePSEstimateCurrentYear" : 5.68, "ePSEstimateNextYear" : 6.75, "ePSEstimateNextQuarter" : 2.29, "profitMargin" : 0.0526, "operatingMarginTTM" : 0.0967, "returnOnAssetsTTM" : 0.0427, "returnOnEquityTTM" : 0.1216, "revenueTTM" : 8.307999744E9, "revenuePerShareTTM" : 67.4, "quarterlyRevenueGrowthYOY" : 0.024, "grossProfitTTM" : 2.206E9, "dilutedEpsTTM" : 3.518 }, "valuation" : { "forwardPE" : 9.3126, "priceBookMRQ" : 2.0725, "enterpriseValueRevenue" : 1.205, "enterpriseValueEbitda" : 8.256 }, "technicals" : { "beta" : 1.1492, "WeekHigh52" : 74.83, "WeekLow52" : 53.39, "DayMA50" : 61.1994, "DayMA200" : 61.2215, "sharesShort" : 7844194.0, "sharesShortPriorMonth" : 7346449.0, "shortRatio" : 7.88, "shortPercent" : 0.071 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.4, "forwardAnnualDividendYield" : 0.0222, "payoutRatio" : 0.3722 } }
+{ "_id" : "alarm-com-inc", "symbol" : "ALRM", "exchange" : "NASDAQ" }
+{ "_id" : "al-s-groupe", "symbol" : "ALPHY", "exchange" : "PA" }
+{ "_id" : "alamos-gold", "symbol" : "AGI", "exchange" : "NYSE" }
+{ "_id" : "alaris-royalty", "symbol" : "AD", "exchange" : "TO" }
+{ "_id" : "albawaba", "symbol" : "ABA", "exchange" : "MU" }
+{ "_id" : "alaska-commercial-co-canada", "symbol" : "NNWWF", "exchange" : "OTCMKTS" }
+{ "_id" : "alba-seo-services", "symbol" : "ABA", "exchange" : "HM" }
+{ "_id" : "alba-mineral-resources", "symbol" : "ALBA", "exchange" : "LSE" }
+{ "_id" : "alarko-holding-company", "symbol" : "ALARK", "exchange" : "IS" }
+{ "_id" : "alawwal-bank", "symbol" : "1040", "exchange" : "SR" }
+{ "_id" : "alchemia", "symbol" : "ACL", "exchange" : "AU" }
+{ "_id" : "albany-international", "symbol" : "AIN", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.572870912E9, "EBITDA" : 2.37520992E8, "PERatio" : 24.6733, "PEGRatio" : 2.0, "wallStreetTargetPrice" : 85.0, "bookValue" : 19.297, "dividendShare" : 0.72, "dividendYield" : 0.0103, "earningsShare" : 3.229, "ePSEstimateCurrentYear" : 3.34, "ePSEstimateNextYear" : 3.94, "ePSEstimateNextQuarter" : 0.83, "profitMargin" : 0.1034, "operatingMarginTTM" : 0.163, "returnOnAssetsTTM" : 0.0724, "returnOnEquityTTM" : 0.1711, "revenueTTM" : 1.010249024E9, "revenuePerShareTTM" : 31.311, "quarterlyRevenueGrowthYOY" : 0.124, "grossProfitTTM" : 3.49749E8, "dilutedEpsTTM" : 3.229, "quarterlyEarningsGrowthYOY" : 2.785 }, "valuation" : { "forwardPE" : 20.2208, "priceBookMRQ" : 4.1286, "enterpriseValueRevenue" : 2.766, "enterpriseValueEbitda" : 11.764 }, "technicals" : { "beta" : 1.3899, "WeekHigh52" : 82.2, "WeekLow52" : 58.06, "DayMA50" : 74.4651, "DayMA200" : 71.5479, "sharesShort" : 218836.0, "sharesShortPriorMonth" : 223452.0, "shortRatio" : 0.97, "shortPercent" : 0.0101 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.72, "forwardAnnualDividendYield" : 0.0103, "payoutRatio" : 0.2167 } }
+{ "_id" : "alder-biopharmaceuticals", "symbol" : "ALDR", "exchange" : "NASDAQ" }
+{ "_id" : "albertson-s", "symbol" : "3906", "exchange" : "TSE" }
+{ "_id" : "alba-minerals", "symbol" : "AA", "exchange" : "V" }
+{ "_id" : "alchemist-3", "symbol" : "526707", "exchange" : "BSE" }
+{ "_id" : "alchemy-research-associates-ltd", "symbol" : "45A", "exchange" : "BE" }
+{ "_id" : "alaska-communications-systems-group", "symbol" : "ALSK", "exchange" : "NASDAQ" }
+{ "_id" : "alaris-holdings", "symbol" : "ALH", "exchange" : "JSE" }
+{ "_id" : "alcatel-lucent-2", "symbol" : "ALU", "exchange" : "NYSE" }
+{ "_id" : "albireo-ab", "symbol" : "ALBO", "exchange" : "NASDAQ" }
+{ "_id" : "aldever-resources", "symbol" : "ALD", "exchange" : "V" }
+{ "_id" : "albemarle", "symbol" : "ALB", "exchange" : "NYSE", "highlights" : { "marketCapitalization" : 7.179646464E9, "EBITDA" : 9.28606976E8, "PERatio" : 10.5234, "PEGRatio" : 2.12, "wallStreetTargetPrice" : 101.69, "bookValue" : 34.66, "dividendShare" : 1.47, "dividendYield" : 0.0196, "earningsShare" : 6.439, "ePSEstimateCurrentYear" : 6.24, "ePSEstimateNextYear" : 6.75, "ePSEstimateNextQuarter" : 1.68, "profitMargin" : 0.2054, "operatingMarginTTM" : 0.2153, "returnOnAssetsTTM" : 0.0591, "returnOnEquityTTM" : 0.1926, "revenueTTM" : 3.38538496E9, "revenuePerShareTTM" : 31.578, "quarterlyRevenueGrowthYOY" : 0.013, "grossProfitTTM" : 1.234756E9, "dilutedEpsTTM" : 6.439, "quarterlyEarningsGrowthYOY" : 0.068 }, "valuation" : { "forwardPE" : 10.0385, "priceBookMRQ" : 1.955, "enterpriseValueRevenue" : 2.668, "enterpriseValueEbitda" : 9.726 }, "technicals" : { "beta" : 0.961, "WeekHigh52" : 108.74, "WeekLow52" : 67.6, "DayMA50" : 78.7097, "DayMA200" : 84.4304, "sharesShort" : 1.3259586E7, "sharesShortPriorMonth" : 1.2481365E7, "shortRatio" : 9.61, "shortPercent" : 0.1433 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.47, "forwardAnnualDividendYield" : 0.0196, "payoutRatio" : 0.2114 } }
+{ "_id" : "alembic", "symbol" : "APLLTD", "exchange" : "NSE" }
+{ "_id" : "aldershot-resources", "symbol" : "ALZ", "exchange" : "V" }
+{ "_id" : "alderon", "symbol" : "AXXDF", "exchange" : "OTCGREY" }
+{ "_id" : "aldeyra-therapeutics", "symbol" : "ALDX", "exchange" : "NASDAQ" }
+{ "_id" : "albioma", "symbol" : "ABIO", "exchange" : "PA" }
+{ "_id" : "aldridge-minerals", "symbol" : "AGM", "exchange" : "V" }
+{ "_id" : "alcoa", "symbol" : "AA", "exchange" : "NYSE" }
+{ "_id" : "alderan-resources-ltd", "symbol" : "AL8", "exchange" : "AU" }
+{ "_id" : "alexander-forbes", "symbol" : "AFH", "exchange" : "JSE" }
+{ "_id" : "alfa-laval-champ-inc", "symbol" : "AA9", "exchange" : "BE" }
+{ "_id" : "alfa-2", "symbol" : "ALFA", "exchange" : "ST" }
+{ "_id" : "alexander-mining", "symbol" : "AXM", "exchange" : "LSE" }
+{ "_id" : "alexander-baldwin", "symbol" : "ALEX", "exchange" : "NYSE" }
+{ "_id" : "alexander-s-inc", "symbol" : "ALX", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.976572416E9, "EBITDA" : 1.31939E8, "PERatio" : 32.7836, "wallStreetTargetPrice" : 390.0, "bookValue" : 54.812, "dividendShare" : 18.0, "dividendYield" : 0.0489, "earningsShare" : 11.805, "profitMargin" : 0.2607, "operatingMarginTTM" : 0.4334, "returnOnAssetsTTM" : 0.0431, "returnOnEquityTTM" : 0.2044, "revenueTTM" : 2.31723008E8, "revenuePerShareTTM" : 45.283, "quarterlyRevenueGrowthYOY" : 0.019, "grossProfitTTM" : 1.3905E8, "dilutedEpsTTM" : 11.805 }, "valuation" : { "forwardPE" : 16.3779, "priceBookMRQ" : 7.0607, "enterpriseValueRevenue" : 11.375, "enterpriseValueEbitda" : 19.978 }, "technicals" : { "beta" : 0.5743, "WeekHigh52" : 394.5, "WeekLow52" : 295.75, "DayMA50" : 381.2477, "DayMA200" : 356.2626, "sharesShort" : 33285.0, "sharesShortPriorMonth" : 43422.0, "shortRatio" : 3.38, "shortPercent" : 0.0157 }, "splitDividends" : { "forwardAnnualDividendRate" : 18.0, "forwardAnnualDividendYield" : 0.0489, "payoutRatio" : 1.5241 } }
+{ "_id" : "alere-inc", "symbol" : "ALR", "exchange" : "NYSE" }
+{ "_id" : "algold-resources", "symbol" : "ALG", "exchange" : "V" }
+{ "_id" : "alexco-resource-corporation", "symbol" : "AXU", "exchange" : "AMEX" }
+{ "_id" : "all-for-one-steeb", "symbol" : "A1OS", "exchange" : "XETRA" }
+{ "_id" : "alexandria-minerals-corporation", "symbol" : "AZX", "exchange" : "V" }
+{ "_id" : "alfa-transformers", "symbol" : "517546", "exchange" : "BSE" }
+{ "_id" : "align-technology", "symbol" : "ALGN", "exchange" : "NASDAQ" }
+{ "_id" : "alimera-sciences-limited", "symbol" : "ALIM", "exchange" : "NASDAQ" }
+{ "_id" : "aliments-saputo-ltee", "symbol" : "SB7", "exchange" : "BE" }
+{ "_id" : "alexion-pharmaceuticals", "symbol" : "ALXN", "exchange" : "NASDAQ" }
+{ "_id" : "alibaba-health-information-technology", "symbol" : "2419", "exchange" : "TW" }
+{ "_id" : "alior-bank", "symbol" : "ALR", "exchange" : "WAR" }
+{ "_id" : "alkermes", "symbol" : "ALKS", "exchange" : "NASDAQ" }
+{ "_id" : "alianza-minerals", "symbol" : "TARSF", "exchange" : "OTCGREY" }
+{ "_id" : "algoma-central-corporation", "symbol" : "ALC", "exchange" : "TO" }
+{ "_id" : "alicona-imaging-gmbh", "symbol" : "AOE", "exchange" : "BE" }
+{ "_id" : "alkem-laboratories", "symbol" : "ALKEM", "exchange" : "NSE" }
+{ "_id" : "alkaline-water", "symbol" : "WTER", "exchange" : "NASDAQ" }
+{ "_id" : "all-cargo-logistics", "symbol" : "ALLCARGO", "exchange" : "NSE" }
+{ "_id" : "alimak-group-ab", "symbol" : "ALIG", "exchange" : "ST" }
+{ "_id" : "alico-inc", "symbol" : "ALCO", "exchange" : "NASDAQ" }
+{ "_id" : "alldigital", "symbol" : "ADGL", "exchange" : "PINK" }
+{ "_id" : "alibaba", "symbol" : "BABA", "exchange" : "NYSE" }
+{ "_id" : "alla-public-company-limited", "symbol" : "ALLA", "exchange" : "BK" }
+{ "_id" : "alleghany-insurance-holdings", "symbol" : "AGA", "exchange" : "F" }
+{ "_id" : "allegiance-bancshares", "symbol" : "ABTX", "exchange" : "NASDAQ" }
+{ "_id" : "allegheny-ludlum-llc", "symbol" : "ATD", "exchange" : "MU" }
+{ "_id" : "allegheny-generating-company", "symbol" : "FE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.3123040256E10, "EBITDA" : 3.846000128E9, "PERatio" : 265.3049, "PEGRatio" : 1.96, "wallStreetTargetPrice" : 44.87, "bookValue" : 13.004, "dividendShare" : 1.52, "dividendYield" : 0.0369, "earningsShare" : 0.164, "ePSEstimateCurrentYear" : 2.57, "ePSEstimateNextYear" : 2.49, "ePSEstimateNextQuarter" : 0.83, "profitMargin" : 0.0265, "operatingMarginTTM" : 0.2127, "returnOnAssetsTTM" : 0.0378, "returnOnEquityTTM" : 0.1672, "revenueTTM" : 1.1281999872E10, "revenuePerShareTTM" : 22.318, "quarterlyRevenueGrowthYOY" : 0.007, "grossProfitTTM" : 7.764E9, "dilutedEpsTTM" : 0.164, "quarterlyEarningsGrowthYOY" : 0.766 }, "valuation" : { "forwardPE" : 17.4739, "priceBookMRQ" : 3.3459, "enterpriseValueRevenue" : 3.878, "enterpriseValueEbitda" : 11.376 }, "technicals" : { "beta" : 0.2621, "WeekHigh52" : 44.11, "WeekLow52" : 34.3, "DayMA50" : 42.3234, "DayMA200" : 40.3057, "sharesShort" : 2.3590904E7, "sharesShortPriorMonth" : 2.4629317E7, "shortRatio" : 6.46, "shortPercent" : 0.0631 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.52, "forwardAnnualDividendYield" : 0.0369, "payoutRatio" : 0.7526 } }
+{ "_id" : "allgeier-computer-sarl", "symbol" : "AEIN", "exchange" : "XETRA" }
+{ "_id" : "obseva", "symbol" : "OBSV", "exchange" : "NASDAQ" }
+{ "_id" : "allergan-inc", "symbol" : "A60", "exchange" : "F" }
+{ "_id" : "allegheny-technologies-ltd", "symbol" : "ATI", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.114324736E9, "EBITDA" : 4.551E8, "PERatio" : 18.4128, "PEGRatio" : 5.1, "wallStreetTargetPrice" : 31.36, "bookValue" : 15.347, "earningsShare" : 1.342, "ePSEstimateCurrentYear" : 1.49, "ePSEstimateNextYear" : 2.31, "ePSEstimateNextQuarter" : 0.49, "profitMargin" : 0.0441, "operatingMarginTTM" : 0.0736, "returnOnAssetsTTM" : 0.0346, "returnOnEquityTTM" : 0.096, "revenueTTM" : 4.072399872E9, "revenuePerShareTTM" : 32.501, "quarterlyRevenueGrowthYOY" : 0.026, "grossProfitTTM" : 6.303E8, "dilutedEpsTTM" : 1.342, "quarterlyEarningsGrowthYOY" : 0.716 }, "valuation" : { "forwardPE" : 10.697, "priceBookMRQ" : 1.6101, "enterpriseValueRevenue" : 1.082, "enterpriseValueEbitda" : 9.683 }, "technicals" : { "beta" : 2.3742, "WeekHigh52" : 30.18, "WeekLow52" : 20.84, "DayMA50" : 23.42, "DayMA200" : 25.1367, "sharesShort" : 1.8257493E7, "sharesShortPriorMonth" : 1.7419813E7, "shortRatio" : 10.88, "shortPercent" : 0.1667 } }
+{ "_id" : "allergan", "symbol" : "AGN", "exchange" : "NYSE", "highlights" : { "marketCapitalization" : 4.5394018304E10, "EBITDA" : 7.062199808E9, "PEGRatio" : 1.02, "wallStreetTargetPrice" : 178.84, "bookValue" : 187.743, "dividendShare" : 2.96, "dividendYield" : 0.0202, "earningsShare" : 21.461, "ePSEstimateCurrentYear" : 16.67, "ePSEstimateNextYear" : 17.2, "ePSEstimateNextQuarter" : 4.14, "profitMargin" : 0.4594, "operatingMarginTTM" : 0.0398, "returnOnAssetsTTM" : 0.0037, "returnOnEquityTTM" : 0.1077, "revenueTTM" : 1.5712400384E10, "revenuePerShareTTM" : 46.714, "quarterlyRevenueGrowthYOY" : 0.02, "grossProfitTTM" : 1.35214E10, "dilutedEpsTTM" : 21.461 }, "valuation" : { "forwardPE" : 8.0512, "priceBookMRQ" : 0.7376, "enterpriseValueRevenue" : 4.344, "enterpriseValueEbitda" : 9.664 }, "technicals" : { "beta" : 1.548, "WeekHigh52" : 197.0, "WeekLow52" : 125.84, "DayMA50" : 143.3117, "DayMA200" : 146.6225, "sharesShort" : 3255873.0, "sharesShortPriorMonth" : 3625470.0, "shortRatio" : 1.86, "shortPercent" : 0.0099 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.96, "forwardAnnualDividendYield" : 0.0202 } }
+{ "_id" : "allianz", "symbol" : "ALV", "exchange" : "XETRA", "highlights" : { "marketCapitalization" : 8.833478656E10, "EBITDA" : 1.1689499648E10, "PERatio" : 12.0689, "PEGRatio" : 2.1, "wallStreetTargetPrice" : 213.69, "bookValue" : 158.695, "dividendShare" : 9.0, "dividendYield" : 0.0426, "earningsShare" : 17.541, "profitMargin" : 0.0722, "operatingMarginTTM" : 0.103, "returnOnAssetsTTM" : 0.0073, "returnOnEquityTTM" : 0.1135, "revenueTTM" : 1.03748001792E11, "revenuePerShareTTM" : 243.953, "quarterlyRevenueGrowthYOY" : 0.077, "grossProfitTTM" : 2.145E10, "dilutedEpsTTM" : 17.541, "quarterlyEarningsGrowthYOY" : 0.057 }, "valuation" : { "forwardPE" : 11.4805, "priceBookMRQ" : 1.334, "enterpriseValueRevenue" : 1.016, "enterpriseValueEbitda" : 9.016 }, "technicals" : { "beta" : 0.9342, "WeekHigh52" : 216.2, "WeekLow52" : 170.12, "DayMA50" : 204.5971, "DayMA200" : 194.2573 }, "splitDividends" : { "forwardAnnualDividendRate" : 9.0, "forwardAnnualDividendYield" : 0.0426, "payoutRatio" : 0.4563 } }
+{ "_id" : "alliance-pharmaceuticals", "symbol" : "APH", "exchange" : "LSE" }
+{ "_id" : "alliance-trust-investments-ltd", "symbol" : "ATST", "exchange" : "LSE" }
+{ "_id" : "allegion", "symbol" : "ALLE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.0067221504E10, "EBITDA" : 6.142E8, "PERatio" : 23.1347, "PEGRatio" : 1.66, "wallStreetTargetPrice" : 99.3, "bookValue" : 6.735, "dividendShare" : 1.08, "dividendYield" : 0.0102, "earningsShare" : 4.632, "ePSEstimateCurrentYear" : 4.85, "ePSEstimateNextYear" : 5.31, "ePSEstimateNextQuarter" : 1.33, "profitMargin" : 0.1597, "operatingMarginTTM" : 0.1966, "returnOnAssetsTTM" : 0.1255, "returnOnEquityTTM" : 0.8071, "revenueTTM" : 2.7736E9, "revenuePerShareTTM" : 29.242, "quarterlyRevenueGrowthYOY" : 0.068, "grossProfitTTM" : 1.1733E9, "dilutedEpsTTM" : 4.632, "quarterlyEarningsGrowthYOY" : 0.12 }, "valuation" : { "forwardPE" : 20.1808, "priceBookMRQ" : 15.9109, "enterpriseValueRevenue" : 4.089, "enterpriseValueEbitda" : 18.465 }, "technicals" : { "beta" : 1.1561, "WeekHigh52" : 107.28, "WeekLow52" : 74.83, "DayMA50" : 101.2143, "DayMA200" : 91.3988, "sharesShort" : 4560344.0, "sharesShortPriorMonth" : 4121392.0, "shortRatio" : 4.87, "shortPercent" : 0.0546 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.08, "forwardAnnualDividendYield" : 0.0102, "payoutRatio" : 0.1944 } }
+{ "_id" : "allena-pharmaceuticals", "symbol" : "ALNA", "exchange" : "NASDAQ" }
+{ "_id" : "alleghany-corporation", "symbol" : "Y", "exchange" : "NYSE" }
+{ "_id" : "allied-domecq-canada-ltd", "symbol" : "CBYDF", "exchange" : "PINK" }
+{ "_id" : "alliance-data-systems", "symbol" : "ADS", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 7.17339648E9, "EBITDA" : 1.836E9, "PERatio" : 7.8606, "PEGRatio" : 0.97, "wallStreetTargetPrice" : 180.42, "bookValue" : 42.82, "dividendShare" : 2.52, "dividendYield" : 0.0183, "earningsShare" : 17.421, "ePSEstimateCurrentYear" : 19.05, "ePSEstimateNextYear" : 23.39, "ePSEstimateNextQuarter" : 5.25, "profitMargin" : 0.1225, "operatingMarginTTM" : 0.1915, "returnOnAssetsTTM" : 0.0315, "returnOnEquityTTM" : 0.4532, "revenueTTM" : 7.743699968E9, "revenuePerShareTTM" : 142.61, "quarterlyRevenueGrowthYOY" : 0.034, "grossProfitTTM" : 2.0673E9, "dilutedEpsTTM" : 17.421, "quarterlyEarningsGrowthYOY" : 0.047 }, "valuation" : { "forwardPE" : 5.8546, "priceBookMRQ" : 3.198, "enterpriseValueRevenue" : 3.589, "enterpriseValueEbitda" : 15.135 }, "technicals" : { "beta" : 1.9717, "WeekHigh52" : 250.27, "WeekLow52" : 135.64, "DayMA50" : 144.5974, "DayMA200" : 163.1658, "sharesShort" : 2276046.0, "sharesShortPriorMonth" : 2042841.0, "shortRatio" : 4.11, "shortPercent" : 0.0447 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.52, "forwardAnnualDividendYield" : 0.0183, "payoutRatio" : 0.133 } }
+{ "_id" : "allied-electronics-corp-ltd", "symbol" : "AEL", "exchange" : "JSE" }
+{ "_id" : "alliance-media-holdings-inc", "symbol" : "ADTR", "exchange" : "PINK" }
+{ "_id" : "allergen-research-corporation", "symbol" : "AIMT", "exchange" : "NASDAQ" }
+{ "_id" : "alliance-creative-group", "symbol" : "ACGX", "exchange" : "PINK" }
+{ "_id" : "alliance-mma", "symbol" : "AMMA", "exchange" : "NASDAQ" }
+{ "_id" : "allied-resources", "symbol" : "ALOD", "exchange" : "PINK" }
+{ "_id" : "alliance-grain-co-inc", "symbol" : "G5A", "exchange" : "BE" }
+{ "_id" : "allied-properties-reit", "symbol" : "569", "exchange" : "SG" }
+{ "_id" : "allied-digital-services", "symbol" : "532875", "exchange" : "BSE" }
+{ "_id" : "allergy-therapeutics", "symbol" : "AGY", "exchange" : "LSE" }
+{ "_id" : "alligator-bioscience", "symbol" : "ATORX", "exchange" : "ST" }
+{ "_id" : "alliance-to-end-slavery-trafficking", "symbol" : "ATEST", "exchange" : "AMEX" }
+{ "_id" : "allied-healthcare-group", "symbol" : "AMEUF", "exchange" : "PINK" }
+{ "_id" : "allsec-technologies", "symbol" : "532633", "exchange" : "BSE" }
+{ "_id" : "allot-communications-inc", "symbol" : "ALLT", "exchange" : "NASDAQ" }
+{ "_id" : "alliant-energy", "symbol" : "LNT", "exchange" : "NYSE" }
+{ "_id" : "allogene-therapeutics", "symbol" : "ALLO", "exchange" : "NASDAQ" }
+{ "_id" : "allstate-capital-llc", "symbol" : "ALS", "exchange" : "BE" }
+{ "_id" : "ally-bank", "symbol" : "ALLY", "exchange" : "NYSE" }
+{ "_id" : "allison-transmission-holdings", "symbol" : "ALSN", "exchange" : "NYSE" }
+{ "_id" : "allium-medical", "symbol" : "ALMD", "exchange" : "TA" }
+{ "_id" : "allison-transmission-inc", "symbol" : "1A7", "exchange" : "BE" }
+{ "_id" : "allwinner-technology", "symbol" : "300458", "exchange" : "SHE" }
+{ "_id" : "allete", "symbol" : "ALE", "exchange" : "NYSE" }
+{ "_id" : "alpha-mos", "symbol" : "ALM", "exchange" : "PA" }
+{ "_id" : "almonty", "symbol" : "AII", "exchange" : "V" }
+{ "_id" : "almaden-minerals", "symbol" : "AAU", "exchange" : "AMEX" }
+{ "_id" : "allied-healthcare-products", "symbol" : "AHPI", "exchange" : "NASDAQ" }
+{ "_id" : "alliqua-biomedical", "symbol" : "ALQA", "exchange" : "NASDAQ" }
+{ "_id" : "almirall", "symbol" : "ALM", "exchange" : "MC" }
+{ "_id" : "alnylam-pharmaceuticals", "symbol" : "ALNY", "exchange" : "NASDAQ" }
+{ "_id" : "allscripts", "symbol" : "MDRX", "exchange" : "NASDAQ" }
+{ "_id" : "alpha-financial-markets-consulting", "symbol" : "AFM", "exchange" : "LSE" }
+{ "_id" : "alpine-4", "symbol" : "ALPP", "exchange" : "OTCQB" }
+{ "_id" : "alpine-electronics-of-america", "symbol" : "6816", "exchange" : "TSE" }
+{ "_id" : "alpha-fx-ltd", "symbol" : "AFX", "exchange" : "LSE" }
+{ "_id" : "almost-family-lhc-group", "symbol" : "LH6", "exchange" : "F" }
+{ "_id" : "allstate-research-planning", "symbol" : "ALL", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.423007744E10, "EBITDA" : 4.055000064E9, "PERatio" : 14.9339, "PEGRatio" : 0.83, "wallStreetTargetPrice" : 106.93, "bookValue" : 64.529, "dividendShare" : 2.0, "dividendYield" : 0.0196, "earningsShare" : 6.881, "ePSEstimateCurrentYear" : 9.05, "ePSEstimateNextYear" : 9.96, "ePSEstimateNextQuarter" : 2.15, "profitMargin" : 0.0619, "operatingMarginTTM" : 0.0855, "returnOnAssetsTTM" : 0.0191, "returnOnEquityTTM" : 0.1087, "revenueTTM" : 4.1035001856E10, "revenuePerShareTTM" : 119.836, "quarterlyRevenueGrowthYOY" : 0.125, "grossProfitTTM" : 9.127E9, "dilutedEpsTTM" : 6.881, "quarterlyEarningsGrowthYOY" : 0.38 }, "valuation" : { "forwardPE" : 10.3173, "priceBookMRQ" : 1.5925, "enterpriseValueRevenue" : 0.93, "enterpriseValueEbitda" : 9.416 }, "technicals" : { "beta" : 0.701, "WeekHigh52" : 103.03, "WeekLow52" : 77.0, "DayMA50" : 97.6174, "DayMA200" : 91.9708, "sharesShort" : 4110044.0, "sharesShortPriorMonth" : 4154170.0, "shortRatio" : 2.34, "shortPercent" : 0.0124 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.0, "forwardAnnualDividendYield" : 0.0196, "payoutRatio" : 0.269 } }
+{ "_id" : "alphanumeric-group-holding-limited", "symbol" : "JWNG", "exchange" : "LSE" }
+{ "_id" : "alpha-natural-resources", "symbol" : "ANR", "exchange" : "NYSE" }
+{ "_id" : "alphinat", "symbol" : "NPA", "exchange" : "V" }
+{ "_id" : "also-holding-ag", "symbol" : "ALSN", "exchange" : "SW" }
+{ "_id" : "alps-electric", "symbol" : "APELY", "exchange" : "PINK" }
+{ "_id" : "als-laboratory-group", "symbol" : "ALQ", "exchange" : "AU" }
+{ "_id" : "alpine-housing", "symbol" : "526519", "exchange" : "BSE" }
+{ "_id" : "alstom-grid-ag", "symbol" : "AOMD", "exchange" : "BE" }
+{ "_id" : "alr-technologies", "symbol" : "ALRT", "exchange" : "PINK" }
+{ "_id" : "alpha-networks", "symbol" : "3380", "exchange" : "TW" }
+{ "_id" : "alsa", "symbol" : "CP4", "exchange" : "F" }
+{ "_id" : "alphabet", "symbol" : "GOOGL", "exchange" : "NASDAQ" }
+{ "_id" : "alpine-immune-sciences", "symbol" : "ALPN", "exchange" : "NASDAQ" }
+{ "_id" : "alpha-and-omega-semiconductor", "symbol" : "AOSL", "exchange" : "NASDAQ" }
+{ "_id" : "alphatec-spine-inc", "symbol" : "ATEC", "exchange" : "NASDAQ" }
+{ "_id" : "altan-rio-minerals", "symbol" : "AMO", "exchange" : "V", "highlights" : { "marketCapitalization" : 891230.0 } }
+{ "_id" : "altair-engineering", "symbol" : "ALTR", "exchange" : "NASDAQ" }
+{ "_id" : "altan-nevada", "symbol" : "ANE", "exchange" : "V" }
+{ "_id" : "altamir", "symbol" : "LTA", "exchange" : "PA" }
+{ "_id" : "altagas-ltd", "symbol" : "ALA", "exchange" : "TO" }
+{ "_id" : "altamira-gold", "symbol" : "ALTA", "exchange" : "V" }
+{ "_id" : "altech-chemicals", "symbol" : "ATC", "exchange" : "AU" }
+{ "_id" : "altair-resources", "symbol" : "AVX", "exchange" : "V" }
+{ "_id" : "altavista-ventures", "symbol" : "YAB2", "exchange" : "F", "highlights" : { "marketCapitalization" : 299834.0 } }
+{ "_id" : "altai-resources", "symbol" : "ATI", "exchange" : "V" }
+{ "_id" : "altice", "symbol" : "ATC", "exchange" : "AS" }
+{ "_id" : "altaro-software", "symbol" : "AAT", "exchange" : "WAR" }
+{ "_id" : "alternate-health", "symbol" : "AHG", "exchange" : "CN" }
+{ "_id" : "alten", "symbol" : "ATE", "exchange" : "PA" }
+{ "_id" : "altechna-co-ltd", "symbol" : "9972", "exchange" : "TSE" }
+{ "_id" : "alteryx-inc", "symbol" : "AYX", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 6.820150784E9, "EBITDA" : 2.7524E7, "PERatio" : 248.4055, "wallStreetTargetPrice" : 99.33, "bookValue" : 5.216, "earningsShare" : 0.439, "ePSEstimateCurrentYear" : 0.44, "ePSEstimateNextYear" : 0.71, "ePSEstimateNextQuarter" : 0.12, "profitMargin" : 0.104, "operatingMarginTTM" : 0.0835, "returnOnAssetsTTM" : 0.0312, "returnOnEquityTTM" : 0.1205, "revenueTTM" : 2.79260992E8, "revenuePerShareTTM" : 4.556, "quarterlyRevenueGrowthYOY" : 0.51, "grossProfitTTM" : 2.3077E8, "dilutedEpsTTM" : 0.439, "quarterlyEarningsGrowthYOY" : 0.125 }, "valuation" : { "forwardPE" : 153.5916, "priceBookMRQ" : 20.9068, "enterpriseValueRevenue" : 23.233, "enterpriseValueEbitda" : 235.729 }, "technicals" : { "beta" : 1.042, "WeekHigh52" : 109.501, "WeekLow52" : 34.8, "DayMA50" : 91.5366, "DayMA200" : 77.0235, "sharesShort" : 5850862.0, "sharesShortPriorMonth" : 5165509.0, "shortRatio" : 4.6, "shortPercent" : 0.1468 } }
+{ "_id" : "altiplano-minerals", "symbol" : "APN", "exchange" : "V" }
+{ "_id" : "alten-gmbh", "symbol" : "AN3", "exchange" : "BE" }
+{ "_id" : "alternet-systems", "symbol" : "ALYI", "exchange" : "PINK" }
+{ "_id" : "alterola-biotech", "symbol" : "ALTA", "exchange" : "PINK" }
+{ "_id" : "altice-usa", "symbol" : "ATUS", "exchange" : "NYSE" }
+{ "_id" : "altria", "symbol" : "MO", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 9.377050624E10, "EBITDA" : 1.0081999872E10, "PERatio" : 15.2758, "PEGRatio" : 2.45, "wallStreetTargetPrice" : 58.73, "bookValue" : 7.522, "dividendShare" : 3.2, "dividendYield" : 0.0652, "earningsShare" : 3.281, "ePSEstimateCurrentYear" : 4.19, "ePSEstimateNextYear" : 4.5, "ePSEstimateNextQuarter" : 1.15, "profitMargin" : 0.3199, "operatingMarginTTM" : 0.5094, "returnOnAssetsTTM" : 0.1194, "returnOnEquityTTM" : 0.4191, "revenueTTM" : 1.9345999872E10, "revenuePerShareTTM" : 10.286, "quarterlyRevenueGrowthYOY" : 0.06, "grossProfitTTM" : 1.2176E10, "dilutedEpsTTM" : 3.281, "quarterlyEarningsGrowthYOY" : 0.401 }, "valuation" : { "forwardPE" : 11.1378, "priceBookMRQ" : 6.6631, "enterpriseValueRevenue" : 6.255, "enterpriseValueEbitda" : 12.003 }, "technicals" : { "beta" : 0.3548, "WeekHigh52" : 66.04, "WeekLow52" : 42.4, "DayMA50" : 51.7803, "DayMA200" : 52.0004, "sharesShort" : 1.5260085E7, "sharesShortPriorMonth" : 2.1675646E7, "shortRatio" : 2.02, "shortPercent" : 0.0082 }, "splitDividends" : { "forwardAnnualDividendRate" : 3.2, "forwardAnnualDividendYield" : 0.0652, "payoutRatio" : 0.9451 } }
+{ "_id" : "altera", "symbol" : "1AG", "exchange" : "AU" }
+{ "_id" : "altigen-communications", "symbol" : "ATGN", "exchange" : "OTCQB" }
+{ "_id" : "altius-minerals", "symbol" : "ALS", "exchange" : "TO" }
+{ "_id" : "altona-energy", "symbol" : "ANR", "exchange" : "LSE" }
+{ "_id" : "amadeus-it-holding", "symbol" : "AI3A", "exchange" : "F" }
+{ "_id" : "altus-group", "symbol" : "AIF", "exchange" : "TO" }
+{ "_id" : "altri", "symbol" : "ALTR", "exchange" : "LS" }
+{ "_id" : "altus-strategies-ltd", "symbol" : "ALS", "exchange" : "LSE" }
+{ "_id" : "altisource", "symbol" : "ASPS", "exchange" : "NASDAQ" }
+{ "_id" : "altima-resources", "symbol" : "ARH", "exchange" : "V" }
+{ "_id" : "alx-uranium", "symbol" : "AL", "exchange" : "V" }
+{ "_id" : "altium-limited", "symbol" : "ALU", "exchange" : "AU" }
+{ "_id" : "altran-bv", "symbol" : "ALT", "exchange" : "PA" }
+{ "_id" : "altra-industrial-motion", "symbol" : "AIMC", "exchange" : "NASDAQ" }
+{ "_id" : "amag-pharmaceuticals", "symbol" : "AMAG", "exchange" : "NASDAQ", "highlights" : { "marketCapitalization" : 1.1390272E9 } }
+{ "_id" : "alto-ventures", "symbol" : "ATV", "exchange" : "V" }
+{ "_id" : "altrazeal-trading-gmbh", "symbol" : "ULUR", "exchange" : "OTCQB" }
+{ "_id" : "alvopetro-energy", "symbol" : "ALV", "exchange" : "V" }
+{ "_id" : "altitude-group", "symbol" : "ALT", "exchange" : "LSE" }
+{ "_id" : "altyn", "symbol" : "ALTN", "exchange" : "LSE" }
+{ "_id" : "alvarion", "symbol" : "ALVRQ", "exchange" : "PINK" }
+{ "_id" : "amatech-polycel-inc", "symbol" : "TXA", "exchange" : "F" }
+{ "_id" : "amalgamated-bank", "symbol" : "AMAL", "exchange" : "NASDAQ" }
+{ "_id" : "amazon", "symbol" : "AMZN", "exchange" : "NASDAQ" }
+{ "_id" : "alviva-holdings", "symbol" : "AVV", "exchange" : "JSE" }
+{ "_id" : "altisource-asset-management", "symbol" : "AAMC", "exchange" : "NYSE" }
+{ "_id" : "ambac-financial-group", "symbol" : "AMBC", "exchange" : "NASDAQ" }
+{ "_id" : "amber-energy", "symbol" : "9AE", "exchange" : "F" }
+{ "_id" : "amanco-mexico-sa-de-cv", "symbol" : "MEXCHEM", "exchange" : "MX", "highlights" : { "marketCapitalization" : 8.8272797696E10, "EBITDA" : 1.393123968E9, "PERatio" : 272.5641, "PEGRatio" : 1.06, "wallStreetTargetPrice" : 3.74, "bookValue" : 1.193, "dividendShare" : 1.55, "dividendYield" : 0.0352, "earningsShare" : 0.156, "profitMargin" : 0.0449, "operatingMarginTTM" : 0.1275, "returnOnAssetsTTM" : 0.0553, "returnOnEquityTTM" : 0.1256, "revenueTTM" : 7.207931904E9, "revenuePerShareTTM" : 3.472, "quarterlyRevenueGrowthYOY" : 0.006, "grossProfitTTM" : 1.909073E9, "dilutedEpsTTM" : 0.156, "quarterlyEarningsGrowthYOY" : 0.388 }, "valuation" : { "forwardPE" : 177.1667, "priceBookMRQ" : 35.6412, "enterpriseValueRevenue" : 13.073, "enterpriseValueEbitda" : 67.641 }, "technicals" : { "beta" : 0.7916, "WeekHigh52" : 67.79, "WeekLow52" : 40.45, "DayMA50" : 45.1567, "DayMA200" : 48.3283 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.55, "forwardAnnualDividendYield" : 0.0352, "payoutRatio" : 0.1819 } }
+{ "_id" : "ambarella", "symbol" : "AMBA", "exchange" : "NASDAQ" }
+{ "_id" : "altra-industrial-motion-2", "symbol" : "AIMC", "exchange" : "NASDAQ" }
+{ "_id" : "amaya", "symbol" : "TSGI", "exchange" : "TO" }
+{ "_id" : "amarillo-gold-corp", "symbol" : "AGC", "exchange" : "V" }
+{ "_id" : "amarc-resources", "symbol" : "AHR", "exchange" : "V" }
+{ "_id" : "amd-inc", "symbol" : "AMD", "exchange" : "XETRA" }
+{ "_id" : "am-rica-m-vil", "symbol" : "AMX", "exchange" : "NYSE" }
+{ "_id" : "amaysim-services-pty-ltd", "symbol" : "AYS", "exchange" : "AU" }
+{ "_id" : "amber-enterprises-india-pvt-ltd", "symbol" : "AMBER", "exchange" : "NSE" }
+{ "_id" : "amana-studio-inc", "symbol" : "2402", "exchange" : "TSE" }
+{ "_id" : "amarin", "symbol" : "AMRN", "exchange" : "NASDAQ" }
+{ "_id" : "amatheon-agri-holding", "symbol" : "MLAAH", "exchange" : "PA" }
+{ "_id" : "ambea", "symbol" : "AMBEA", "exchange" : "ST" }
+{ "_id" : "ambu-a-s", "symbol" : "AMBU-B", "exchange" : "CO" }
+{ "_id" : "ambition", "symbol" : "3300", "exchange" : "TSE" }
+{ "_id" : "amber-road", "symbol" : "AMBR", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.70270592E8, "EBITDA" : -6559736.0, "PEGRatio" : 1.12, "wallStreetTargetPrice" : 13.05, "bookValue" : 1.012, "earningsShare" : 0.41, "ePSEstimateCurrentYear" : 0.01, "ePSEstimateNextYear" : 0.04, "ePSEstimateNextQuarter" : 0.01, "profitMargin" : 0.1335, "operatingMarginTTM" : 0.112, "returnOnAssetsTTM" : 0.0592, "returnOnEquityTTM" : 0.3972, "revenueTTM" : 8.619832E7, "revenuePerShareTTM" : 3.071, "quarterlyRevenueGrowthYOY" : 0.051, "grossProfitTTM" : 4.7015044E7, "dilutedEpsTTM" : 0.41 }, "valuation" : { "forwardPE" : 325.5, "priceBookMRQ" : 12.8656, "enterpriseValueRevenue" : 4.512, "enterpriseValueEbitda" : 59.285 }, "technicals" : { "beta" : 0.6254, "WeekHigh52" : 13.03, "WeekLow52" : 7.6, "DayMA50" : 11.9911, "DayMA200" : 9.5696, "sharesShort" : 179537.0, "sharesShortPriorMonth" : 141026.0, "shortRatio" : 0.2, "shortPercent" : 0.0068 } }
+{ "_id" : "ambev", "symbol" : "ABEV", "exchange" : "NYSE" }
+{ "_id" : "amc-networks", "symbol" : "AMCX", "exchange" : "NASDAQ" }
+{ "_id" : "amazing-energy-oil-and-gas", "symbol" : "AMAZ", "exchange" : "OTCQX" }
+{ "_id" : "amc-entertainment-holdings", "symbol" : "AMC", "exchange" : "NYSE" }
+{ "_id" : "ambow-education", "symbol" : "AMBO", "exchange" : "AMEX" }
+{ "_id" : "amega-west-canada-ltd", "symbol" : "XTY", "exchange" : "F" }
+{ "_id" : "amedeo-air-four-plus", "symbol" : "AA4", "exchange" : "LSE" }
+{ "_id" : "amd-industries", "symbol" : "AMDIND", "exchange" : "NSE" }
+{ "_id" : "amedeo-resources-plc", "symbol" : "AMED", "exchange" : "LSE" }
+{ "_id" : "amdl", "symbol" : "517552", "exchange" : "BSE" }
+{ "_id" : "amer-sports-sverige-ab", "symbol" : "AMY", "exchange" : "F" }
+{ "_id" : "amedica", "symbol" : "AMDA", "exchange" : "NASDAQ" }
+{ "_id" : "america-s-car-mart", "symbol" : "CRMT", "exchange" : "NASDAQ" }
+{ "_id" : "ameresco", "symbol" : "AMRC", "exchange" : "NYSE" }
+{ "_id" : "amerco", "symbol" : "UHAL", "exchange" : "NASDAQ" }
+{ "_id" : "amedisys", "symbol" : "AMED", "exchange" : "NASDAQ" }
+{ "_id" : "american-electric-technologies-inc", "symbol" : "AETI", "exchange" : "NASDAQ" }
+{ "_id" : "american-express", "symbol" : "AXP", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.0411790336E11, "PERatio" : 15.8767, "PEGRatio" : 1.39, "wallStreetTargetPrice" : 121.73, "bookValue" : 26.545, "dividendShare" : 1.56, "dividendYield" : 0.0126, "earningsShare" : 7.853, "ePSEstimateCurrentYear" : 8.12, "ePSEstimateNextYear" : 9.0, "ePSEstimateNextQuarter" : 2.07, "profitMargin" : 0.1818, "operatingMarginTTM" : 0.2132, "returnOnAssetsTTM" : 0.0363, "returnOnEquityTTM" : 0.3269, "revenueTTM" : 3.7597999104E10, "revenuePerShareTTM" : 44.155, "quarterlyRevenueGrowthYOY" : 0.068, "grossProfitTTM" : 2.5513E10, "dilutedEpsTTM" : 7.853, "quarterlyEarningsGrowthYOY" : 0.032 }, "valuation" : { "forwardPE" : 13.8533, "priceBookMRQ" : 4.6969, "enterpriseValueRevenue" : 3.489 }, "technicals" : { "beta" : 1.0513, "WeekHigh52" : 125.05, "WeekLow52" : 89.05, "DayMA50" : 118.9389, "DayMA200" : 109.2016, "sharesShort" : 7106487.0, "sharesShortPriorMonth" : 6375605.0, "shortRatio" : 2.27, "shortPercent" : 0.0104 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.56, "forwardAnnualDividendYield" : 0.0126, "payoutRatio" : 0.1936 } }
+{ "_id" : "american-banker", "symbol" : "AMBK", "exchange" : "PINK" }
+{ "_id" : "american-airlines", "symbol" : "AAL", "exchange" : "NASDAQ" }
+{ "_id" : "american-campus-communities", "symbol" : "ACC", "exchange" : "NYSE" }
+{ "_id" : "ameren-services", "symbol" : "AEE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.8886408192E10, "EBITDA" : 2.424E9, "PERatio" : 22.1104, "PEGRatio" : 3.57, "wallStreetTargetPrice" : 75.0, "bookValue" : 31.372, "dividendShare" : 1.9, "dividendYield" : 0.0249, "earningsShare" : 3.478, "ePSEstimateCurrentYear" : 3.27, "ePSEstimateNextYear" : 3.52, "ePSEstimateNextQuarter" : 1.45, "profitMargin" : 0.143, "operatingMarginTTM" : 0.2422, "returnOnAssetsTTM" : 0.0338, "returnOnEquityTTM" : 0.1131, "revenueTTM" : 5.978999808E9, "revenuePerShareTTM" : 24.474, "quarterlyRevenueGrowthYOY" : 0.02, "grossProfitTTM" : 2.795E9, "dilutedEpsTTM" : 3.478, "quarterlyEarningsGrowthYOY" : 0.258 }, "valuation" : { "forwardPE" : 21.8466, "priceBookMRQ" : 2.4512, "enterpriseValueRevenue" : 4.765, "enterpriseValueEbitda" : 11.754 }, "technicals" : { "beta" : 0.2122, "WeekHigh52" : 77.55, "WeekLow52" : 57.93, "DayMA50" : 74.35, "DayMA200" : 70.9393, "sharesShort" : 3308330.0, "sharesShortPriorMonth" : 3691269.0, "shortRatio" : 2.75, "shortPercent" : 0.0153 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.9, "forwardAnnualDividendYield" : 0.0249, "payoutRatio" : 0.5359 } }
+{ "_id" : "amera-mex-international", "symbol" : "AMMX", "exchange" : "PINK" }
+{ "_id" : "american-creek-resources", "symbol" : "AMK", "exchange" : "V" }
+{ "_id" : "american-cryostem-corporation", "symbol" : "CRYO", "exchange" : "PINK" }
+{ "_id" : "amer-sports", "symbol" : "AMEAS", "exchange" : "HE" }
+{ "_id" : "american-biltrite-canada-ltd", "symbol" : "ABLT", "exchange" : "PINK" }
+{ "_id" : "american-eagle-srl", "symbol" : "AEO", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.06903168E9, "EBITDA" : 5.09193984E8, "PERatio" : 12.0162, "PEGRatio" : 38.27, "wallStreetTargetPrice" : 24.29, "bookValue" : 7.225, "dividendShare" : 0.55, "dividendYield" : 0.0316, "earningsShare" : 1.483, "profitMargin" : 0.0641, "operatingMarginTTM" : 0.0824, "returnOnAssetsTTM" : 0.0847, "returnOnEquityTTM" : 0.2145, "revenueTTM" : 4.09904896E9, "revenuePerShareTTM" : 23.368, "quarterlyRevenueGrowthYOY" : 0.077, "grossProfitTTM" : 1.804644E9, "dilutedEpsTTM" : 1.483, "quarterlyEarningsGrowthYOY" : 0.045 }, "valuation" : { "forwardPE" : 10.2414, "priceBookMRQ" : 2.4664, "enterpriseValueRevenue" : 1.059, "enterpriseValueEbitda" : 8.521 }, "technicals" : { "beta" : 1.1704, "WeekHigh52" : 29.88, "WeekLow52" : 16.31, "DayMA50" : 19.5432, "DayMA200" : 20.3643, "sharesShort" : 1.5981416E7, "sharesShortPriorMonth" : 1.6637825E7, "shortRatio" : 3.98, "shortPercent" : 0.1384 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.55, "forwardAnnualDividendYield" : 0.0316, "payoutRatio" : 0.3741 } }
+{ "_id" : "american-public-education", "symbol" : "APEI", "exchange" : "NASDAQ" }
+{ "_id" : "american-manganese", "symbol" : "AMY", "exchange" : "V" }
+{ "_id" : "american-equity-investment-life-holding-company", "symbol" : "AEL", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.472855552E9, "EBITDA" : 3.94184E8, "PERatio" : 8.6988, "PEGRatio" : 1.14, "wallStreetTargetPrice" : 33.5, "bookValue" : 32.379, "dividendShare" : 0.28, "dividendYield" : 0.0099, "earningsShare" : 3.128, "ePSEstimateCurrentYear" : 3.89, "ePSEstimateNextYear" : 4.07, "ePSEstimateNextQuarter" : 0.97, "profitMargin" : 0.1181, "operatingMarginTTM" : 0.1608, "returnOnAssetsTTM" : 0.0039, "returnOnEquityTTM" : 0.1046, "revenueTTM" : 2.429485056E9, "revenuePerShareTTM" : 26.826, "quarterlyRevenueGrowthYOY" : 7.496, "grossProfitTTM" : 6.54328E8, "dilutedEpsTTM" : 3.128 }, "valuation" : { "forwardPE" : 6.6855, "priceBookMRQ" : 0.8404, "enterpriseValueRevenue" : 0.954, "enterpriseValueEbitda" : 5.878 }, "technicals" : { "beta" : 1.7689, "WeekHigh52" : 38.57, "WeekLow52" : 25.27, "DayMA50" : 29.1266, "DayMA200" : 29.5032, "sharesShort" : 1430276.0, "sharesShortPriorMonth" : 1150313.0, "shortRatio" : 3.1, "shortPercent" : 0.0218 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.28, "forwardAnnualDividendYield" : 0.0099, "payoutRatio" : 0.0895 } }
+{ "_id" : "ameri-100", "symbol" : "AMRH", "exchange" : "NASDAQ" }
+{ "_id" : "american-railcar-industries", "symbol" : "ARII", "exchange" : "NASDAQ" }
+{ "_id" : "american-lithium", "symbol" : "LI", "exchange" : "V" }
+{ "_id" : "american-homes-4-rent", "symbol" : "AMH", "exchange" : "NYSE" }
+{ "_id" : "american-national-bank-17", "symbol" : "ACAN", "exchange" : "OTCQB" }
+{ "_id" : "american-health-information-management-association", "symbol" : "3333", "exchange" : "TSE" }
+{ "_id" : "american-midstream", "symbol" : "AMID", "exchange" : "NYSE" }
+{ "_id" : "american-water-works", "symbol" : "AWK", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.129763328E10, "EBITDA" : 1.719000064E9, "PERatio" : 37.1825, "PEGRatio" : 4.2, "wallStreetTargetPrice" : 110.67, "bookValue" : 32.862, "dividendShare" : 2.0, "dividendYield" : 0.0171, "earningsShare" : 3.173, "ePSEstimateCurrentYear" : 3.59, "ePSEstimateNextYear" : 3.9, "ePSEstimateNextQuarter" : 1.29, "profitMargin" : 0.1644, "operatingMarginTTM" : 0.3319, "returnOnAssetsTTM" : 0.0352, "returnOnEquityTTM" : 0.1005, "revenueTTM" : 3.492E9, "revenuePerShareTTM" : 19.32, "quarterlyRevenueGrowthYOY" : 0.068, "grossProfitTTM" : 1.941E9, "dilutedEpsTTM" : 3.173, "quarterlyEarningsGrowthYOY" : 0.051 }, "valuation" : { "forwardPE" : 30.2513, "priceBookMRQ" : 3.5902, "enterpriseValueRevenue" : 8.58, "enterpriseValueEbitda" : 17.429 }, "technicals" : { "beta" : 0.2286, "WeekHigh52" : 119.28, "WeekLow52" : 82.2, "DayMA50" : 112.1769, "DayMA200" : 102.0813, "sharesShort" : 5213508.0, "sharesShortPriorMonth" : 5279790.0, "shortRatio" : 5.94, "shortPercent" : 0.0325 }, "splitDividends" : { "forwardAnnualDividendRate" : 2.0, "forwardAnnualDividendYield" : 0.0171, "payoutRatio" : 0.5723 } }
+{ "_id" : "american-crystal-sugar", "symbol" : "ASCS", "exchange" : "OTCBB" }
+{ "_id" : "american-graphite-technologies", "symbol" : "AGIN", "exchange" : "PINK" }
+{ "_id" : "american-renal-associates-holdings", "symbol" : "ARA", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.24368E8, "EBITDA" : 1.741E8, "PEGRatio" : 1.24, "wallStreetTargetPrice" : 8.6, "bookValue" : 2.261, "earningsShare" : 0.494, "profitMargin" : 0.0198, "operatingMarginTTM" : 0.1651, "returnOnAssetsTTM" : 0.0879, "returnOnEquityTTM" : 0.217, "revenueTTM" : 8.17246976E8, "revenuePerShareTTM" : 25.725, "quarterlyRevenueGrowthYOY" : 0.124, "grossProfitTTM" : 2.62773E8, "dilutedEpsTTM" : 0.494, "quarterlyEarningsGrowthYOY" : 0.75 }, "valuation" : { "forwardPE" : 18.6487, "enterpriseValueRevenue" : 1.262, "enterpriseValueEbitda" : 5.925 }, "technicals" : { "beta" : 1.9006, "WeekHigh52" : 23.99, "WeekLow52" : 5.48, "DayMA50" : 6.6617, "DayMA200" : 9.8453, "sharesShort" : 1975117.0, "sharesShortPriorMonth" : 1775646.0, "shortRatio" : 9.86 } }
+{ "_id" : "american-software", "symbol" : "AMSWA", "exchange" : "NASDAQ" }
+{ "_id" : "american-energy-partners", "symbol" : "AEPT", "exchange" : "OTCMKTS" }
+{ "_id" : "american-patriot-oil-gas", "symbol" : "AOW", "exchange" : "AU" }
+{ "_id" : "american-national-bank", "symbol" : "AMNB", "exchange" : "NASDAQ" }
+{ "_id" : "american-power-group", "symbol" : "APGI", "exchange" : "PINK" }
+{ "_id" : "american-shared-hospital-services-ashs", "symbol" : "AMS", "exchange" : "NYSE" }
+{ "_id" : "american-axle-manufacturing", "symbol" : "AXL", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.323795456E9, "EBITDA" : 1.108899968E9, "PEGRatio" : 1.17, "wallStreetTargetPrice" : 18.22, "bookValue" : 13.523, "earningsShare" : 0.934, "ePSEstimateCurrentYear" : 2.77, "ePSEstimateNextYear" : 2.84, "ePSEstimateNextQuarter" : 0.94, "profitMargin" : 0.0148, "operatingMarginTTM" : 0.0795, "returnOnAssetsTTM" : 0.0449, "returnOnEquityTTM" : 0.0652, "revenueTTM" : 7.1312E9, "revenuePerShareTTM" : 63.828, "quarterlyRevenueGrowthYOY" : 0.075, "grossProfitTTM" : 1.1404E9, "dilutedEpsTTM" : 0.934, "quarterlyEarningsGrowthYOY" : 0.538 }, "valuation" : { "forwardPE" : 4.1444, "priceBookMRQ" : 0.8704, "enterpriseValueRevenue" : 0.691, "enterpriseValueEbitda" : 4.441 }, "technicals" : { "beta" : 2.1547, "WeekHigh52" : 19.34, "WeekLow52" : 9.96, "DayMA50" : 11.71, "DayMA200" : 13.4784, "sharesShort" : 1.1316176E7, "sharesShortPriorMonth" : 8758817.0, "shortRatio" : 5.72, "shortPercent" : 0.1375 } }
+{ "_id" : "american-cannabis-company", "symbol" : "AMMJ", "exchange" : "PINK" }
+{ "_id" : "american-university-of-kuwait", "symbol" : "1789", "exchange" : "TW" }
+{ "_id" : "american-tower", "symbol" : "AMT", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 9.5552110592E10, "EBITDA" : 4.60310016E9, "PERatio" : 71.3668, "PEGRatio" : 1.98, "wallStreetTargetPrice" : 191.27, "bookValue" : 12.098, "dividendShare" : 3.45, "dividendYield" : 0.0161, "earningsShare" : 3.029, "ePSEstimateCurrentYear" : 3.65, "ePSEstimateNextYear" : 4.26, "ePSEstimateNextQuarter" : 0.92, "profitMargin" : 0.1795, "operatingMarginTTM" : 0.3766, "returnOnAssetsTTM" : 0.0482, "returnOnEquityTTM" : 0.1921, "revenueTTM" : 7.511699968E9, "revenuePerShareTTM" : 17.027, "quarterlyRevenueGrowthYOY" : 0.041, "grossProfitTTM" : 5.2623E9, "dilutedEpsTTM" : 3.029, "quarterlyEarningsGrowthYOY" : 0.413 }, "valuation" : { "forwardPE" : 50.7441, "priceBookMRQ" : 17.8682, "enterpriseValueRevenue" : 16.364, "enterpriseValueEbitda" : 26.704 }, "technicals" : { "beta" : 0.1149, "WeekHigh52" : 217.04, "WeekLow52" : 138.45, "DayMA50" : 202.5743, "DayMA200" : 183.2299, "sharesShort" : 4372947.0, "sharesShortPriorMonth" : 5024244.0, "shortRatio" : 2.82, "shortPercent" : 0.0114 }, "splitDividends" : { "forwardAnnualDividendRate" : 3.45, "forwardAnnualDividendYield" : 0.0161, "payoutRatio" : 1.0396 } }
+{ "_id" : "amg-advanced-metallurgical-group", "symbol" : "AMG", "exchange" : "MU" }
+{ "_id" : "american-cumo-mining-corporation", "symbol" : "MLY", "exchange" : "V" }
+{ "_id" : "americas-mining-corporation", "symbol" : "GMBXF", "exchange" : "PINK", "highlights" : { "EBITDA" : 4.001081088E9 } }
+{ "_id" : "amerisourcebergen-corporation", "symbol" : "ABC", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.8087831552E10, "EBITDA" : 2.276421888E9, "PERatio" : 20.0186, "PEGRatio" : 1.8, "wallStreetTargetPrice" : 87.67, "bookValue" : 13.899, "dividendShare" : 1.6, "dividendYield" : 0.0187, "earningsShare" : 4.299, "profitMargin" : 0.0053, "operatingMarginTTM" : 0.0099, "returnOnAssetsTTM" : 0.0281, "returnOnEquityTTM" : 0.2786, "revenueTTM" : 1.75151497216E11, "revenuePerShareTTM" : 817.54, "quarterlyRevenueGrowthYOY" : 0.056, "grossProfitTTM" : 4.576379E9, "dilutedEpsTTM" : 4.299, "quarterlyEarningsGrowthYOY" : 0.9 }, "valuation" : { "forwardPE" : 11.6929, "priceBookMRQ" : 6.1918, "enterpriseValueRevenue" : 0.113, "enterpriseValueEbitda" : 8.717 }, "technicals" : { "beta" : 1.2235, "WeekHigh52" : 94.85, "WeekLow52" : 69.36, "DayMA50" : 80.1654, "DayMA200" : 79.2756, "sharesShort" : 8233039.0, "sharesShortPriorMonth" : 7192639.0, "shortRatio" : 5.33, "shortPercent" : 0.0532 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.6, "forwardAnnualDividendYield" : 0.0187, "payoutRatio" : 0.3619 } }
+{ "_id" : "ametek-inc-ma", "symbol" : "AME", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.971052544E10, "EBITDA" : 1.330390016E9, "PERatio" : 25.0754, "PEGRatio" : 3.1, "wallStreetTargetPrice" : 94.67, "bookValue" : 19.56, "dividendShare" : 0.56, "dividendYield" : 0.0068, "earningsShare" : 3.45, "ePSEstimateCurrentYear" : 4.09, "ePSEstimateNextYear" : 4.34, "ePSEstimateNextQuarter" : 1.01, "profitMargin" : 0.1614, "operatingMarginTTM" : 0.2262, "returnOnAssetsTTM" : 0.0828, "returnOnEquityTTM" : 0.1849, "revenueTTM" : 4.960915968E9, "revenuePerShareTTM" : 21.587, "quarterlyRevenueGrowthYOY" : 0.098, "grossProfitTTM" : 1.659562E9, "dilutedEpsTTM" : 3.45, "quarterlyEarningsGrowthYOY" : 0.141 }, "valuation" : { "forwardPE" : 19.9332, "priceBookMRQ" : 4.4228, "enterpriseValueRevenue" : 4.366, "enterpriseValueEbitda" : 16.279 }, "technicals" : { "beta" : 1.2995, "WeekHigh52" : 88.76, "WeekLow52" : 63.14, "DayMA50" : 85.2914, "DayMA200" : 78.7248, "sharesShort" : 2397507.0, "sharesShortPriorMonth" : 3049860.0, "shortRatio" : 2.19, "shortPercent" : 0.0118 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.56, "forwardAnnualDividendYield" : 0.0068, "payoutRatio" : 0.1623 } }
+{ "_id" : "american-green", "symbol" : "ERBB", "exchange" : "PINK" }
+{ "_id" : "american-realty-investors", "symbol" : "ARL", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.10740864E8, "EBITDA" : 2.6816E7, "PERatio" : 1.269, "bookValue" : 15.899, "earningsShare" : 10.473, "profitMargin" : 1.6492, "operatingMarginTTM" : 0.0728, "returnOnAssetsTTM" : 0.0044, "returnOnEquityTTM" : 0.7332, "revenueTTM" : 1.01998E8, "revenuePerShareTTM" : 6.376, "quarterlyRevenueGrowthYOY" : 0.652, "grossProfitTTM" : 6.2882E7, "dilutedEpsTTM" : 10.473 }, "valuation" : { "priceBookMRQ" : 0.8359, "enterpriseValueRevenue" : 6.714, "enterpriseValueEbitda" : 25.538 }, "technicals" : { "beta" : 1.0946, "WeekHigh52" : 19.0, "WeekLow52" : 11.19, "DayMA50" : 12.7474, "DayMA200" : 12.8043, "sharesShort" : 51871.0, "sharesShortPriorMonth" : 59267.0, "shortRatio" : 27.86, "shortPercent" : 0.021 } }
+{ "_id" : "amerityre", "symbol" : "AMTY", "exchange" : "OTCQB" }
+{ "_id" : "american-helium", "symbol" : "AHELF", "exchange" : "OTCQB" }
+{ "_id" : "amex-exploration", "symbol" : "AMX", "exchange" : "V" }
+{ "_id" : "american-states-water-company", "symbol" : "AWR", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.723580672E9, "EBITDA" : 1.46988E8, "PERatio" : 41.6076, "PEGRatio" : 6.61, "wallStreetTargetPrice" : 61.0, "bookValue" : 15.26, "dividendShare" : 1.1, "dividendYield" : 0.0151, "earningsShare" : 1.779, "ePSEstimateCurrentYear" : 1.96, "ePSEstimateNextYear" : 2.1, "ePSEstimateNextQuarter" : 0.7, "profitMargin" : 0.1486, "operatingMarginTTM" : 0.2369, "returnOnAssetsTTM" : 0.0446, "returnOnEquityTTM" : 0.1207, "revenueTTM" : 4.43820992E8, "revenuePerShareTTM" : 12.077, "quarterlyRevenueGrowthYOY" : 0.074, "grossProfitTTM" : 2.26673E8, "dilutedEpsTTM" : 1.779, "quarterlyEarningsGrowthYOY" : 0.19 }, "valuation" : { "forwardPE" : 35.2476, "priceBookMRQ" : 4.8506, "enterpriseValueRevenue" : 7.088, "enterpriseValueEbitda" : 21.401 }, "technicals" : { "beta" : 0.1917, "WeekHigh52" : 76.43, "WeekLow52" : 57.13, "DayMA50" : 72.988, "DayMA200" : 69.5939, "sharesShort" : 1603929.0, "sharesShortPriorMonth" : 1822303.0, "shortRatio" : 9.68, "shortPercent" : 0.0604 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.1, "forwardAnnualDividendYield" : 0.0151, "payoutRatio" : 0.6067 } }
+{ "_id" : "aminex-usa-inc", "symbol" : "DOP", "exchange" : "IR", "highlights" : { "marketCapitalization" : 7.5936168E7 } }
+{ "_id" : "ammo-land-news", "symbol" : "POWW", "exchange" : "PINK" }
+{ "_id" : "amn-healthcare", "symbol" : "AMN", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.404644096E9, "EBITDA" : 2.4678E8, "PERatio" : 18.77, "wallStreetTargetPrice" : 62.44, "bookValue" : 13.955, "earningsShare" : 2.748, "ePSEstimateCurrentYear" : 2.92, "ePSEstimateNextYear" : 3.36, "ePSEstimateNextQuarter" : 0.69, "profitMargin" : 0.0621, "operatingMarginTTM" : 0.094, "returnOnAssetsTTM" : 0.0866, "returnOnEquityTTM" : 0.2132, "revenueTTM" : 2.146025984E9, "revenuePerShareTTM" : 45.531, "quarterlyRevenueGrowthYOY" : 0.019, "grossProfitTTM" : 6.96383E8, "dilutedEpsTTM" : 2.748, "quarterlyEarningsGrowthYOY" : 0.184 }, "valuation" : { "forwardPE" : 15.3512, "priceBookMRQ" : 3.6962, "enterpriseValueRevenue" : 1.385, "enterpriseValueEbitda" : 12.046 }, "technicals" : { "beta" : 1.1094, "WeekHigh52" : 65.81, "WeekLow52" : 45.04, "DayMA50" : 50.9566, "DayMA200" : 53.9682, "sharesShort" : 2290400.0, "sharesShortPriorMonth" : 2617521.0, "shortRatio" : 5.64, "shortPercent" : 0.0662 } }
+{ "_id" : "ameris-bank", "symbol" : "ABCB", "exchange" : "NASDAQ" }
+{ "_id" : "amerisafe", "symbol" : "AMSF", "exchange" : "NASDAQ" }
+{ "_id" : "amiad", "symbol" : "AFS", "exchange" : "LSE" }
+{ "_id" : "amerisur-resources", "symbol" : "AMER", "exchange" : "LSE" }
+{ "_id" : "amerigo-resources", "symbol" : "ARG", "exchange" : "TO" }
+{ "_id" : "aminex-plc", "symbol" : "DOP", "exchange" : "IR", "highlights" : { "marketCapitalization" : 4.1318616E7 }, "technicals" : { "WeekHigh52" : 0.035, "WeekLow52" : 0.011, "DayMA50" : 0.0138, "DayMA200" : 0.0159 } }
+{ "_id" : "amp-diversified-property-trust", "symbol" : "AMP", "exchange" : "NZ" }
+{ "_id" : "amorepacific-ventures", "symbol" : "9042", "exchange" : "TSE" }
+{ "_id" : "amkor-technology-malaysia-sdn-bhd", "symbol" : "AMK", "exchange" : "MU" }
+{ "_id" : "amkor-technology", "symbol" : "AMKR", "exchange" : "NASDAQ" }
+{ "_id" : "amgen", "symbol" : "AMGN", "exchange" : "MX" }
+{ "_id" : "amfil-technologies", "symbol" : "AMFE", "exchange" : "PINK" }
+{ "_id" : "ampere-computing", "symbol" : "APR", "exchange" : "MU" }
+{ "_id" : "amoeba", "symbol" : "AMEBA", "exchange" : "PA" }
+{ "_id" : "amicus-therapeutics", "symbol" : "FOLD", "exchange" : "NASDAQ" }
+{ "_id" : "ampco-pittsburgh-corporation", "symbol" : "AP", "exchange" : "NYSE" }
+{ "_id" : "amira-nature-foods-ltd-make-something-beautiful", "symbol" : "ANFI", "exchange" : "NYSE" }
+{ "_id" : "amneal-pharmaceuticals", "symbol" : "AMRX", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.029082752E9, "EBITDA" : 4.43327008E8, "wallStreetTargetPrice" : 14.82, "bookValue" : 3.692, "earningsShare" : 0.945, "ePSEstimateCurrentYear" : 0.96, "ePSEstimateNextYear" : 1.19, "ePSEstimateNextQuarter" : 0.27, "profitMargin" : 0.1468, "operatingMarginTTM" : 0.1284, "returnOnAssetsTTM" : 0.0512, "returnOnEquityTTM" : 1.7529, "revenueTTM" : 1.833922048E9, "revenuePerShareTTM" : 14.395, "quarterlyRevenueGrowthYOY" : 0.621, "grossProfitTTM" : 7.36811E8, "dilutedEpsTTM" : 0.945 }, "valuation" : { "forwardPE" : 5.7059, "priceBookMRQ" : 1.8391, "enterpriseValueRevenue" : 2.154, "enterpriseValueEbitda" : 8.912 }, "technicals" : { "WeekHigh52" : 24.48, "WeekLow52" : 6.55, "DayMA50" : 9.0449, "DayMA200" : 12.4929, "sharesShort" : 5748915.0, "sharesShortPriorMonth" : 6984555.0, "shortRatio" : 4.16, "shortPercent" : 0.1603 } }
+{ "_id" : "amphion-innovations", "symbol" : "AMP", "exchange" : "LSE" }
+{ "_id" : "amplifon-ltd", "symbol" : "AMFPF", "exchange" : "OTCGREY" }
+{ "_id" : "panasonic", "symbol" : "PCRFY", "exchange" : "PINK" }
+{ "_id" : "amphastar-pharmaceuticals", "symbol" : "AMPH", "exchange" : "NASDAQ" }
+{ "_id" : "ampliphi-biosciences", "symbol" : "APHB", "exchange" : "NYSE" }
+{ "_id" : "ams-ag", "symbol" : "AMS", "exchange" : "SW" }
+{ "_id" : "amphenol-tcs", "symbol" : "XPH", "exchange" : "F" }
+{ "_id" : "ampio-pharmaceuticals", "symbol" : "AMPE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.9231288E7, "EBITDA" : -8979451.0, "PERatio" : 8.0364, "wallStreetTargetPrice" : 14.0, "bookValue" : 0.004, "earningsShare" : 0.055, "returnOnAssetsTTM" : 0.4717, "dilutedEpsTTM" : 0.055 }, "valuation" : { "forwardPE" : 2.3263, "enterpriseValueEbitda" : 5.548 }, "technicals" : { "beta" : 2.0042, "WeekHigh52" : 3.2, "WeekLow52" : 0.35, "DayMA50" : 0.5491, "DayMA200" : 0.5481, "sharesShort" : 2.288378E7, "sharesShortPriorMonth" : 2.2382767E7, "shortRatio" : 69.61, "shortPercent" : 0.2532 } }
+{ "_id" : "amphenol-alden", "symbol" : "XPH", "exchange" : "MU" }
+{ "_id" : "amtrust-financial-group-inc", "symbol" : "AFSS", "exchange" : "NYSE" }
+{ "_id" : "amplitude-surgical", "symbol" : "AMPLI", "exchange" : "PA" }
+{ "_id" : "amtrust-financial-services", "symbol" : "AFSI", "exchange" : "NASDAQ" }
+{ "_id" : "analytixinsight", "symbol" : "ALY", "exchange" : "V" }
+{ "_id" : "smart-eye-ab", "symbol" : "SEYE", "exchange" : "NFN" }
+{ "_id" : "ampheno", "symbol" : "APH", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.8209262592E10, "EBITDA" : 2.028600064E9, "PERatio" : 24.3188, "PEGRatio" : 2.73, "wallStreetTargetPrice" : 107.73, "bookValue" : 13.836, "dividendShare" : 0.92, "dividendYield" : 0.0098, "earningsShare" : 3.883, "ePSEstimateCurrentYear" : 3.87, "ePSEstimateNextYear" : 4.27, "ePSEstimateNextQuarter" : 1.0, "profitMargin" : 0.1455, "operatingMarginTTM" : 0.2054, "returnOnAssetsTTM" : 0.1086, "returnOnEquityTTM" : 0.2995, "revenueTTM" : 8.293600256E9, "revenuePerShareTTM" : 27.664, "quarterlyRevenueGrowthYOY" : 0.049, "grossProfitTTM" : 2.6549E9, "dilutedEpsTTM" : 3.883, "quarterlyEarningsGrowthYOY" : 0.036 }, "valuation" : { "forwardPE" : 22.1148, "priceBookMRQ" : 6.8249, "enterpriseValueRevenue" : 3.727, "enterpriseValueEbitda" : 15.238 }, "technicals" : { "beta" : 1.0346, "WeekHigh52" : 105.51, "WeekLow52" : 74.95, "DayMA50" : 93.0923, "DayMA200" : 91.2335, "sharesShort" : 3193507.0, "sharesShortPriorMonth" : 3288634.0, "shortRatio" : 1.91, "shortPercent" : 0.0145 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.92, "forwardAnnualDividendYield" : 0.0098, "payoutRatio" : 0.2371 } }
+{ "_id" : "anapec", "symbol" : "3189", "exchange" : "TSE" }
+{ "_id" : "amrest", "symbol" : "EAT", "exchange" : "WAR" }
+{ "_id" : "amyris-biotechnologies", "symbol" : "AMRS", "exchange" : "NASDAQ" }
+{ "_id" : "analog-devices", "symbol" : "ADI", "exchange" : "NASDAQ" }
+{ "_id" : "anaptys-bio", "symbol" : "ANAB", "exchange" : "NASDAQ" }
+{ "_id" : "amtech-systems", "symbol" : "ASYS", "exchange" : "NASDAQ" }
+{ "_id" : "anaplan", "symbol" : "PLAN", "exchange" : "NYSE" }
+{ "_id" : "anant-raj-industries", "symbol" : "ANANTRAJ", "exchange" : "NSE" }
+{ "_id" : "anavex", "symbol" : "AVXL", "exchange" : "NASDAQ" }
+{ "_id" : "amrep-corporation", "symbol" : "AXR", "exchange" : "NYSE" }
+{ "_id" : "samsung-sds", "symbol" : "1824", "exchange" : "TSE" }
+{ "_id" : "anaconda-mining", "symbol" : "ANX", "exchange" : "TO" }
+{ "_id" : "amsc", "symbol" : "AMSC", "exchange" : "NASDAQ" }
+{ "_id" : "and-automotive-navigation-data", "symbol" : "AND", "exchange" : "AS" }
+{ "_id" : "anacomp-inc", "symbol" : "ANMP", "exchange" : "PINK" }
+{ "_id" : "andhra-bank-financial-services-ltd", "symbol" : "ANDHRABANK", "exchange" : "NSE" }
+{ "_id" : "amur-minerals", "symbol" : "AMC", "exchange" : "LSE" }
+{ "_id" : "andrews-sykes-group", "symbol" : "ASY", "exchange" : "LSE" }
+{ "_id" : "andritz-china-ltd", "symbol" : "ANDR", "exchange" : "VI", "highlights" : { "marketCapitalization" : 3.433218048E9 }, "technicals" : { "WeekHigh52" : 53.5, "WeekLow52" : 33.3, "DayMA50" : 39.8533, "DayMA200" : 41.5794 } }
+{ "_id" : "anchor-blue-retail-group-inc", "symbol" : "SU5", "exchange" : "F" }
+{ "_id" : "anatara-lifesciences", "symbol" : "ANR", "exchange" : "AU" }
+{ "_id" : "andalas-energy-and-power", "symbol" : "ADL", "exchange" : "LSE" }
+{ "_id" : "angel-seafood-holdings", "symbol" : "AS1", "exchange" : "AU" }
+{ "_id" : "andritz", "symbol" : "ANDR", "exchange" : "VI", "highlights" : { "marketCapitalization" : 4.045138688E9 } }
+{ "_id" : "angelant-technologies", "symbol" : "A", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 2.295689216E10, "EBITDA" : 1.216999936E9, "PERatio" : 21.1008, "PEGRatio" : 2.67, "wallStreetTargetPrice" : 83.69, "bookValue" : 16.153, "dividendShare" : 0.66, "dividendYield" : 0.0091, "earningsShare" : 3.443, "profitMargin" : 0.2225, "operatingMarginTTM" : 0.1994, "returnOnAssetsTTM" : 0.0703, "returnOnEquityTTM" : 0.2293, "revenueTTM" : 5.018999808E9, "revenuePerShareTTM" : 15.758, "quarterlyRevenueGrowthYOY" : 0.027, "grossProfitTTM" : 2.687E9, "dilutedEpsTTM" : 3.443, "quarterlyEarningsGrowthYOY" : 0.095 }, "valuation" : { "forwardPE" : 21.3676, "priceBookMRQ" : 4.4976, "enterpriseValueRevenue" : 4.456, "enterpriseValueEbitda" : 18.378 }, "technicals" : { "beta" : 1.3279, "WeekHigh52" : 82.27, "WeekLow52" : 60.42, "DayMA50" : 71.4514, "DayMA200" : 74.1957, "sharesShort" : 4945756.0, "sharesShortPriorMonth" : 3240487.0, "shortRatio" : 1.44, "shortPercent" : 0.0156 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.66, "forwardAnnualDividendYield" : 0.0091, "payoutRatio" : 0.1809 } }
+{ "_id" : "amuse-entertainment", "symbol" : "4301", "exchange" : "TSE" }
+{ "_id" : "anconia-resources", "symbol" : "ARA", "exchange" : "V" }
+{ "_id" : "anglo-african-oil-gas", "symbol" : "AAOG", "exchange" : "LSE" }
+{ "_id" : "ani-pharmaceuticals", "symbol" : "ANIP", "exchange" : "NASDAQ" }
+{ "_id" : "anevia", "symbol" : "ALANV", "exchange" : "PA" }
+{ "_id" : "angle-plc", "symbol" : "AGL", "exchange" : "LSE" }
+{ "_id" : "angus-energy", "symbol" : "ANGS", "exchange" : "LSE" }
+{ "_id" : "andatee-china-marine-fuel-services-corporation", "symbol" : "AMCF", "exchange" : "PINK" }
+{ "_id" : "andiamo-inc", "symbol" : "ANDI", "exchange" : "PINK" }
+{ "_id" : "anest-iwata-air-engineering-inc", "symbol" : "6381", "exchange" : "TSE" }
+{ "_id" : "angi-homeservices", "symbol" : "ANGI", "exchange" : "NASDAQ" }
+{ "_id" : "angel-telecom", "symbol" : "AGLT", "exchange" : "PINK" }
+{ "_id" : "anglogold-ashanti", "symbol" : "AU", "exchange" : "NYSE" }
+{ "_id" : "angkor-gold", "symbol" : "ANK", "exchange" : "V" }
+{ "_id" : "anglesey-mining", "symbol" : "AYM", "exchange" : "LSE" }
+{ "_id" : "angel-gold", "symbol" : "ANG", "exchange" : "V" }
+{ "_id" : "animalcare-group-plc", "symbol" : "ANCR", "exchange" : "LSE" }
+{ "_id" : "angstrom-technologies", "symbol" : "AGTT", "exchange" : "OTCMKTS" }
+{ "_id" : "angling-direct-plc", "symbol" : "ANG", "exchange" : "LSE" }
+{ "_id" : "anr", "symbol" : "ANDD", "exchange" : "PINK" }
+{ "_id" : "anritsu", "symbol" : "6754", "exchange" : "TSE" }
+{ "_id" : "ansal-properties-and-infrastructure", "symbol" : "ANSALAPI", "exchange" : "NSE" }
+{ "_id" : "anoto-ab", "symbol" : "ANOT", "exchange" : "ST" }
+{ "_id" : "anglo-eastern-plantations", "symbol" : "AEP", "exchange" : "LSE" }
+{ "_id" : "anika-therapeutics", "symbol" : "ANIK", "exchange" : "NASDAQ" }
+{ "_id" : "ansal-housing", "symbol" : "ANSALHSG", "exchange" : "NSE" }
+{ "_id" : "ansell-healthcare", "symbol" : "ANN", "exchange" : "AU" }
+{ "_id" : "anglo-american-platinum", "symbol" : "AMS", "exchange" : "JSE" }
+{ "_id" : "anglo-asian-mining", "symbol" : "AAZ", "exchange" : "LSE" }
+{ "_id" : "angiodynamics", "symbol" : "ANGO", "exchange" : "NASDAQ" }
+{ "_id" : "ansaldo-sts-france-sas", "symbol" : "W9X", "exchange" : "BE" }
+{ "_id" : "anglo-american-australia-limited", "symbol" : "AAL", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 2.9808775168E10, "EBITDA" : 7.782000128E9, "PERatio" : 7.7427, "PEGRatio" : 23.51, "wallStreetTargetPrice" : 24.5, "bookValue" : 18.629, "dividendShare" : 0.77, "dividendYield" : 0.0405, "earningsShare" : 274.0, "profitMargin" : 0.1285, "operatingMarginTTM" : 0.1878, "returnOnAssetsTTM" : 0.0607, "returnOnEquityTTM" : 0.149, "revenueTTM" : 2.760999936E10, "revenuePerShareTTM" : 21.757, "quarterlyRevenueGrowthYOY" : 0.015, "grossProfitTTM" : 1.4051E10, "dilutedEpsTTM" : 274.0, "quarterlyEarningsGrowthYOY" : 0.278 }, "valuation" : { "forwardPE" : 8.6947, "priceBookMRQ" : 113.8816, "enterpriseValueRevenue" : 1.284, "enterpriseValueEbitda" : 4.555 }, "technicals" : { "beta" : 0.8589, "WeekHigh52" : 2229.5, "WeekLow52" : 1433.8, "DayMA50" : 1964.9055, "DayMA200" : 1930.8599 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.77, "forwardAnnualDividendYield" : 0.0405, "payoutRatio" : 0.3777 } }
+{ "_id" : "animoca-brands-corporation", "symbol" : "AB1", "exchange" : "AU" }
+{ "_id" : "anixter-chile-s-a", "symbol" : "AXE", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.953370368E9, "EBITDA" : 4.047E8, "PERatio" : 12.1339, "PEGRatio" : 1.64, "wallStreetTargetPrice" : 76.0, "bookValue" : 47.567, "earningsShare" : 4.78, "ePSEstimateCurrentYear" : 6.25, "ePSEstimateNextYear" : 6.73, "ePSEstimateNextQuarter" : 1.65, "profitMargin" : 0.0191, "operatingMarginTTM" : 0.0399, "returnOnAssetsTTM" : 0.0466, "returnOnEquityTTM" : 0.1049, "revenueTTM" : 8.544500224E9, "revenuePerShareTTM" : 252.422, "quarterlyRevenueGrowthYOY" : 0.073, "grossProfitTTM" : 1.658E9, "dilutedEpsTTM" : 4.78, "quarterlyEarningsGrowthYOY" : 0.213 }, "valuation" : { "forwardPE" : 8.6181, "priceBookMRQ" : 1.2193, "enterpriseValueRevenue" : 0.406, "enterpriseValueEbitda" : 8.579 }, "technicals" : { "beta" : 1.699, "WeekHigh52" : 75.0, "WeekLow52" : 50.05, "DayMA50" : 57.9829, "DayMA200" : 58.3796, "sharesShort" : 514587.0, "sharesShortPriorMonth" : 457841.0, "shortRatio" : 3.35, "shortPercent" : 0.02 } }
+{ "_id" : "anglo-african-agriculture", "symbol" : "AAAP", "exchange" : "LSE" }
+{ "_id" : "anglo-pacific-group", "symbol" : "APF", "exchange" : "LSE" }
+{ "_id" : "annaly-capital-management", "symbol" : "NLY", "exchange" : "NYSE" }
+{ "_id" : "ansys-japan-k-k", "symbol" : "ANSS", "exchange" : "NASDAQ" }
+{ "_id" : "anpario-plc", "symbol" : "KI9A", "exchange" : "BE" }
+{ "_id" : "antriabio", "symbol" : "RZLT", "exchange" : "OTCQB" }
+{ "_id" : "anuntis", "symbol" : "XPG", "exchange" : "BE" }
+{ "_id" : "anything-technologies-media", "symbol" : "EXMT", "exchange" : "PINK" }
+{ "_id" : "anthera-pharmaceuticals", "symbol" : "ANTH", "exchange" : "PINK" }
+{ "_id" : "antena-3-juegos-s-a", "symbol" : "6073", "exchange" : "TSE" }
+{ "_id" : "aozora-bank-ltd", "symbol" : "8304", "exchange" : "TSE" }
+{ "_id" : "antevenio", "symbol" : "ALANT", "exchange" : "PA" }
+{ "_id" : "antofagasta", "symbol" : "ANTO", "exchange" : "LSE", "highlights" : { "marketCapitalization" : 8.880600064E9, "EBITDA" : 2.0928E9, "PERatio" : 16.3485, "wallStreetTargetPrice" : 11.28, "bookValue" : 7.465, "dividendShare" : 0.34, "dividendYield" : 0.0429, "earningsShare" : 55.1, "profitMargin" : 0.1149, "operatingMarginTTM" : 0.2815, "returnOnAssetsTTM" : 0.0588, "returnOnEquityTTM" : 0.0892, "revenueTTM" : 4.733100032E9, "revenuePerShareTTM" : 4.801, "quarterlyRevenueGrowthYOY" : 0.033, "grossProfitTTM" : 1.9067E9, "dilutedEpsTTM" : 55.1, "quarterlyEarningsGrowthYOY" : 0.241 }, "valuation" : { "forwardPE" : 12.0107, "priceBookMRQ" : 120.6698, "enterpriseValueRevenue" : 2.356, "enterpriseValueEbitda" : 5.329 }, "technicals" : { "beta" : 1.1086, "WeekHigh52" : 1036.5, "WeekLow52" : 713.2, "DayMA50" : 832.5029, "DayMA200" : 871.9645 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.34, "forwardAnnualDividendYield" : 0.0429, "payoutRatio" : 0.1317 } }
+{ "_id" : "antalis-international-sas", "symbol" : "ANTA", "exchange" : "PA" }
+{ "_id" : "antero-midstream-partners", "symbol" : "AM", "exchange" : "NYSE" }
+{ "_id" : "anworth-mortgage-asset-corporation", "symbol" : "ANH", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.76824672E8, "PEGRatio" : 2.95, "wallStreetTargetPrice" : 4.0, "bookValue" : 4.788, "dividendShare" : 0.52, "dividendYield" : 0.1372, "earningsShare" : 0.34, "ePSEstimateCurrentYear" : 0.43, "ePSEstimateNextYear" : 0.48, "ePSEstimateNextQuarter" : 0.11, "operatingMarginTTM" : 2.2874, "returnOnAssetsTTM" : 0.0043, "returnOnEquityTTM" : 0.0378, "revenueTTM" : 1.0343E7, "revenuePerShareTTM" : 0.105, "grossProfitTTM" : 6961000.0, "dilutedEpsTTM" : 0.34 }, "valuation" : { "forwardPE" : 7.9583, "priceBookMRQ" : 0.7978, "enterpriseValueRevenue" : 481.434 }, "technicals" : { "beta" : 0.6272, "WeekHigh52" : 5.23, "WeekLow52" : 3.77, "DayMA50" : 4.024, "DayMA200" : 4.2152, "sharesShort" : 1735062.0, "sharesShortPriorMonth" : 1760199.0, "shortRatio" : 4.82, "shortPercent" : 0.02 }, "splitDividends" : { "forwardAnnualDividendRate" : 0.52, "forwardAnnualDividendYield" : 0.1372 } }
+{ "_id" : "apc-aviation-inc", "symbol" : "APC", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 3.5117760512E10, "EBITDA" : 7.552999936E9, "PERatio" : 73.579, "PEGRatio" : 2.21, "wallStreetTargetPrice" : 71.11, "bookValue" : 18.209, "dividendShare" : 1.2, "dividendYield" : 0.0172, "earningsShare" : 0.95, "ePSEstimateCurrentYear" : 2.42, "ePSEstimateNextYear" : 2.82, "ePSEstimateNextQuarter" : 0.72, "profitMargin" : 0.0368, "operatingMarginTTM" : 0.1896, "returnOnAssetsTTM" : 0.0371, "returnOnEquityTTM" : 0.0605, "revenueTTM" : 1.3006000128E10, "revenuePerShareTTM" : 26.169, "quarterlyRevenueGrowthYOY" : 0.033, "grossProfitTTM" : 9.166E9, "dilutedEpsTTM" : 0.95 }, "valuation" : { "forwardPE" : 24.7872, "priceBookMRQ" : 3.8388, "enterpriseValueRevenue" : 4.184, "enterpriseValueEbitda" : 7.205 }, "technicals" : { "beta" : 1.7465, "WeekHigh52" : 76.7, "WeekLow52" : 40.4, "DayMA50" : 71.8131, "DayMA200" : 54.4096, "sharesShort" : 1.8099302E7, "sharesShortPriorMonth" : 1.55371E7, "shortRatio" : 1.28, "shortPercent" : 0.0361 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.2, "forwardAnnualDividendYield" : 0.0172, "payoutRatio" : 1.1702 } }
+{ "_id" : "apa-group", "symbol" : "APA", "exchange" : "AU" }
+{ "_id" : "antibe-therapeutics", "symbol" : "ATE", "exchange" : "V" }
+{ "_id" : "aopen-computer-bv", "symbol" : "3046", "exchange" : "TW" }
+{ "_id" : "ao-retail-limited", "symbol" : "AO", "exchange" : "LSE" }
+{ "_id" : "antero-resources", "symbol" : "AR", "exchange" : "NYSE" }
+{ "_id" : "apcotex-industries", "symbol" : "APCOTEXIND", "exchange" : "NSE" }
+{ "_id" : "antler-gold", "symbol" : "ANTL", "exchange" : "V" }
+{ "_id" : "aortech-international", "symbol" : "AOR", "exchange" : "LSE" }
+{ "_id" : "apache-corp", "symbol" : "APA", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 1.0758858752E10, "EBITDA" : 4.559000064E9, "PEGRatio" : 43.97, "wallStreetTargetPrice" : 36.6, "bookValue" : 18.592, "dividendShare" : 1.0, "dividendYield" : 0.0349, "earningsShare" : 0.399, "ePSEstimateCurrentYear" : 1.01, "ePSEstimateNextYear" : 1.69, "ePSEstimateNextQuarter" : 0.22, "profitMargin" : 0.0213, "operatingMarginTTM" : 0.1952, "returnOnAssetsTTM" : 0.04, "returnOnEquityTTM" : 0.0089, "revenueTTM" : 7.139999744E9, "revenuePerShareTTM" : 18.765, "quarterlyRevenueGrowthYOY" : 0.044, "grossProfitTTM" : 5.628E9, "dilutedEpsTTM" : 0.399 }, "valuation" : { "forwardPE" : 16.9349, "priceBookMRQ" : 1.5394, "enterpriseValueRevenue" : 2.938, "enterpriseValueEbitda" : 4.601 }, "technicals" : { "beta" : 2.0381, "WeekHigh52" : 50.03, "WeekLow52" : 24.56, "DayMA50" : 29.2377, "DayMA200" : 31.7521, "sharesShort" : 2.4861849E7, "sharesShortPriorMonth" : 2.4120409E7, "shortRatio" : 5.55, "shortPercent" : 0.0882 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.0, "forwardAnnualDividendYield" : 0.0349 } }
+{ "_id" : "apellis-pharmaceuticals", "symbol" : "APLS", "exchange" : "NASDAQ" }
+{ "_id" : "apergy-com", "symbol" : "APY", "exchange" : "NYSE" }
+{ "_id" : "apc-technology-group-plc", "symbol" : "APC", "exchange" : "LSE" }
+{ "_id" : "aon-corporation", "symbol" : "AON", "exchange" : "NYSE MKT", "highlights" : { "marketCapitalization" : 4.6180225024E10, "EBITDA" : 2.952E9, "PERatio" : 39.3362, "PEGRatio" : 1.68, "wallStreetTargetPrice" : 189.41, "bookValue" : 19.822, "dividendShare" : 1.76, "dividendYield" : 0.0093, "earningsShare" : 4.881, "ePSEstimateCurrentYear" : 9.15, "ePSEstimateNextYear" : 10.3, "ePSEstimateNextQuarter" : 1.45, "profitMargin" : 0.1108, "operatingMarginTTM" : 0.2244, "returnOnAssetsTTM" : 0.0533, "returnOnEquityTTM" : 0.2288, "revenueTTM" : 1.0823000064E10, "revenuePerShareTTM" : 44.425, "quarterlyRevenueGrowthYOY" : 0.017, "grossProfitTTM" : 4.783E9, "dilutedEpsTTM" : 4.881, "quarterlyEarningsGrowthYOY" : 0.137 }, "valuation" : { "forwardPE" : 18.6408, "priceBookMRQ" : 9.6862, "enterpriseValueRevenue" : 4.885, "enterpriseValueEbitda" : 17.911 }, "technicals" : { "beta" : 0.6883, "WeekHigh52" : 192.79, "WeekLow52" : 134.82, "DayMA50" : 182.0403, "DayMA200" : 167.6964, "sharesShort" : 1698273.0, "sharesShortPriorMonth" : 1623384.0, "shortRatio" : 1.83, "shortPercent" : 0.0071 }, "splitDividends" : { "forwardAnnualDividendRate" : 1.76, "forwardAnnualDividendYield" : 0.0093, "payoutRatio" : 0.3448 } }
+{ "_id" : "ap-alternative-assets", "symbol" : "AAA", "exchange" : "AS" }
+{ "_id" : "antares-pharma", "symbol" : "ATRS", "exchange" : "NASDAQ" }
+{ "_id" : "apex-frozen-foods", "symbol" : "APEX", "exchange" : "NSE" }
+{ "_id" : "apollo-global-management-llc", "symbol" : "APO", "exchange" : "NYSE" }
+{ "_id" : "apn-online-new-zealand-limited", "symbol" : "NZM", "exchange" : "AU" }
+{ "_id" : "aperam-south-america-s-a", "symbol" : "APEMY", "exchange" : "PINK" }
+{ "_id" : "apiam-animal-health", "symbol" : "AHX", "exchange" : "AU" }
+{ "_id" : "apollo-tyres", "symbol" : "500877", "exchange" : "BSE" }
+{ "_id" : "apex-resources", "symbol" : "APX", "exchange" : "V" }
+{ "_id" : "apis-india-limited", "symbol" : "506166", "exchange" : "BSE" }
+{ "_id" : "apollo-micro-systems", "symbol" : "APOLLO", "exchange" : "NSE" }
+{ "_id" : "aphria", "symbol" : "APH", "exchange" : "TO" }
